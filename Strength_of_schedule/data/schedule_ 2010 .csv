@@ -1,0 +1,1231 @@
+"away","home","a.sc","h.sc","date","dateR","yet_to_play","away_bb","home_bb","year"
+"Boston Celtics","Cleveland Cavaliers",95,89,"Tue, Oct 27, 2009",2009-10-27,0,0,0,2010
+"Washington Wizards","Dallas Mavericks",102,91,"Tue, Oct 27, 2009",2009-10-27,0,0,0,2010
+"Los Angeles Clippers","Los Angeles Lakers",92,99,"Tue, Oct 27, 2009",2009-10-27,0,0,0,2010
+"Houston Rockets","Portland Trail Blazers",87,96,"Tue, Oct 27, 2009",2009-10-27,0,0,0,2010
+"Indiana Pacers","Atlanta Hawks",109,120,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"Charlotte Bobcats","Boston Celtics",59,92,"Wed, Oct 28, 2009",2009-10-28,0,0,1,2010
+"Utah Jazz","Denver Nuggets",105,114,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"Houston Rockets","Golden State Warriors",108,107,"Wed, Oct 28, 2009",2009-10-28,0,1,0,2010
+"Phoenix Suns","Los Angeles Clippers",109,107,"Wed, Oct 28, 2009",2009-10-28,0,0,1,2010
+"Detroit Pistons","Memphis Grizzlies",96,74,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"New York Knicks","Miami Heat",93,115,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"New Jersey Nets","Minnesota Timberwolves",93,95,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"Sacramento Kings","Oklahoma City Thunder",89,102,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"Philadelphia 76ers","Orlando Magic",106,120,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"New Orleans Hornets","San Antonio Spurs",96,113,"Wed, Oct 28, 2009",2009-10-28,0,0,0,2010
+"Cleveland Cavaliers","Toronto Raptors",91,101,"Wed, Oct 28, 2009",2009-10-28,0,1,0,2010
+"San Antonio Spurs","Chicago Bulls",85,92,"Thu, Oct 29, 2009",2009-10-29,0,1,0,2010
+"Denver Nuggets","Portland Trail Blazers",97,94,"Thu, Oct 29, 2009",2009-10-29,0,1,0,2010
+"Washington Wizards","Atlanta Hawks",89,100,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Chicago Bulls","Boston Celtics",90,118,"Fri, Oct 30, 2009",2009-10-30,0,1,0,2010
+"New York Knicks","Charlotte Bobcats",100,102,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Oklahoma City Thunder","Detroit Pistons",91,83,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Miami Heat","Indiana Pacers",96,83,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Dallas Mavericks","Los Angeles Lakers",94,80,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Toronto Raptors","Memphis Grizzlies",107,115,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Cleveland Cavaliers","Minnesota Timberwolves",104,87,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Orlando Magic","New Jersey Nets",95,85,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Sacramento Kings","New Orleans Hornets",92,97,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Milwaukee Bucks","Philadelphia 76ers",86,99,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Golden State Warriors","Phoenix Suns",101,123,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Los Angeles Clippers","Utah Jazz",98,111,"Fri, Oct 30, 2009",2009-10-30,0,0,0,2010
+"Charlotte Bobcats","Cleveland Cavaliers",79,90,"Sat, Oct 31, 2009",2009-10-31,0,1,1,2010
+"Portland Trail Blazers","Houston Rockets",107,111,"Sat, Oct 31, 2009",2009-10-31,0,0,0,2010
+"Dallas Mavericks","Los Angeles Clippers",93,84,"Sat, Oct 31, 2009",2009-10-31,0,1,1,2010
+"Detroit Pistons","Milwaukee Bucks",85,96,"Sat, Oct 31, 2009",2009-10-31,0,1,1,2010
+"Philadelphia 76ers","New York Knicks",141,127,"Sat, Oct 31, 2009",2009-10-31,0,1,1,2010
+"Sacramento Kings","San Antonio Spurs",94,113,"Sat, Oct 31, 2009",2009-10-31,0,1,0,2010
+"New Jersey Nets","Washington Wizards",104,123,"Sat, Oct 31, 2009",2009-10-31,0,1,1,2010
+"New Orleans Hornets","Boston Celtics",87,97,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"Memphis Grizzlies","Denver Nuggets",123,133,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"Atlanta Hawks","Los Angeles Lakers",110,118,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"Chicago Bulls","Miami Heat",87,95,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"Portland Trail Blazers","Oklahoma City Thunder",83,74,"Sun, Nov 1, 2009",2009-11-01,0,1,0,2010
+"Minnesota Timberwolves","Phoenix Suns",112,120,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"Orlando Magic","Toronto Raptors",125,116,"Sun, Nov 1, 2009",2009-11-01,0,0,0,2010
+"New Jersey Nets","Charlotte Bobcats",68,79,"Mon, Nov 2, 2009",2009-11-02,0,0,0,2010
+"Minnesota Timberwolves","Los Angeles Clippers",90,93,"Mon, Nov 2, 2009",2009-11-02,0,1,0,2010
+"New Orleans Hornets","New York Knicks",111,117,"Mon, Nov 2, 2009",2009-11-02,0,1,0,2010
+"Memphis Grizzlies","Sacramento Kings",116,127,"Mon, Nov 2, 2009",2009-11-02,0,1,0,2010
+"Houston Rockets","Utah Jazz",113,96,"Mon, Nov 2, 2009",2009-11-02,0,0,0,2010
+"Milwaukee Bucks","Chicago Bulls",81,83,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Washington Wizards","Cleveland Cavaliers",90,102,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Utah Jazz","Dallas Mavericks",85,96,"Tue, Nov 3, 2009",2009-11-03,0,1,0,2010
+"Orlando Magic","Detroit Pistons",80,85,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Denver Nuggets","Indiana Pacers",111,93,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Phoenix Suns","Miami Heat",104,96,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Los Angeles Lakers","Oklahoma City Thunder",101,98,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Boston Celtics","Philadelphia 76ers",105,74,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Atlanta Hawks","Portland Trail Blazers",97,91,"Tue, Nov 3, 2009",2009-11-03,0,0,0,2010
+"Memphis Grizzlies","Golden State Warriors",105,113,"Wed, Nov 4, 2009",2009-11-04,0,0,0,2010
+"Los Angeles Lakers","Houston Rockets",103,102,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Boston Celtics","Minnesota Timberwolves",92,90,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Denver Nuggets","New Jersey Nets",122,94,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Dallas Mavericks","New Orleans Hornets",107,114,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Indiana Pacers","New York Knicks",101,89,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Phoenix Suns","Orlando Magic",100,122,"Wed, Nov 4, 2009",2009-11-04,0,1,1,2010
+"Atlanta Hawks","Sacramento Kings",113,105,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Detroit Pistons","Toronto Raptors",99,110,"Wed, Nov 4, 2009",2009-11-04,0,1,0,2010
+"Miami Heat","Washington Wizards",93,89,"Wed, Nov 4, 2009",2009-11-04,0,1,1,2010
+"Chicago Bulls","Cleveland Cavaliers",86,85,"Thu, Nov 5, 2009",2009-11-05,0,0,0,2010
+"San Antonio Spurs","Utah Jazz",99,113,"Thu, Nov 5, 2009",2009-11-05,0,0,0,2010
+"Phoenix Suns","Boston Celtics",110,103,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Atlanta Hawks","Charlotte Bobcats",83,103,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Los Angeles Clippers","Golden State Warriors",118,90,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Oklahoma City Thunder","Houston Rockets",94,105,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Washington Wizards","Indiana Pacers",86,102,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Memphis Grizzlies","Los Angeles Lakers",98,114,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Denver Nuggets","Miami Heat",88,96,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Milwaukee Bucks","Minnesota Timberwolves",87,72,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Toronto Raptors","New Orleans Hornets",107,90,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"Cleveland Cavaliers","New York Knicks",100,91,"Fri, Nov 6, 2009",2009-11-06,0,1,0,2010
+"Detroit Pistons","Orlando Magic",103,110,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"New Jersey Nets","Philadelphia 76ers",94,97,"Fri, Nov 6, 2009",2009-11-06,0,0,0,2010
+"San Antonio Spurs","Portland Trail Blazers",84,96,"Fri, Nov 6, 2009",2009-11-06,0,1,0,2010
+"Denver Nuggets","Atlanta Hawks",100,125,"Sat, Nov 7, 2009",2009-11-07,0,1,1,2010
+"Charlotte Bobcats","Chicago Bulls",90,93,"Sat, Nov 7, 2009",2009-11-07,0,1,0,2010
+"Toronto Raptors","Dallas Mavericks",101,129,"Sat, Nov 7, 2009",2009-11-07,0,1,0,2010
+"Memphis Grizzlies","Los Angeles Clippers",110,113,"Sat, Nov 7, 2009",2009-11-07,0,1,1,2010
+"New York Knicks","Milwaukee Bucks",87,102,"Sat, Nov 7, 2009",2009-11-07,0,1,1,2010
+"Boston Celtics","New Jersey Nets",86,76,"Sat, Nov 7, 2009",2009-11-07,0,1,1,2010
+"Sacramento Kings","Utah Jazz",104,99,"Sat, Nov 7, 2009",2009-11-07,0,0,0,2010
+"Philadelphia 76ers","Detroit Pistons",81,88,"Sun, Nov 8, 2009",2009-11-08,0,0,0,2010
+"New Orleans Hornets","Los Angeles Lakers",88,104,"Sun, Nov 8, 2009",2009-11-08,0,0,0,2010
+"Orlando Magic","Oklahoma City Thunder",74,102,"Sun, Nov 8, 2009",2009-11-08,0,0,0,2010
+"Minnesota Timberwolves","Portland Trail Blazers",93,116,"Sun, Nov 8, 2009",2009-11-08,0,0,0,2010
+"Golden State Warriors","Sacramento Kings",107,120,"Sun, Nov 8, 2009",2009-11-08,0,0,1,2010
+"Phoenix Suns","Washington Wizards",102,90,"Sun, Nov 8, 2009",2009-11-08,0,0,0,2010
+"Minnesota Timberwolves","Golden State Warriors",105,146,"Mon, Nov 9, 2009",2009-11-09,0,1,1,2010
+"New Orleans Hornets","Los Angeles Clippers",112,84,"Mon, Nov 9, 2009",2009-11-09,0,1,0,2010
+"Utah Jazz","New York Knicks",95,93,"Mon, Nov 9, 2009",2009-11-09,0,0,0,2010
+"Phoenix Suns","Philadelphia 76ers",119,115,"Mon, Nov 9, 2009",2009-11-09,0,1,1,2010
+"Toronto Raptors","San Antonio Spurs",124,131,"Mon, Nov 9, 2009",2009-11-09,0,0,0,2010
+"Orlando Magic","Charlotte Bobcats",93,81,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Denver Nuggets","Chicago Bulls",90,89,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Houston Rockets","Dallas Mavericks",103,121,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Portland Trail Blazers","Memphis Grizzlies",93,79,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Washington Wizards","Miami Heat",76,90,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Oklahoma City Thunder","Sacramento Kings",98,101,"Tue, Nov 10, 2009",2009-11-10,0,0,0,2010
+"Utah Jazz","Boston Celtics",86,105,"Wed, Nov 11, 2009",2009-11-11,0,0,0,2010
+"Charlotte Bobcats","Detroit Pistons",75,98,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Memphis Grizzlies","Houston Rockets",79,104,"Wed, Nov 11, 2009",2009-11-11,0,1,1,2010
+"Golden State Warriors","Indiana Pacers",94,108,"Wed, Nov 11, 2009",2009-11-11,0,0,0,2010
+"Oklahoma City Thunder","Los Angeles Clippers",83,79,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Denver Nuggets","Milwaukee Bucks",102,108,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Portland Trail Blazers","Minnesota Timberwolves",107,84,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Philadelphia 76ers","New Jersey Nets",82,79,"Wed, Nov 11, 2009",2009-11-11,0,0,0,2010
+"Atlanta Hawks","New York Knicks",114,101,"Wed, Nov 11, 2009",2009-11-11,0,0,0,2010
+"Cleveland Cavaliers","Orlando Magic",102,93,"Wed, Nov 11, 2009",2009-11-11,0,0,1,2010
+"New Orleans Hornets","Phoenix Suns",104,124,"Wed, Nov 11, 2009",2009-11-11,0,0,0,2010
+"Dallas Mavericks","San Antonio Spurs",83,92,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Chicago Bulls","Toronto Raptors",89,99,"Wed, Nov 11, 2009",2009-11-11,0,1,0,2010
+"Phoenix Suns","Los Angeles Lakers",102,121,"Thu, Nov 12, 2009",2009-11-12,0,1,0,2010
+"Cleveland Cavaliers","Miami Heat",111,104,"Thu, Nov 12, 2009",2009-11-12,0,1,0,2010
+"Atlanta Hawks","Boston Celtics",97,86,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Los Angeles Lakers","Denver Nuggets",79,105,"Fri, Nov 13, 2009",2009-11-13,0,1,0,2010
+"Toronto Raptors","Los Angeles Clippers",104,89,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Dallas Mavericks","Minnesota Timberwolves",89,77,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Portland Trail Blazers","New Orleans Hornets",86,78,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Golden State Warriors","New York Knicks",121,107,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"New Jersey Nets","Orlando Magic",72,88,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Utah Jazz","Philadelphia 76ers",112,90,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"Houston Rockets","Sacramento Kings",100,109,"Fri, Nov 13, 2009",2009-11-13,0,0,0,2010
+"New Orleans Hornets","Atlanta Hawks",98,121,"Sat, Nov 14, 2009",2009-11-14,0,1,1,2010
+"Portland Trail Blazers","Charlotte Bobcats",80,74,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Philadelphia 76ers","Chicago Bulls",88,94,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Utah Jazz","Cleveland Cavaliers",103,107,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Boston Celtics","Indiana Pacers",104,113,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Minnesota Timberwolves","Memphis Grizzlies",87,97,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"New Jersey Nets","Miami Heat",80,81,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Golden State Warriors","Milwaukee Bucks",125,129,"Sat, Nov 14, 2009",2009-11-14,0,1,0,2010
+"Oklahoma City Thunder","San Antonio Spurs",101,98,"Sat, Nov 14, 2009",2009-11-14,0,0,0,2010
+"Detroit Pistons","Washington Wizards",106,103,"Sat, Nov 14, 2009",2009-11-14,0,0,0,2010
+"Dallas Mavericks","Detroit Pistons",95,90,"Sun, Nov 15, 2009",2009-11-15,0,0,1,2010
+"Houston Rockets","Los Angeles Lakers",101,91,"Sun, Nov 15, 2009",2009-11-15,0,0,0,2010
+"Los Angeles Clippers","Oklahoma City Thunder",101,93,"Sun, Nov 15, 2009",2009-11-15,0,0,1,2010
+"Toronto Raptors","Phoenix Suns",100,101,"Sun, Nov 15, 2009",2009-11-15,0,0,0,2010
+"Portland Trail Blazers","Atlanta Hawks",95,99,"Mon, Nov 16, 2009",2009-11-16,0,0,0,2010
+"Dallas Mavericks","Milwaukee Bucks",115,113,"Mon, Nov 16, 2009",2009-11-16,0,1,0,2010
+"Charlotte Bobcats","Orlando Magic",91,97,"Mon, Nov 16, 2009",2009-11-16,0,0,0,2010
+"Golden State Warriors","Cleveland Cavaliers",108,114,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Toronto Raptors","Denver Nuggets",112,130,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Phoenix Suns","Houston Rockets",111,105,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Detroit Pistons","Los Angeles Lakers",93,106,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Oklahoma City Thunder","Miami Heat",100,87,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Indiana Pacers","New Jersey Nets",91,83,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Los Angeles Clippers","New Orleans Hornets",102,110,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Chicago Bulls","Sacramento Kings",101,87,"Tue, Nov 17, 2009",2009-11-17,0,0,0,2010
+"Miami Heat","Atlanta Hawks",90,105,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Golden State Warriors","Boston Celtics",95,109,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"San Antonio Spurs","Dallas Mavericks",94,99,"Wed, Nov 18, 2009",2009-11-18,0,0,0,2010
+"New York Knicks","Indiana Pacers",110,103,"Wed, Nov 18, 2009",2009-11-18,0,0,1,2010
+"Los Angeles Clippers","Memphis Grizzlies",91,106,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"New Jersey Nets","Milwaukee Bucks",85,99,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Houston Rockets","Minnesota Timberwolves",97,84,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Oklahoma City Thunder","Orlando Magic",94,108,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Charlotte Bobcats","Philadelphia 76ers",84,86,"Wed, Nov 18, 2009",2009-11-18,0,0,0,2010
+"Detroit Pistons","Portland Trail Blazers",81,87,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Toronto Raptors","Utah Jazz",91,104,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Cleveland Cavaliers","Washington Wizards",91,108,"Wed, Nov 18, 2009",2009-11-18,0,1,0,2010
+"Chicago Bulls","Los Angeles Lakers",93,108,"Thu, Nov 19, 2009",2009-11-19,0,0,0,2010
+"Phoenix Suns","New Orleans Hornets",103,110,"Thu, Nov 19, 2009",2009-11-19,0,0,0,2010
+"Utah Jazz","San Antonio Spurs",90,83,"Thu, Nov 19, 2009",2009-11-19,0,1,1,2010
+"Houston Rockets","Atlanta Hawks",103,105,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Orlando Magic","Boston Celtics",83,78,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Sacramento Kings","Dallas Mavericks",102,104,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Portland Trail Blazers","Golden State Warriors",94,108,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Cleveland Cavaliers","Indiana Pacers",105,95,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Denver Nuggets","Los Angeles Clippers",99,106,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Charlotte Bobcats","Milwaukee Bucks",88,95,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Washington Wizards","Oklahoma City Thunder",108,127,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Memphis Grizzlies","Philadelphia 76ers",102,97,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Miami Heat","Toronto Raptors",113,120,"Fri, Nov 20, 2009",2009-11-20,0,0,0,2010
+"Philadelphia 76ers","Cleveland Cavaliers",91,97,"Sat, Nov 21, 2009",2009-11-21,0,1,1,2010
+"Chicago Bulls","Denver Nuggets",93,112,"Sat, Nov 21, 2009",2009-11-21,0,0,1,2010
+"Sacramento Kings","Houston Rockets",106,113,"Sat, Nov 21, 2009",2009-11-21,0,1,1,2010
+"Milwaukee Bucks","Memphis Grizzlies",103,98,"Sat, Nov 21, 2009",2009-11-21,0,1,1,2010
+"New York Knicks","New Jersey Nets",98,91,"Sat, Nov 21, 2009",2009-11-21,0,0,0,2010
+"Atlanta Hawks","New Orleans Hornets",88,96,"Sat, Nov 21, 2009",2009-11-21,0,1,0,2010
+"Minnesota Timberwolves","Portland Trail Blazers",78,106,"Sat, Nov 21, 2009",2009-11-21,0,0,1,2010
+"Washington Wizards","San Antonio Spurs",84,106,"Sat, Nov 21, 2009",2009-11-21,0,1,0,2010
+"Detroit Pistons","Utah Jazz",97,100,"Sat, Nov 21, 2009",2009-11-21,0,0,0,2010
+"Indiana Pacers","Charlotte Bobcats",88,104,"Sun, Nov 22, 2009",2009-11-22,0,0,0,2010
+"Oklahoma City Thunder","Los Angeles Lakers",85,101,"Sun, Nov 22, 2009",2009-11-22,0,0,0,2010
+"New Orleans Hornets","Miami Heat",101,102,"Sun, Nov 22, 2009",2009-11-22,0,1,0,2010
+"Boston Celtics","New York Knicks",107,105,"Sun, Nov 22, 2009",2009-11-22,0,0,1,2010
+"Detroit Pistons","Phoenix Suns",91,117,"Sun, Nov 22, 2009",2009-11-22,0,1,0,2010
+"Orlando Magic","Toronto Raptors",104,96,"Sun, Nov 22, 2009",2009-11-22,0,0,0,2010
+"Minnesota Timberwolves","Los Angeles Clippers",87,91,"Mon, Nov 23, 2009",2009-11-23,0,0,0,2010
+"Sacramento Kings","Memphis Grizzlies",105,116,"Mon, Nov 23, 2009",2009-11-23,0,0,0,2010
+"Chicago Bulls","Portland Trail Blazers",98,122,"Mon, Nov 23, 2009",2009-11-23,0,0,0,2010
+"Milwaukee Bucks","San Antonio Spurs",98,112,"Mon, Nov 23, 2009",2009-11-23,0,0,0,2010
+"Golden State Warriors","Dallas Mavericks",111,103,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"New Jersey Nets","Denver Nuggets",87,101,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"New York Knicks","Los Angeles Lakers",90,100,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"Indiana Pacers","Toronto Raptors",112,123,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"Oklahoma City Thunder","Utah Jazz",104,94,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"Philadelphia 76ers","Washington Wizards",107,108,"Tue, Nov 24, 2009",2009-11-24,0,0,0,2010
+"Philadelphia 76ers","Boston Celtics",110,113,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Toronto Raptors","Charlotte Bobcats",81,116,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Cleveland Cavaliers","Detroit Pistons",98,88,"Wed, Nov 25, 2009",2009-11-25,0,0,0,2010
+"Dallas Mavericks","Houston Rockets",130,99,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Los Angeles Clippers","Indiana Pacers",73,86,"Wed, Nov 25, 2009",2009-11-25,0,0,1,2010
+"Denver Nuggets","Minnesota Timberwolves",124,111,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Milwaukee Bucks","New Orleans Hornets",99,102,"Wed, Nov 25, 2009",2009-11-25,0,0,0,2010
+"Miami Heat","Orlando Magic",99,98,"Wed, Nov 25, 2009",2009-11-25,0,0,0,2010
+"Memphis Grizzlies","Phoenix Suns",111,126,"Wed, Nov 25, 2009",2009-11-25,0,0,0,2010
+"New Jersey Nets","Portland Trail Blazers",83,93,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"New York Knicks","Sacramento Kings",97,111,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Golden State Warriors","San Antonio Spurs",104,118,"Wed, Nov 25, 2009",2009-11-25,0,1,0,2010
+"Orlando Magic","Atlanta Hawks",93,76,"Thu, Nov 26, 2009",2009-11-26,0,1,0,2010
+"Chicago Bulls","Utah Jazz",86,105,"Thu, Nov 26, 2009",2009-11-26,0,0,0,2010
+"Toronto Raptors","Boston Celtics",103,116,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Cleveland Cavaliers","Charlotte Bobcats",87,94,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"New York Knicks","Denver Nuggets",125,128,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Los Angeles Clippers","Detroit Pistons",104,96,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"San Antonio Spurs","Houston Rockets",92,84,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Dallas Mavericks","Indiana Pacers",113,92,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Washington Wizards","Miami Heat",94,84,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Phoenix Suns","Minnesota Timberwolves",120,95,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Milwaukee Bucks","Oklahoma City Thunder",90,108,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Atlanta Hawks","Philadelphia 76ers",100,86,"Fri, Nov 27, 2009",2009-11-27,0,1,0,2010
+"Memphis Grizzlies","Portland Trail Blazers",106,96,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"New Jersey Nets","Sacramento Kings",96,109,"Fri, Nov 27, 2009",2009-11-27,0,0,0,2010
+"Dallas Mavericks","Cleveland Cavaliers",95,111,"Sat, Nov 28, 2009",2009-11-28,0,1,1,2010
+"Los Angeles Lakers","Golden State Warriors",130,97,"Sat, Nov 28, 2009",2009-11-28,0,0,0,2010
+"Orlando Magic","Milwaukee Bucks",100,98,"Sat, Nov 28, 2009",2009-11-28,0,0,1,2010
+"Portland Trail Blazers","Utah Jazz",92,108,"Sat, Nov 28, 2009",2009-11-28,0,1,0,2010
+"Charlotte Bobcats","Washington Wizards",92,76,"Sat, Nov 28, 2009",2009-11-28,0,1,1,2010
+"Minnesota Timberwolves","Denver Nuggets",106,100,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Atlanta Hawks","Detroit Pistons",88,94,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Memphis Grizzlies","Los Angeles Clippers",88,98,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"New Jersey Nets","Los Angeles Lakers",87,106,"Sun, Nov 29, 2009",2009-11-29,0,0,1,2010
+"Boston Celtics","Miami Heat",92,85,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Orlando Magic","New York Knicks",114,102,"Sun, Nov 29, 2009",2009-11-29,0,1,0,2010
+"Houston Rockets","Oklahoma City Thunder",100,91,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"New Orleans Hornets","Sacramento Kings",96,112,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Philadelphia 76ers","San Antonio Spurs",89,97,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Phoenix Suns","Toronto Raptors",113,94,"Sun, Nov 29, 2009",2009-11-29,0,0,0,2010
+"Philadelphia 76ers","Dallas Mavericks",102,104,"Mon, Nov 30, 2009",2009-11-30,0,1,0,2010
+"Indiana Pacers","Golden State Warriors",107,126,"Mon, Nov 30, 2009",2009-11-30,0,0,0,2010
+"Chicago Bulls","Milwaukee Bucks",97,99,"Mon, Nov 30, 2009",2009-11-30,0,0,0,2010
+"Memphis Grizzlies","Utah Jazz",93,120,"Mon, Nov 30, 2009",2009-11-30,0,1,0,2010
+"Boston Celtics","Charlotte Bobcats",108,90,"Tue, Dec 1, 2009",2009-12-01,0,0,0,2010
+"Golden State Warriors","Denver Nuggets",107,135,"Tue, Dec 1, 2009",2009-12-01,0,1,0,2010
+"New Orleans Hornets","Los Angeles Lakers",99,110,"Tue, Dec 1, 2009",2009-12-01,0,0,0,2010
+"Phoenix Suns","New York Knicks",99,126,"Tue, Dec 1, 2009",2009-12-01,0,0,0,2010
+"Miami Heat","Portland Trail Blazers",107,100,"Tue, Dec 1, 2009",2009-12-01,0,0,0,2010
+"Washington Wizards","Toronto Raptors",106,102,"Tue, Dec 1, 2009",2009-12-01,0,0,0,2010
+"Toronto Raptors","Atlanta Hawks",115,146,"Wed, Dec 2, 2009",2009-12-02,0,1,0,2010
+"Detroit Pistons","Chicago Bulls",85,92,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"Phoenix Suns","Cleveland Cavaliers",90,107,"Wed, Dec 2, 2009",2009-12-02,0,1,0,2010
+"Houston Rockets","Los Angeles Clippers",102,85,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"Memphis Grizzlies","Minnesota Timberwolves",97,95,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"Dallas Mavericks","New Jersey Nets",117,101,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"Philadelphia 76ers","Oklahoma City Thunder",106,117,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"New York Knicks","Orlando Magic",104,118,"Wed, Dec 2, 2009",2009-12-02,0,1,0,2010
+"Indiana Pacers","Sacramento Kings",105,110,"Wed, Dec 2, 2009",2009-12-02,0,0,0,2010
+"Milwaukee Bucks","Washington Wizards",102,104,"Wed, Dec 2, 2009",2009-12-02,0,0,1,2010
+"Miami Heat","Denver Nuggets",96,114,"Thu, Dec 3, 2009",2009-12-03,0,0,0,2010
+"Houston Rockets","Golden State Warriors",111,109,"Thu, Dec 3, 2009",2009-12-03,0,1,0,2010
+"Boston Celtics","San Antonio Spurs",90,83,"Thu, Dec 3, 2009",2009-12-03,0,0,0,2010
+"New York Knicks","Atlanta Hawks",114,107,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Chicago Bulls","Cleveland Cavaliers",87,101,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Milwaukee Bucks","Detroit Pistons",96,105,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Miami Heat","Los Angeles Lakers",107,108,"Fri, Dec 4, 2009",2009-12-04,0,1,0,2010
+"Dallas Mavericks","Memphis Grizzlies",82,98,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Charlotte Bobcats","New Jersey Nets",91,97,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Minnesota Timberwolves","New Orleans Hornets",89,98,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Boston Celtics","Oklahoma City Thunder",105,87,"Fri, Dec 4, 2009",2009-12-04,0,1,0,2010
+"Indiana Pacers","Utah Jazz",87,96,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Toronto Raptors","Washington Wizards",109,107,"Fri, Dec 4, 2009",2009-12-04,0,0,0,2010
+"Philadelphia 76ers","Charlotte Bobcats",105,106,"Sat, Dec 5, 2009",2009-12-05,0,0,1,2010
+"Toronto Raptors","Chicago Bulls",110,78,"Sat, Dec 5, 2009",2009-12-05,0,1,1,2010
+"Atlanta Hawks","Dallas Mavericks",80,75,"Sat, Dec 5, 2009",2009-12-05,0,1,1,2010
+"Orlando Magic","Golden State Warriors",126,118,"Sat, Dec 5, 2009",2009-12-05,0,0,0,2010
+"Indiana Pacers","Los Angeles Clippers",72,88,"Sat, Dec 5, 2009",2009-12-05,0,1,0,2010
+"Utah Jazz","Minnesota Timberwolves",101,108,"Sat, Dec 5, 2009",2009-12-05,0,1,1,2010
+"Sacramento Kings","Phoenix Suns",107,115,"Sat, Dec 5, 2009",2009-12-05,0,0,0,2010
+"Houston Rockets","Portland Trail Blazers",89,90,"Sat, Dec 5, 2009",2009-12-05,0,0,0,2010
+"Denver Nuggets","San Antonio Spurs",106,99,"Sat, Dec 5, 2009",2009-12-05,0,0,0,2010
+"Washington Wizards","Detroit Pistons",94,98,"Sun, Dec 6, 2009",2009-12-06,0,0,0,2010
+"Phoenix Suns","Los Angeles Lakers",88,108,"Sun, Dec 6, 2009",2009-12-06,0,1,0,2010
+"Cleveland Cavaliers","Milwaukee Bucks",101,86,"Sun, Dec 6, 2009",2009-12-06,0,0,0,2010
+"New Jersey Nets","New York Knicks",97,106,"Sun, Dec 6, 2009",2009-12-06,0,0,0,2010
+"Miami Heat","Sacramento Kings",115,102,"Sun, Dec 6, 2009",2009-12-06,0,0,1,2010
+"Portland Trail Blazers","New York Knicks",84,93,"Mon, Dec 7, 2009",2009-12-07,0,0,1,2010
+"Golden State Warriors","Oklahoma City Thunder",88,104,"Mon, Dec 7, 2009",2009-12-07,0,0,0,2010
+"Denver Nuggets","Philadelphia 76ers",93,83,"Mon, Dec 7, 2009",2009-12-07,0,0,0,2010
+"San Antonio Spurs","Utah Jazz",101,104,"Mon, Dec 7, 2009",2009-12-07,0,0,0,2010
+"Milwaukee Bucks","Boston Celtics",89,98,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Denver Nuggets","Charlotte Bobcats",95,107,"Tue, Dec 8, 2009",2009-12-08,0,1,0,2010
+"New Jersey Nets","Chicago Bulls",103,101,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Phoenix Suns","Dallas Mavericks",101,102,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Orlando Magic","Los Angeles Clippers",97,86,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Cleveland Cavaliers","Memphis Grizzlies",109,111,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Sacramento Kings","New Orleans Hornets",94,96,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Minnesota Timberwolves","Toronto Raptors",88,94,"Tue, Dec 8, 2009",2009-12-08,0,0,0,2010
+"Chicago Bulls","Atlanta Hawks",83,118,"Wed, Dec 9, 2009",2009-12-09,0,1,0,2010
+"Cleveland Cavaliers","Houston Rockets",85,95,"Wed, Dec 9, 2009",2009-12-09,0,1,0,2010
+"Portland Trail Blazers","Indiana Pacers",102,91,"Wed, Dec 9, 2009",2009-12-09,0,0,0,2010
+"Utah Jazz","Los Angeles Lakers",77,101,"Wed, Dec 9, 2009",2009-12-09,0,0,0,2010
+"Toronto Raptors","Milwaukee Bucks",95,117,"Wed, Dec 9, 2009",2009-12-09,0,1,1,2010
+"New Orleans Hornets","Minnesota Timberwolves",97,96,"Wed, Dec 9, 2009",2009-12-09,0,1,1,2010
+"Golden State Warriors","New Jersey Nets",105,89,"Wed, Dec 9, 2009",2009-12-09,0,0,1,2010
+"Detroit Pistons","Philadelphia 76ers",90,86,"Wed, Dec 9, 2009",2009-12-09,0,0,0,2010
+"Sacramento Kings","San Antonio Spurs",106,118,"Wed, Dec 9, 2009",2009-12-09,0,1,0,2010
+"Denver Nuggets","Detroit Pistons",99,101,"Thu, Dec 10, 2009",2009-12-10,0,0,1,2010
+"Orlando Magic","Utah Jazz",111,120,"Thu, Dec 10, 2009",2009-12-10,0,0,1,2010
+"Boston Celtics","Washington Wizards",104,102,"Thu, Dec 10, 2009",2009-12-10,0,0,0,2010
+"Golden State Warriors","Chicago Bulls",91,96,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Portland Trail Blazers","Cleveland Cavaliers",99,104,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"New Jersey Nets","Indiana Pacers",91,107,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Minnesota Timberwolves","Los Angeles Lakers",92,104,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Oklahoma City Thunder","Memphis Grizzlies",102,94,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Dallas Mavericks","Miami Heat",106,93,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"New York Knicks","New Orleans Hornets",113,96,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Houston Rockets","Philadelphia 76ers",96,91,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Orlando Magic","Phoenix Suns",103,106,"Fri, Dec 11, 2009",2009-12-11,0,1,0,2010
+"Charlotte Bobcats","San Antonio Spurs",85,104,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Atlanta Hawks","Toronto Raptors",111,89,"Fri, Dec 11, 2009",2009-12-11,0,0,0,2010
+"Boston Celtics","Chicago Bulls",106,80,"Sat, Dec 12, 2009",2009-12-12,0,0,1,2010
+"Charlotte Bobcats","Dallas Mavericks",97,98,"Sat, Dec 12, 2009",2009-12-12,0,1,1,2010
+"Phoenix Suns","Denver Nuggets",99,105,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"Golden State Warriors","Detroit Pistons",95,104,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"Portland Trail Blazers","Milwaukee Bucks",101,108,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"Minnesota Timberwolves","Sacramento Kings",100,120,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"Los Angeles Lakers","Utah Jazz",94,102,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"Indiana Pacers","Washington Wizards",114,113,"Sat, Dec 12, 2009",2009-12-12,0,1,0,2010
+"New Jersey Nets","Atlanta Hawks",107,130,"Sun, Dec 13, 2009",2009-12-13,0,0,0,2010
+"San Antonio Spurs","Los Angeles Clippers",115,90,"Sun, Dec 13, 2009",2009-12-13,0,0,0,2010
+"Memphis Grizzlies","Miami Heat",118,90,"Sun, Dec 13, 2009",2009-12-13,0,0,0,2010
+"Cleveland Cavaliers","Oklahoma City Thunder",102,89,"Sun, Dec 13, 2009",2009-12-13,0,0,0,2010
+"Houston Rockets","Toronto Raptors",88,101,"Sun, Dec 13, 2009",2009-12-13,0,0,0,2010
+"New Orleans Hornets","Dallas Mavericks",90,94,"Mon, Dec 14, 2009",2009-12-14,0,0,0,2010
+"Oklahoma City Thunder","Denver Nuggets",93,102,"Mon, Dec 14, 2009",2009-12-14,0,1,0,2010
+"Washington Wizards","Los Angeles Clippers",95,97,"Mon, Dec 14, 2009",2009-12-14,0,0,1,2010
+"Boston Celtics","Memphis Grizzlies",110,105,"Mon, Dec 14, 2009",2009-12-14,0,0,1,2010
+"Indiana Pacers","Orlando Magic",98,106,"Mon, Dec 14, 2009",2009-12-14,0,0,0,2010
+"Golden State Warriors","Philadelphia 76ers",101,117,"Mon, Dec 14, 2009",2009-12-14,0,0,0,2010
+"Minnesota Timberwolves","Utah Jazz",110,108,"Mon, Dec 14, 2009",2009-12-14,0,0,0,2010
+"New York Knicks","Charlotte Bobcats",87,94,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"Los Angeles Lakers","Chicago Bulls",96,87,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"New Jersey Nets","Cleveland Cavaliers",89,99,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"Detroit Pistons","Houston Rockets",96,107,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"Toronto Raptors","Miami Heat",95,115,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"San Antonio Spurs","Phoenix Suns",104,116,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"Sacramento Kings","Portland Trail Blazers",88,95,"Tue, Dec 15, 2009",2009-12-15,0,0,0,2010
+"Memphis Grizzlies","Atlanta Hawks",97,110,"Wed, Dec 16, 2009",2009-12-16,0,0,0,2010
+"Houston Rockets","Denver Nuggets",101,111,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"San Antonio Spurs","Golden State Warriors",103,91,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Charlotte Bobcats","Indiana Pacers",98,101,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Los Angeles Lakers","Milwaukee Bucks",107,106,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Los Angeles Clippers","Minnesota Timberwolves",120,95,"Wed, Dec 16, 2009",2009-12-16,0,0,0,2010
+"Utah Jazz","New Jersey Nets",108,92,"Wed, Dec 16, 2009",2009-12-16,0,0,1,2010
+"Detroit Pistons","New Orleans Hornets",87,95,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Dallas Mavericks","Oklahoma City Thunder",100,86,"Wed, Dec 16, 2009",2009-12-16,0,0,0,2010
+"Toronto Raptors","Orlando Magic",99,118,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Cleveland Cavaliers","Philadelphia 76ers",108,101,"Wed, Dec 16, 2009",2009-12-16,0,1,0,2010
+"Washington Wizards","Sacramento Kings",109,112,"Wed, Dec 16, 2009",2009-12-16,0,0,1,2010
+"New York Knicks","Chicago Bulls",89,98,"Thu, Dec 17, 2009",2009-12-17,0,0,0,2010
+"Orlando Magic","Miami Heat",86,104,"Thu, Dec 17, 2009",2009-12-17,0,1,0,2010
+"Phoenix Suns","Portland Trail Blazers",102,105,"Thu, Dec 17, 2009",2009-12-17,0,0,0,2010
+"Utah Jazz","Atlanta Hawks",83,96,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Philadelphia 76ers","Boston Celtics",98,97,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Milwaukee Bucks","Cleveland Cavaliers",82,85,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Houston Rockets","Dallas Mavericks",116,108,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Washington Wizards","Golden State Warriors",118,109,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Indiana Pacers","Memphis Grizzlies",94,107,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Sacramento Kings","Minnesota Timberwolves",96,112,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Denver Nuggets","New Orleans Hornets",92,98,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Los Angeles Clippers","New York Knicks",91,95,"Fri, Dec 18, 2009",2009-12-18,0,0,1,2010
+"Detroit Pistons","Oklahoma City Thunder",98,109,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"New Jersey Nets","Toronto Raptors",95,118,"Fri, Dec 18, 2009",2009-12-18,0,0,0,2010
+"Utah Jazz","Charlotte Bobcats",110,102,"Sat, Dec 19, 2009",2009-12-19,0,1,0,2010
+"Atlanta Hawks","Chicago Bulls",98,101,"Sat, Dec 19, 2009",2009-12-19,0,1,0,2010
+"Oklahoma City Thunder","Houston Rockets",90,95,"Sat, Dec 19, 2009",2009-12-19,0,1,1,2010
+"Sacramento Kings","Milwaukee Bucks",96,95,"Sat, Dec 19, 2009",2009-12-19,0,1,1,2010
+"Los Angeles Lakers","New Jersey Nets",103,84,"Sat, Dec 19, 2009",2009-12-19,0,0,1,2010
+"Portland Trail Blazers","Orlando Magic",83,92,"Sat, Dec 19, 2009",2009-12-19,0,0,0,2010
+"Los Angeles Clippers","Philadelphia 76ers",112,107,"Sat, Dec 19, 2009",2009-12-19,0,1,1,2010
+"Washington Wizards","Phoenix Suns",95,121,"Sat, Dec 19, 2009",2009-12-19,0,1,0,2010
+"Indiana Pacers","San Antonio Spurs",99,100,"Sat, Dec 19, 2009",2009-12-19,0,1,0,2010
+"Minnesota Timberwolves","Boston Celtics",104,122,"Sun, Dec 20, 2009",2009-12-20,0,0,0,2010
+"Cleveland Cavaliers","Dallas Mavericks",95,102,"Sun, Dec 20, 2009",2009-12-20,0,0,0,2010
+"Los Angeles Lakers","Detroit Pistons",93,81,"Sun, Dec 20, 2009",2009-12-20,0,1,0,2010
+"Denver Nuggets","Memphis Grizzlies",96,102,"Sun, Dec 20, 2009",2009-12-20,0,0,0,2010
+"Portland Trail Blazers","Miami Heat",102,95,"Sun, Dec 20, 2009",2009-12-20,0,1,0,2010
+"Charlotte Bobcats","New York Knicks",94,98,"Sun, Dec 20, 2009",2009-12-20,0,1,0,2010
+"New Orleans Hornets","Toronto Raptors",92,98,"Sun, Dec 20, 2009",2009-12-20,0,0,0,2010
+"Sacramento Kings","Chicago Bulls",102,98,"Mon, Dec 21, 2009",2009-12-21,0,0,0,2010
+"Milwaukee Bucks","Indiana Pacers",84,81,"Mon, Dec 21, 2009",2009-12-21,0,0,0,2010
+"Utah Jazz","Orlando Magic",99,104,"Mon, Dec 21, 2009",2009-12-21,0,0,0,2010
+"Cleveland Cavaliers","Phoenix Suns",109,91,"Mon, Dec 21, 2009",2009-12-21,0,1,0,2010
+"Los Angeles Clippers","San Antonio Spurs",87,103,"Mon, Dec 21, 2009",2009-12-21,0,0,0,2010
+"Indiana Pacers","Boston Celtics",94,103,"Tue, Dec 22, 2009",2009-12-22,0,1,0,2010
+"Detroit Pistons","Charlotte Bobcats",76,88,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Portland Trail Blazers","Dallas Mavericks",85,81,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Los Angeles Clippers","Houston Rockets",99,108,"Tue, Dec 22, 2009",2009-12-22,0,1,0,2010
+"Oklahoma City Thunder","Los Angeles Lakers",108,111,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Golden State Warriors","Memphis Grizzlies",108,121,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Atlanta Hawks","Minnesota Timberwolves",112,87,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Chicago Bulls","New York Knicks",81,88,"Tue, Dec 22, 2009",2009-12-22,0,1,0,2010
+"Philadelphia 76ers","Washington Wizards",98,105,"Tue, Dec 22, 2009",2009-12-22,0,0,0,2010
+"Atlanta Hawks","Denver Nuggets",104,124,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Toronto Raptors","Detroit Pistons",94,64,"Wed, Dec 23, 2009",2009-12-23,0,0,1,2010
+"Utah Jazz","Miami Heat",70,80,"Wed, Dec 23, 2009",2009-12-23,0,0,0,2010
+"Washington Wizards","Milwaukee Bucks",109,97,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Minnesota Timberwolves","New Jersey Nets",103,99,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Golden State Warriors","New Orleans Hornets",102,108,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Houston Rockets","Orlando Magic",87,102,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Oklahoma City Thunder","Phoenix Suns",117,113,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Cleveland Cavaliers","Sacramento Kings",117,104,"Wed, Dec 23, 2009",2009-12-23,0,0,0,2010
+"Portland Trail Blazers","San Antonio Spurs",98,94,"Wed, Dec 23, 2009",2009-12-23,0,1,0,2010
+"Cleveland Cavaliers","Los Angeles Lakers",102,87,"Fri, Dec 25, 2009",2009-12-25,0,0,0,2010
+"Miami Heat","New York Knicks",93,87,"Fri, Dec 25, 2009",2009-12-25,0,0,0,2010
+"Boston Celtics","Orlando Magic",86,77,"Fri, Dec 25, 2009",2009-12-25,0,0,0,2010
+"Los Angeles Clippers","Phoenix Suns",93,124,"Fri, Dec 25, 2009",2009-12-25,0,0,0,2010
+"Denver Nuggets","Portland Trail Blazers",96,107,"Fri, Dec 25, 2009",2009-12-25,0,0,0,2010
+"New Orleans Hornets","Chicago Bulls",85,96,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Memphis Grizzlies","Dallas Mavericks",101,106,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Phoenix Suns","Golden State Warriors",127,132,"Sat, Dec 26, 2009",2009-12-26,0,1,0,2010
+"Atlanta Hawks","Indiana Pacers",110,98,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"San Antonio Spurs","Milwaukee Bucks",112,97,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Washington Wizards","Minnesota Timberwolves",89,101,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Houston Rockets","New Jersey Nets",98,93,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Charlotte Bobcats","Oklahoma City Thunder",91,98,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Los Angeles Lakers","Sacramento Kings",112,103,"Sat, Dec 26, 2009",2009-12-26,0,1,0,2010
+"Philadelphia 76ers","Utah Jazz",76,97,"Sat, Dec 26, 2009",2009-12-26,0,0,0,2010
+"Houston Rockets","Cleveland Cavaliers",83,108,"Sun, Dec 27, 2009",2009-12-27,0,1,0,2010
+"Dallas Mavericks","Denver Nuggets",104,96,"Sun, Dec 27, 2009",2009-12-27,0,1,0,2010
+"Boston Celtics","Los Angeles Clippers",90,92,"Sun, Dec 27, 2009",2009-12-27,0,0,0,2010
+"Indiana Pacers","Miami Heat",80,114,"Sun, Dec 27, 2009",2009-12-27,0,1,0,2010
+"San Antonio Spurs","New York Knicks",95,88,"Sun, Dec 27, 2009",2009-12-27,0,1,0,2010
+"Detroit Pistons","Toronto Raptors",95,102,"Sun, Dec 27, 2009",2009-12-27,0,0,0,2010
+"Milwaukee Bucks","Charlotte Bobcats",84,94,"Mon, Dec 28, 2009",2009-12-28,0,0,0,2010
+"Boston Celtics","Golden State Warriors",99,103,"Mon, Dec 28, 2009",2009-12-28,0,1,0,2010
+"Washington Wizards","Memphis Grizzlies",111,116,"Mon, Dec 28, 2009",2009-12-28,0,0,0,2010
+"Oklahoma City Thunder","New Jersey Nets",105,89,"Mon, Dec 28, 2009",2009-12-28,0,0,0,2010
+"Los Angeles Lakers","Phoenix Suns",103,118,"Mon, Dec 28, 2009",2009-12-28,0,0,0,2010
+"Philadelphia 76ers","Portland Trail Blazers",104,93,"Mon, Dec 28, 2009",2009-12-28,0,0,0,2010
+"Denver Nuggets","Sacramento Kings",101,106,"Mon, Dec 28, 2009",2009-12-28,0,1,0,2010
+"Cleveland Cavaliers","Atlanta Hawks",95,84,"Tue, Dec 29, 2009",2009-12-29,0,0,0,2010
+"Indiana Pacers","Chicago Bulls",95,104,"Tue, Dec 29, 2009",2009-12-29,0,0,0,2010
+"New York Knicks","Detroit Pistons",104,87,"Tue, Dec 29, 2009",2009-12-29,0,0,0,2010
+"New Orleans Hornets","Houston Rockets",100,108,"Tue, Dec 29, 2009",2009-12-29,0,0,0,2010
+"Golden State Warriors","Los Angeles Lakers",118,124,"Tue, Dec 29, 2009",2009-12-29,0,1,1,2010
+"Minnesota Timberwolves","San Antonio Spurs",99,117,"Tue, Dec 29, 2009",2009-12-29,0,0,0,2010
+"Oklahoma City Thunder","Washington Wizards",110,98,"Tue, Dec 29, 2009",2009-12-29,0,1,1,2010
+"Atlanta Hawks","Cleveland Cavaliers",101,106,"Wed, Dec 30, 2009",2009-12-30,0,1,1,2010
+"Memphis Grizzlies","Indiana Pacers",121,110,"Wed, Dec 30, 2009",2009-12-30,0,0,1,2010
+"Utah Jazz","Minnesota Timberwolves",107,103,"Wed, Dec 30, 2009",2009-12-30,0,0,1,2010
+"New York Knicks","New Jersey Nets",95,104,"Wed, Dec 30, 2009",2009-12-30,0,1,0,2010
+"Miami Heat","New Orleans Hornets",91,95,"Wed, Dec 30, 2009",2009-12-30,0,0,1,2010
+"Milwaukee Bucks","Orlando Magic",92,117,"Wed, Dec 30, 2009",2009-12-30,0,0,0,2010
+"Boston Celtics","Phoenix Suns",98,116,"Wed, Dec 30, 2009",2009-12-30,0,0,0,2010
+"Los Angeles Clippers","Portland Trail Blazers",99,103,"Wed, Dec 30, 2009",2009-12-30,0,0,0,2010
+"Philadelphia 76ers","Sacramento Kings",116,106,"Wed, Dec 30, 2009",2009-12-30,0,0,0,2010
+"Charlotte Bobcats","Toronto Raptors",103,107,"Wed, Dec 30, 2009",2009-12-30,0,0,0,2010
+"Chicago Bulls","Detroit Pistons",98,87,"Thu, Dec 31, 2009",2009-12-31,0,0,0,2010
+"Dallas Mavericks","Houston Rockets",94,97,"Thu, Dec 31, 2009",2009-12-31,0,0,0,2010
+"Philadelphia 76ers","Los Angeles Clippers",88,104,"Thu, Dec 31, 2009",2009-12-31,0,1,1,2010
+"Utah Jazz","Oklahoma City Thunder",86,87,"Thu, Dec 31, 2009",2009-12-31,0,1,0,2010
+"Miami Heat","San Antonio Spurs",78,108,"Thu, Dec 31, 2009",2009-12-31,0,1,0,2010
+"New York Knicks","Atlanta Hawks",112,108,"Fri, Jan 1, 2010",2010-01-01,0,0,0,2010
+"Sacramento Kings","Los Angeles Lakers",108,109,"Fri, Jan 1, 2010",2010-01-01,0,0,0,2010
+"Orlando Magic","Minnesota Timberwolves",106,94,"Fri, Jan 1, 2010",2010-01-01,0,0,0,2010
+"Toronto Raptors","Boston Celtics",96,103,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Orlando Magic","Chicago Bulls",93,101,"Sat, Jan 2, 2010",2010-01-02,0,1,0,2010
+"Minnesota Timberwolves","Indiana Pacers",111,122,"Sat, Jan 2, 2010",2010-01-02,0,1,0,2010
+"Charlotte Bobcats","Miami Heat",107,97,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Oklahoma City Thunder","Milwaukee Bucks",97,103,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Cleveland Cavaliers","New Jersey Nets",94,86,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Houston Rockets","New Orleans Hornets",95,99,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Memphis Grizzlies","Phoenix Suns",128,103,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Golden State Warriors","Portland Trail Blazers",89,105,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Dallas Mavericks","Sacramento Kings",99,91,"Sat, Jan 2, 2010",2010-01-02,0,0,1,2010
+"Denver Nuggets","Utah Jazz",105,95,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"San Antonio Spurs","Washington Wizards",97,86,"Sat, Jan 2, 2010",2010-01-02,0,0,0,2010
+"Charlotte Bobcats","Cleveland Cavaliers",91,88,"Sun, Jan 3, 2010",2010-01-03,0,1,1,2010
+"Philadelphia 76ers","Denver Nuggets",108,105,"Sun, Jan 3, 2010",2010-01-03,0,0,1,2010
+"Dallas Mavericks","Los Angeles Lakers",96,131,"Sun, Jan 3, 2010",2010-01-03,0,1,0,2010
+"Indiana Pacers","New York Knicks",89,132,"Sun, Jan 3, 2010",2010-01-03,0,1,0,2010
+"San Antonio Spurs","Toronto Raptors",86,91,"Sun, Jan 3, 2010",2010-01-03,0,1,1,2010
+"Oklahoma City Thunder","Chicago Bulls",98,85,"Mon, Jan 4, 2010",2010-01-04,0,0,0,2010
+"Portland Trail Blazers","Los Angeles Clippers",95,105,"Mon, Jan 4, 2010",2010-01-04,0,0,0,2010
+"Atlanta Hawks","Miami Heat",75,92,"Mon, Jan 4, 2010",2010-01-04,0,0,0,2010
+"New Orleans Hornets","Utah Jazz",91,87,"Mon, Jan 4, 2010",2010-01-04,0,0,0,2010
+"Chicago Bulls","Charlotte Bobcats",108,113,"Tue, Jan 5, 2010",2010-01-05,0,1,0,2010
+"Detroit Pistons","Dallas Mavericks",93,98,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Golden State Warriors","Denver Nuggets",122,123,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Orlando Magic","Indiana Pacers",90,97,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Houston Rockets","Los Angeles Lakers",79,88,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Milwaukee Bucks","New Jersey Nets",98,76,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Washington Wizards","Philadelphia 76ers",104,97,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"Memphis Grizzlies","Portland Trail Blazers",109,105,"Tue, Jan 5, 2010",2010-01-05,0,0,1,2010
+"Phoenix Suns","Sacramento Kings",113,109,"Tue, Jan 5, 2010",2010-01-05,0,0,0,2010
+"New Jersey Nets","Atlanta Hawks",89,119,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"Washington Wizards","Cleveland Cavaliers",98,121,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"Los Angeles Lakers","Los Angeles Clippers",91,102,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"Boston Celtics","Miami Heat",112,106,"Wed, Jan 6, 2010",2010-01-06,0,0,0,2010
+"Golden State Warriors","Minnesota Timberwolves",107,101,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"New Orleans Hornets","Oklahoma City Thunder",97,92,"Wed, Jan 6, 2010",2010-01-06,0,0,0,2010
+"Toronto Raptors","Orlando Magic",108,103,"Wed, Jan 6, 2010",2010-01-06,0,0,1,2010
+"Houston Rockets","Phoenix Suns",110,118,"Wed, Jan 6, 2010",2010-01-06,0,1,1,2010
+"Detroit Pistons","San Antonio Spurs",92,112,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"Memphis Grizzlies","Utah Jazz",94,117,"Wed, Jan 6, 2010",2010-01-06,0,1,0,2010
+"Charlotte Bobcats","New York Knicks",93,97,"Thu, Jan 7, 2010",2010-01-07,0,0,0,2010
+"Boston Celtics","Atlanta Hawks",85,93,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Cleveland Cavaliers","Denver Nuggets",97,99,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Sacramento Kings","Golden State Warriors",101,108,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Utah Jazz","Memphis Grizzlies",89,91,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Chicago Bulls","Milwaukee Bucks",93,96,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Indiana Pacers","Minnesota Timberwolves",109,116,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"New Jersey Nets","New Orleans Hornets",99,103,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Toronto Raptors","Philadelphia 76ers",108,106,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Miami Heat","Phoenix Suns",109,105,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Los Angeles Lakers","Portland Trail Blazers",98,107,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Dallas Mavericks","San Antonio Spurs",112,103,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Orlando Magic","Washington Wizards",97,104,"Fri, Jan 8, 2010",2010-01-08,0,0,0,2010
+"Memphis Grizzlies","Charlotte Bobcats",87,89,"Sat, Jan 9, 2010",2010-01-09,0,1,0,2010
+"Minnesota Timberwolves","Chicago Bulls",96,110,"Sat, Jan 9, 2010",2010-01-09,0,1,1,2010
+"Utah Jazz","Dallas Mavericks",111,93,"Sat, Jan 9, 2010",2010-01-09,0,1,1,2010
+"Philadelphia 76ers","Detroit Pistons",104,94,"Sat, Jan 9, 2010",2010-01-09,0,1,0,2010
+"New York Knicks","Houston Rockets",96,105,"Sat, Jan 9, 2010",2010-01-09,0,0,0,2010
+"Indiana Pacers","Oklahoma City Thunder",102,108,"Sat, Jan 9, 2010",2010-01-09,0,1,0,2010
+"Atlanta Hawks","Orlando Magic",81,113,"Sat, Jan 9, 2010",2010-01-09,0,1,1,2010
+"Denver Nuggets","Sacramento Kings",100,102,"Sat, Jan 9, 2010",2010-01-09,0,1,1,2010
+"Miami Heat","Los Angeles Clippers",84,94,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"Milwaukee Bucks","Los Angeles Lakers",77,95,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"Cleveland Cavaliers","Portland Trail Blazers",106,94,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"New Jersey Nets","San Antonio Spurs",85,97,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"Boston Celtics","Toronto Raptors",114,107,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"New Orleans Hornets","Washington Wizards",115,110,"Sun, Jan 10, 2010",2010-01-10,0,0,0,2010
+"Atlanta Hawks","Boston Celtics",102,96,"Mon, Jan 11, 2010",2010-01-11,0,0,1,2010
+"Detroit Pistons","Chicago Bulls",87,120,"Mon, Jan 11, 2010",2010-01-11,0,0,0,2010
+"Minnesota Timberwolves","Denver Nuggets",94,105,"Mon, Jan 11, 2010",2010-01-11,0,0,0,2010
+"Cleveland Cavaliers","Golden State Warriors",117,114,"Mon, Jan 11, 2010",2010-01-11,0,1,0,2010
+"Toronto Raptors","Indiana Pacers",101,105,"Mon, Jan 11, 2010",2010-01-11,0,1,0,2010
+"New York Knicks","Oklahoma City Thunder",88,106,"Mon, Jan 11, 2010",2010-01-11,0,0,0,2010
+"New Orleans Hornets","Philadelphia 76ers",92,96,"Mon, Jan 11, 2010",2010-01-11,0,1,0,2010
+"Milwaukee Bucks","Phoenix Suns",101,105,"Mon, Jan 11, 2010",2010-01-11,0,1,0,2010
+"Miami Heat","Utah Jazz",89,118,"Mon, Jan 11, 2010",2010-01-11,0,1,0,2010
+"Houston Rockets","Charlotte Bobcats",94,102,"Tue, Jan 12, 2010",2010-01-12,0,0,0,2010
+"Los Angeles Clippers","Memphis Grizzlies",102,104,"Tue, Jan 12, 2010",2010-01-12,0,0,0,2010
+"Orlando Magic","Sacramento Kings",109,88,"Tue, Jan 12, 2010",2010-01-12,0,0,0,2010
+"Los Angeles Lakers","San Antonio Spurs",85,105,"Tue, Jan 12, 2010",2010-01-12,0,0,0,2010
+"Detroit Pistons","Washington Wizards",99,90,"Tue, Jan 12, 2010",2010-01-12,0,1,0,2010
+"Washington Wizards","Atlanta Hawks",82,94,"Wed, Jan 13, 2010",2010-01-13,0,1,0,2010
+"Los Angeles Lakers","Dallas Mavericks",100,95,"Wed, Jan 13, 2010",2010-01-13,0,1,0,2010
+"Orlando Magic","Denver Nuggets",97,115,"Wed, Jan 13, 2010",2010-01-13,0,1,0,2010
+"Miami Heat","Golden State Warriors",115,102,"Wed, Jan 13, 2010",2010-01-13,0,0,0,2010
+"Minnesota Timberwolves","Houston Rockets",114,120,"Wed, Jan 13, 2010",2010-01-13,0,0,1,2010
+"Phoenix Suns","Indiana Pacers",114,122,"Wed, Jan 13, 2010",2010-01-13,0,0,0,2010
+"Boston Celtics","New Jersey Nets",111,87,"Wed, Jan 13, 2010",2010-01-13,0,0,0,2010
+"Los Angeles Clippers","New Orleans Hornets",94,108,"Wed, Jan 13, 2010",2010-01-13,0,1,0,2010
+"San Antonio Spurs","Oklahoma City Thunder",109,108,"Wed, Jan 13, 2010",2010-01-13,0,1,0,2010
+"New York Knicks","Philadelphia 76ers",93,92,"Wed, Jan 13, 2010",2010-01-13,0,0,0,2010
+"Milwaukee Bucks","Portland Trail Blazers",108,120,"Wed, Jan 13, 2010",2010-01-13,0,0,0,2010
+"Chicago Bulls","Boston Celtics",96,83,"Thu, Jan 14, 2010",2010-01-14,0,0,1,2010
+"Cleveland Cavaliers","Utah Jazz",96,97,"Thu, Jan 14, 2010",2010-01-14,0,0,0,2010
+"Phoenix Suns","Atlanta Hawks",101,102,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"San Antonio Spurs","Charlotte Bobcats",76,92,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Washington Wizards","Chicago Bulls",119,121,"Fri, Jan 15, 2010",2010-01-15,0,0,1,2010
+"Oklahoma City Thunder","Dallas Mavericks",98,99,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"New Orleans Hornets","Detroit Pistons",104,110,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Milwaukee Bucks","Golden State Warriors",113,104,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Miami Heat","Houston Rockets",115,106,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Los Angeles Clippers","Los Angeles Lakers",86,126,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Minnesota Timberwolves","Memphis Grizzlies",110,135,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Indiana Pacers","New Jersey Nets",121,105,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Toronto Raptors","New York Knicks",112,104,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Sacramento Kings","Philadelphia 76ers",86,98,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Orlando Magic","Portland Trail Blazers",87,102,"Fri, Jan 15, 2010",2010-01-15,0,0,0,2010
+"Phoenix Suns","Charlotte Bobcats",99,125,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"New York Knicks","Detroit Pistons",90,94,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"New Orleans Hornets","Indiana Pacers",101,96,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"Cleveland Cavaliers","Los Angeles Clippers",102,101,"Sat, Jan 16, 2010",2010-01-16,0,0,1,2010
+"San Antonio Spurs","Memphis Grizzlies",86,92,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"Miami Heat","Oklahoma City Thunder",80,98,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"Milwaukee Bucks","Utah Jazz",95,112,"Sat, Jan 16, 2010",2010-01-16,0,1,0,2010
+"Sacramento Kings","Washington Wizards",86,96,"Sat, Jan 16, 2010",2010-01-16,0,1,1,2010
+"Utah Jazz","Denver Nuggets",112,119,"Sun, Jan 17, 2010",2010-01-17,0,1,0,2010
+"Dallas Mavericks","Toronto Raptors",88,110,"Sun, Jan 17, 2010",2010-01-17,0,0,0,2010
+"Oklahoma City Thunder","Atlanta Hawks",94,91,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Dallas Mavericks","Boston Celtics",99,90,"Mon, Jan 18, 2010",2010-01-18,0,1,0,2010
+"Sacramento Kings","Charlotte Bobcats",103,105,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Chicago Bulls","Golden State Warriors",97,114,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Milwaukee Bucks","Houston Rockets",98,101,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"New Jersey Nets","Los Angeles Clippers",95,106,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Orlando Magic","Los Angeles Lakers",92,98,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Phoenix Suns","Memphis Grizzlies",118,125,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Philadelphia 76ers","Minnesota Timberwolves",103,108,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"San Antonio Spurs","New Orleans Hornets",97,90,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Detroit Pistons","New York Knicks",91,99,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Portland Trail Blazers","Washington Wizards",92,97,"Mon, Jan 18, 2010",2010-01-18,0,0,0,2010
+"Toronto Raptors","Cleveland Cavaliers",100,108,"Tue, Jan 19, 2010",2010-01-19,0,0,0,2010
+"Indiana Pacers","Miami Heat",83,113,"Tue, Jan 19, 2010",2010-01-19,0,0,0,2010
+"Sacramento Kings","Atlanta Hawks",97,108,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Miami Heat","Charlotte Bobcats",65,104,"Wed, Jan 20, 2010",2010-01-20,0,1,0,2010
+"Boston Celtics","Detroit Pistons",86,92,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Denver Nuggets","Golden State Warriors",123,118,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Chicago Bulls","Los Angeles Clippers",97,104,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Toronto Raptors","Milwaukee Bucks",107,113,"Wed, Jan 20, 2010",2010-01-20,0,1,0,2010
+"Oklahoma City Thunder","Minnesota Timberwolves",94,92,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Memphis Grizzlies","New Orleans Hornets",111,113,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Indiana Pacers","Orlando Magic",98,109,"Wed, Jan 20, 2010",2010-01-20,0,1,0,2010
+"Portland Trail Blazers","Philadelphia 76ers",98,90,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"New Jersey Nets","Phoenix Suns",94,118,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Utah Jazz","San Antonio Spurs",105,98,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Dallas Mavericks","Washington Wizards",94,93,"Wed, Jan 20, 2010",2010-01-20,0,0,0,2010
+"Los Angeles Lakers","Cleveland Cavaliers",87,93,"Thu, Jan 21, 2010",2010-01-21,0,0,0,2010
+"Los Angeles Clippers","Denver Nuggets",85,105,"Thu, Jan 21, 2010",2010-01-21,0,1,1,2010
+"Charlotte Bobcats","Atlanta Hawks",89,103,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Portland Trail Blazers","Boston Celtics",95,98,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Indiana Pacers","Detroit Pistons",105,93,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"New Jersey Nets","Golden State Warriors",79,111,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Oklahoma City Thunder","Memphis Grizzlies",84,86,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"New Orleans Hornets","Minnesota Timberwolves",96,94,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Los Angeles Lakers","New York Knicks",115,105,"Fri, Jan 22, 2010",2010-01-22,0,1,0,2010
+"Sacramento Kings","Orlando Magic",84,100,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Dallas Mavericks","Philadelphia 76ers",81,92,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Chicago Bulls","Phoenix Suns",115,104,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Houston Rockets","San Antonio Spurs",116,109,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Milwaukee Bucks","Toronto Raptors",96,101,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Miami Heat","Washington Wizards",112,88,"Fri, Jan 22, 2010",2010-01-22,0,0,0,2010
+"Orlando Magic","Charlotte Bobcats",106,95,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Oklahoma City Thunder","Cleveland Cavaliers",99,100,"Sat, Jan 23, 2010",2010-01-23,0,1,0,2010
+"New Orleans Hornets","Denver Nuggets",110,116,"Sat, Jan 23, 2010",2010-01-23,0,1,0,2010
+"Portland Trail Blazers","Detroit Pistons",97,93,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Chicago Bulls","Houston Rockets",104,97,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Philadelphia 76ers","Indiana Pacers",107,97,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Sacramento Kings","Miami Heat",84,115,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Minnesota Timberwolves","Milwaukee Bucks",94,127,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"Golden State Warriors","Phoenix Suns",103,112,"Sat, Jan 23, 2010",2010-01-23,0,1,1,2010
+"New Jersey Nets","Utah Jazz",83,116,"Sat, Jan 23, 2010",2010-01-23,0,1,0,2010
+"Dallas Mavericks","New York Knicks",128,78,"Sun, Jan 24, 2010",2010-01-24,0,0,0,2010
+"Los Angeles Lakers","Toronto Raptors",105,106,"Sun, Jan 24, 2010",2010-01-24,0,0,0,2010
+"Los Angeles Clippers","Washington Wizards",92,78,"Sun, Jan 24, 2010",2010-01-24,0,0,0,2010
+"Los Angeles Clippers","Boston Celtics",89,95,"Mon, Jan 25, 2010",2010-01-25,0,1,0,2010
+"Charlotte Bobcats","Denver Nuggets",93,104,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Atlanta Hawks","Houston Rockets",102,95,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Orlando Magic","Memphis Grizzlies",94,99,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Cleveland Cavaliers","Miami Heat",92,91,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Indiana Pacers","Philadelphia 76ers",109,98,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"New Orleans Hornets","Portland Trail Blazers",98,97,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Chicago Bulls","San Antonio Spurs",98,93,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Phoenix Suns","Utah Jazz",115,124,"Mon, Jan 25, 2010",2010-01-25,0,0,0,2010
+"Milwaukee Bucks","Dallas Mavericks",107,108,"Tue, Jan 26, 2010",2010-01-26,0,0,0,2010
+"Minnesota Timberwolves","New York Knicks",105,132,"Tue, Jan 26, 2010",2010-01-26,0,0,0,2010
+"Charlotte Bobcats","Phoenix Suns",114,109,"Tue, Jan 26, 2010",2010-01-26,0,1,1,2010
+"Golden State Warriors","Sacramento Kings",96,99,"Tue, Jan 26, 2010",2010-01-26,0,0,0,2010
+"Los Angeles Lakers","Washington Wizards",115,103,"Tue, Jan 26, 2010",2010-01-26,0,0,0,2010
+"Minnesota Timberwolves","Cleveland Cavaliers",95,109,"Wed, Jan 27, 2010",2010-01-27,0,1,0,2010
+"Memphis Grizzlies","Detroit Pistons",99,93,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"New Orleans Hornets","Golden State Warriors",123,110,"Wed, Jan 27, 2010",2010-01-27,0,0,1,2010
+"Denver Nuggets","Houston Rockets",97,92,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Los Angeles Lakers","Indiana Pacers",118,96,"Wed, Jan 27, 2010",2010-01-27,0,1,0,2010
+"Philadelphia 76ers","Milwaukee Bucks",88,91,"Wed, Jan 27, 2010",2010-01-27,0,0,1,2010
+"Los Angeles Clippers","New Jersey Nets",87,103,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Chicago Bulls","Oklahoma City Thunder",96,86,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Utah Jazz","Portland Trail Blazers",106,95,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Atlanta Hawks","San Antonio Spurs",90,105,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Miami Heat","Toronto Raptors",103,111,"Wed, Jan 27, 2010",2010-01-27,0,0,0,2010
+"Toronto Raptors","New York Knicks",106,104,"Thu, Jan 28, 2010",2010-01-28,0,1,0,2010
+"Boston Celtics","Orlando Magic",94,96,"Thu, Jan 28, 2010",2010-01-28,0,0,0,2010
+"Dallas Mavericks","Phoenix Suns",106,112,"Thu, Jan 28, 2010",2010-01-28,0,0,0,2010
+"Boston Celtics","Atlanta Hawks",91,100,"Fri, Jan 29, 2010",2010-01-29,0,1,0,2010
+"Miami Heat","Detroit Pistons",92,65,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Charlotte Bobcats","Golden State Warriors",121,110,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Portland Trail Blazers","Houston Rockets",100,104,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Cleveland Cavaliers","Indiana Pacers",94,73,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Los Angeles Clippers","Minnesota Timberwolves",97,111,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Washington Wizards","New Jersey Nets",81,79,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Chicago Bulls","New Orleans Hornets",108,106,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Denver Nuggets","Oklahoma City Thunder",84,101,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Los Angeles Lakers","Philadelphia 76ers",99,91,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Memphis Grizzlies","San Antonio Spurs",97,104,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Sacramento Kings","Utah Jazz",94,101,"Fri, Jan 29, 2010",2010-01-29,0,0,0,2010
+"Portland Trail Blazers","Dallas Mavericks",114,112,"Sat, Jan 30, 2010",2010-01-30,0,1,0,2010
+"New Orleans Hornets","Memphis Grizzlies",109,102,"Sat, Jan 30, 2010",2010-01-30,0,1,1,2010
+"Miami Heat","Milwaukee Bucks",84,95,"Sat, Jan 30, 2010",2010-01-30,0,1,0,2010
+"Atlanta Hawks","Orlando Magic",86,104,"Sat, Jan 30, 2010",2010-01-30,0,1,0,2010
+"Charlotte Bobcats","Sacramento Kings",103,96,"Sat, Jan 30, 2010",2010-01-30,0,1,1,2010
+"New York Knicks","Washington Wizards",96,106,"Sat, Jan 30, 2010",2010-01-30,0,0,1,2010
+"Los Angeles Lakers","Boston Celtics",90,89,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Los Angeles Clippers","Cleveland Cavaliers",89,114,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Orlando Magic","Detroit Pistons",91,86,"Sun, Jan 31, 2010",2010-01-31,0,1,0,2010
+"Phoenix Suns","Houston Rockets",115,111,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"New York Knicks","Minnesota Timberwolves",91,112,"Sun, Jan 31, 2010",2010-01-31,0,1,0,2010
+"Philadelphia 76ers","New Jersey Nets",83,79,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Golden State Warriors","Oklahoma City Thunder",104,112,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Denver Nuggets","San Antonio Spurs",103,89,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Indiana Pacers","Toronto Raptors",102,117,"Sun, Jan 31, 2010",2010-01-31,0,0,0,2010
+"Sacramento Kings","Denver Nuggets",109,112,"Mon, Feb 1, 2010",2010-02-01,0,0,1,2010
+"Los Angeles Lakers","Memphis Grizzlies",93,95,"Mon, Feb 1, 2010",2010-02-01,0,1,0,2010
+"Milwaukee Bucks","Miami Heat",97,81,"Mon, Feb 1, 2010",2010-02-01,0,0,0,2010
+"Phoenix Suns","New Orleans Hornets",109,100,"Mon, Feb 1, 2010",2010-02-01,0,1,0,2010
+"Charlotte Bobcats","Portland Trail Blazers",79,98,"Mon, Feb 1, 2010",2010-02-01,0,0,0,2010
+"Dallas Mavericks","Utah Jazz",92,104,"Mon, Feb 1, 2010",2010-02-01,0,0,0,2010
+"Boston Celtics","Washington Wizards",99,88,"Mon, Feb 1, 2010",2010-02-01,0,1,0,2010
+"Los Angeles Clippers","Chicago Bulls",90,82,"Tue, Feb 2, 2010",2010-02-02,0,0,0,2010
+"Memphis Grizzlies","Cleveland Cavaliers",89,105,"Tue, Feb 2, 2010",2010-02-02,0,1,0,2010
+"Golden State Warriors","Houston Rockets",97,119,"Tue, Feb 2, 2010",2010-02-02,0,0,0,2010
+"Toronto Raptors","Indiana Pacers",115,130,"Tue, Feb 2, 2010",2010-02-02,0,0,0,2010
+"Detroit Pistons","New Jersey Nets",97,93,"Tue, Feb 2, 2010",2010-02-02,0,0,0,2010
+"Atlanta Hawks","Oklahoma City Thunder",99,106,"Tue, Feb 2, 2010",2010-02-02,0,0,0,2010
+"Milwaukee Bucks","Orlando Magic",82,99,"Tue, Feb 2, 2010",2010-02-02,0,1,0,2010
+"Los Angeles Clippers","Atlanta Hawks",97,103,"Wed, Feb 3, 2010",2010-02-03,0,1,1,2010
+"Miami Heat","Boston Celtics",102,107,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"Golden State Warriors","Dallas Mavericks",101,110,"Wed, Feb 3, 2010",2010-02-03,0,1,0,2010
+"Phoenix Suns","Denver Nuggets",109,97,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"Charlotte Bobcats","Los Angeles Lakers",97,99,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"Oklahoma City Thunder","New Orleans Hornets",103,99,"Wed, Feb 3, 2010",2010-02-03,0,1,0,2010
+"Washington Wizards","New York Knicks",85,107,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"Chicago Bulls","Philadelphia 76ers",103,106,"Wed, Feb 3, 2010",2010-02-03,0,1,0,2010
+"San Antonio Spurs","Sacramento Kings",115,113,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"New Jersey Nets","Toronto Raptors",99,108,"Wed, Feb 3, 2010",2010-02-03,0,1,1,2010
+"Portland Trail Blazers","Utah Jazz",105,118,"Wed, Feb 3, 2010",2010-02-03,0,0,0,2010
+"Miami Heat","Cleveland Cavaliers",86,102,"Thu, Feb 4, 2010",2010-02-04,0,1,0,2010
+"San Antonio Spurs","Portland Trail Blazers",93,96,"Thu, Feb 4, 2010",2010-02-04,0,1,1,2010
+"Chicago Bulls","Atlanta Hawks",81,91,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"New Jersey Nets","Boston Celtics",87,96,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Minnesota Timberwolves","Dallas Mavericks",117,108,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Detroit Pistons","Indiana Pacers",83,107,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Denver Nuggets","Los Angeles Lakers",126,113,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Houston Rockets","Memphis Grizzlies",101,83,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Philadelphia 76ers","New Orleans Hornets",101,94,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Milwaukee Bucks","New York Knicks",114,107,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Washington Wizards","Orlando Magic",92,91,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"Phoenix Suns","Sacramento Kings",114,102,"Fri, Feb 5, 2010",2010-02-05,0,0,0,2010
+"New Orleans Hornets","Charlotte Bobcats",104,99,"Sat, Feb 6, 2010",2010-02-06,0,1,0,2010
+"Miami Heat","Chicago Bulls",91,95,"Sat, Feb 6, 2010",2010-02-06,0,0,1,2010
+"New York Knicks","Cleveland Cavaliers",106,113,"Sat, Feb 6, 2010",2010-02-06,0,1,0,2010
+"New Jersey Nets","Detroit Pistons",92,99,"Sat, Feb 6, 2010",2010-02-06,0,1,1,2010
+"Oklahoma City Thunder","Golden State Warriors",104,95,"Sat, Feb 6, 2010",2010-02-06,0,0,0,2010
+"Philadelphia 76ers","Houston Rockets",102,95,"Sat, Feb 6, 2010",2010-02-06,0,1,1,2010
+"San Antonio Spurs","Los Angeles Clippers",98,81,"Sat, Feb 6, 2010",2010-02-06,0,0,0,2010
+"Indiana Pacers","Milwaukee Bucks",81,93,"Sat, Feb 6, 2010",2010-02-06,0,1,1,2010
+"Memphis Grizzlies","Minnesota Timberwolves",102,109,"Sat, Feb 6, 2010",2010-02-06,0,1,1,2010
+"Los Angeles Lakers","Portland Trail Blazers",99,82,"Sat, Feb 6, 2010",2010-02-06,0,1,0,2010
+"Denver Nuggets","Utah Jazz",106,116,"Sat, Feb 6, 2010",2010-02-06,0,1,0,2010
+"Orlando Magic","Boston Celtics",96,89,"Sun, Feb 7, 2010",2010-02-07,0,0,0,2010
+"Sacramento Kings","Toronto Raptors",104,115,"Sun, Feb 7, 2010",2010-02-07,0,0,0,2010
+"Dallas Mavericks","Golden State Warriors",127,117,"Mon, Feb 8, 2010",2010-02-08,0,0,0,2010
+"San Antonio Spurs","Los Angeles Lakers",89,101,"Mon, Feb 8, 2010",2010-02-08,0,0,0,2010
+"New Orleans Hornets","Orlando Magic",117,123,"Mon, Feb 8, 2010",2010-02-08,0,0,1,2010
+"Washington Wizards","Charlotte Bobcats",92,94,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"New Jersey Nets","Cleveland Cavaliers",97,104,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Dallas Mavericks","Denver Nuggets",91,127,"Tue, Feb 9, 2010",2010-02-09,0,1,0,2010
+"Chicago Bulls","Indiana Pacers",109,101,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Utah Jazz","Los Angeles Clippers",109,99,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Atlanta Hawks","Memphis Grizzlies",108,94,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Houston Rockets","Miami Heat",66,99,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Detroit Pistons","Milwaukee Bucks",93,81,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Sacramento Kings","New York Knicks",118,114,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Minnesota Timberwolves","Philadelphia 76ers",97,119,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Oklahoma City Thunder","Portland Trail Blazers",89,77,"Tue, Feb 9, 2010",2010-02-09,0,0,0,2010
+"Miami Heat","Atlanta Hawks",94,76,"Wed, Feb 10, 2010",2010-02-10,0,1,1,2010
+"Orlando Magic","Chicago Bulls",107,87,"Wed, Feb 10, 2010",2010-02-10,0,0,1,2010
+"Sacramento Kings","Detroit Pistons",103,97,"Wed, Feb 10, 2010",2010-02-10,0,1,1,2010
+"Los Angeles Clippers","Golden State Warriors",102,132,"Wed, Feb 10, 2010",2010-02-10,0,1,0,2010
+"Charlotte Bobcats","Minnesota Timberwolves",93,92,"Wed, Feb 10, 2010",2010-02-10,0,1,1,2010
+"Milwaukee Bucks","New Jersey Nets",97,77,"Wed, Feb 10, 2010",2010-02-10,0,1,1,2010
+"Boston Celtics","New Orleans Hornets",85,93,"Wed, Feb 10, 2010",2010-02-10,0,0,0,2010
+"Portland Trail Blazers","Phoenix Suns",108,101,"Wed, Feb 10, 2010",2010-02-10,0,1,0,2010
+"Philadelphia 76ers","Toronto Raptors",93,104,"Wed, Feb 10, 2010",2010-02-10,0,1,0,2010
+"Los Angeles Lakers","Utah Jazz",96,81,"Wed, Feb 10, 2010",2010-02-10,0,0,1,2010
+"Orlando Magic","Cleveland Cavaliers",106,115,"Thu, Feb 11, 2010",2010-02-11,0,1,0,2010
+"San Antonio Spurs","Denver Nuggets",111,92,"Thu, Feb 11, 2010",2010-02-11,0,0,0,2010
+"New Jersey Nets","Charlotte Bobcats",103,94,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"New York Knicks","Chicago Bulls",85,118,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Minnesota Timberwolves","Detroit Pistons",85,108,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Utah Jazz","Houston Rockets",104,95,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Golden State Warriors","Los Angeles Lakers",94,104,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Phoenix Suns","Memphis Grizzlies",109,95,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Dallas Mavericks","Oklahoma City Thunder",86,99,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Miami Heat","Philadelphia 76ers",105,78,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Los Angeles Clippers","Portland Trail Blazers",87,109,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Boston Celtics","Sacramento Kings",95,92,"Tue, Feb 16, 2010",2010-02-16,0,0,0,2010
+"Phoenix Suns","Dallas Mavericks",97,107,"Wed, Feb 17, 2010",2010-02-17,0,1,1,2010
+"Sacramento Kings","Golden State Warriors",98,130,"Wed, Feb 17, 2010",2010-02-17,0,1,1,2010
+"San Antonio Spurs","Indiana Pacers",90,87,"Wed, Feb 17, 2010",2010-02-17,0,0,0,2010
+"Atlanta Hawks","Los Angeles Clippers",110,92,"Wed, Feb 17, 2010",2010-02-17,0,0,1,2010
+"Houston Rockets","Milwaukee Bucks",127,99,"Wed, Feb 17, 2010",2010-02-17,0,1,0,2010
+"Miami Heat","New Jersey Nets",87,84,"Wed, Feb 17, 2010",2010-02-17,0,1,1,2010
+"Utah Jazz","New Orleans Hornets",98,90,"Wed, Feb 17, 2010",2010-02-17,0,1,0,2010
+"Chicago Bulls","New York Knicks",115,109,"Wed, Feb 17, 2010",2010-02-17,0,1,1,2010
+"Detroit Pistons","Orlando Magic",91,116,"Wed, Feb 17, 2010",2010-02-17,0,1,0,2010
+"Memphis Grizzlies","Toronto Raptors",109,102,"Wed, Feb 17, 2010",2010-02-17,0,1,0,2010
+"Minnesota Timberwolves","Washington Wizards",99,108,"Wed, Feb 17, 2010",2010-02-17,0,1,0,2010
+"Denver Nuggets","Cleveland Cavaliers",118,116,"Thu, Feb 18, 2010",2010-02-18,0,0,0,2010
+"Boston Celtics","Los Angeles Lakers",87,86,"Thu, Feb 18, 2010",2010-02-18,0,0,0,2010
+"Cleveland Cavaliers","Charlotte Bobcats",93,110,"Fri, Feb 19, 2010",2010-02-19,0,1,0,2010
+"Milwaukee Bucks","Detroit Pistons",91,85,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Utah Jazz","Golden State Warriors",100,89,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Miami Heat","Memphis Grizzlies",100,87,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Chicago Bulls","Minnesota Timberwolves",100,94,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Toronto Raptors","New Jersey Nets",106,89,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Indiana Pacers","New Orleans Hornets",101,107,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Dallas Mavericks","Orlando Magic",95,85,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"San Antonio Spurs","Philadelphia 76ers",94,106,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Atlanta Hawks","Phoenix Suns",80,88,"Fri, Feb 19, 2010",2010-02-19,0,0,0,2010
+"Boston Celtics","Portland Trail Blazers",96,76,"Fri, Feb 19, 2010",2010-02-19,0,1,0,2010
+"Denver Nuggets","Washington Wizards",97,107,"Fri, Feb 19, 2010",2010-02-19,0,1,0,2010
+"Philadelphia 76ers","Chicago Bulls",90,122,"Sat, Feb 20, 2010",2010-02-20,0,1,1,2010
+"Miami Heat","Dallas Mavericks",91,97,"Sat, Feb 20, 2010",2010-02-20,0,1,1,2010
+"Indiana Pacers","Houston Rockets",125,115,"Sat, Feb 20, 2010",2010-02-20,0,1,0,2010
+"Sacramento Kings","Los Angeles Clippers",89,99,"Sat, Feb 20, 2010",2010-02-20,0,0,0,2010
+"Charlotte Bobcats","Milwaukee Bucks",88,93,"Sat, Feb 20, 2010",2010-02-20,0,1,1,2010
+"Oklahoma City Thunder","New York Knicks",121,118,"Sat, Feb 20, 2010",2010-02-20,0,0,0,2010
+"Washington Wizards","Toronto Raptors",104,109,"Sat, Feb 20, 2010",2010-02-20,0,1,1,2010
+"Boston Celtics","Denver Nuggets",105,114,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"San Antonio Spurs","Detroit Pistons",101,109,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"Atlanta Hawks","Golden State Warriors",104,108,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"Oklahoma City Thunder","Minnesota Timberwolves",109,107,"Sun, Feb 21, 2010",2010-02-21,0,1,0,2010
+"Memphis Grizzlies","New Jersey Nets",104,94,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"Houston Rockets","New Orleans Hornets",94,102,"Sun, Feb 21, 2010",2010-02-21,0,1,0,2010
+"Cleveland Cavaliers","Orlando Magic",95,101,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"Sacramento Kings","Phoenix Suns",88,104,"Sun, Feb 21, 2010",2010-02-21,0,1,0,2010
+"Utah Jazz","Portland Trail Blazers",93,89,"Sun, Feb 21, 2010",2010-02-21,0,0,0,2010
+"Indiana Pacers","Dallas Mavericks",82,91,"Mon, Feb 22, 2010",2010-02-22,0,0,0,2010
+"Charlotte Bobcats","Los Angeles Clippers",94,98,"Mon, Feb 22, 2010",2010-02-22,0,0,0,2010
+"Milwaukee Bucks","New York Knicks",83,67,"Mon, Feb 22, 2010",2010-02-22,0,0,0,2010
+"Atlanta Hawks","Utah Jazz",105,100,"Mon, Feb 22, 2010",2010-02-22,0,1,1,2010
+"Chicago Bulls","Washington Wizards",95,101,"Mon, Feb 22, 2010",2010-02-22,0,0,0,2010
+"New York Knicks","Boston Celtics",106,110,"Tue, Feb 23, 2010",2010-02-23,0,1,0,2010
+"New Orleans Hornets","Cleveland Cavaliers",95,105,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Philadelphia 76ers","Golden State Warriors",110,102,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Los Angeles Lakers","Memphis Grizzlies",99,98,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Minnesota Timberwolves","Miami Heat",91,88,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Portland Trail Blazers","New Jersey Nets",102,93,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Phoenix Suns","Oklahoma City Thunder",104,102,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Detroit Pistons","Sacramento Kings",101,89,"Tue, Feb 23, 2010",2010-02-23,0,0,0,2010
+"Minnesota Timberwolves","Atlanta Hawks",92,98,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Indiana Pacers","Chicago Bulls",110,120,"Wed, Feb 24, 2010",2010-02-24,0,0,0,2010
+"Los Angeles Lakers","Dallas Mavericks",96,101,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Orlando Magic","Houston Rockets",110,92,"Wed, Feb 24, 2010",2010-02-24,0,0,0,2010
+"Detroit Pistons","Los Angeles Clippers",91,97,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"New Orleans Hornets","Milwaukee Bucks",95,115,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Philadelphia 76ers","Phoenix Suns",95,106,"Wed, Feb 24, 2010",2010-02-24,0,1,1,2010
+"Oklahoma City Thunder","San Antonio Spurs",87,95,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Portland Trail Blazers","Toronto Raptors",101,87,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Charlotte Bobcats","Utah Jazz",93,102,"Wed, Feb 24, 2010",2010-02-24,0,0,0,2010
+"Memphis Grizzlies","Washington Wizards",99,94,"Wed, Feb 24, 2010",2010-02-24,0,1,0,2010
+"Cleveland Cavaliers","Boston Celtics",108,88,"Thu, Feb 25, 2010",2010-02-25,0,0,0,2010
+"Denver Nuggets","Golden State Warriors",127,112,"Thu, Feb 25, 2010",2010-02-25,0,0,0,2010
+"Milwaukee Bucks","Indiana Pacers",112,110,"Thu, Feb 25, 2010",2010-02-25,0,1,1,2010
+"Dallas Mavericks","Atlanta Hawks",111,103,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Portland Trail Blazers","Chicago Bulls",111,115,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Detroit Pistons","Denver Nuggets",102,107,"Fri, Feb 26, 2010",2010-02-26,0,0,1,2010
+"San Antonio Spurs","Houston Rockets",104,109,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Philadelphia 76ers","Los Angeles Lakers",90,99,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Charlotte Bobcats","Memphis Grizzlies",93,89,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Orlando Magic","New Orleans Hornets",93,100,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Minnesota Timberwolves","Oklahoma City Thunder",92,109,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Los Angeles Clippers","Phoenix Suns",112,125,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Utah Jazz","Sacramento Kings",99,103,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"Cleveland Cavaliers","Toronto Raptors",126,118,"Fri, Feb 26, 2010",2010-02-26,0,1,0,2010
+"New York Knicks","Washington Wizards",118,116,"Fri, Feb 26, 2010",2010-02-26,0,0,0,2010
+"New Jersey Nets","Boston Celtics",104,96,"Sat, Feb 27, 2010",2010-02-27,0,0,0,2010
+"Detroit Pistons","Golden State Warriors",88,95,"Sat, Feb 27, 2010",2010-02-27,0,1,0,2010
+"Chicago Bulls","Indiana Pacers",90,100,"Sat, Feb 27, 2010",2010-02-27,0,1,0,2010
+"Milwaukee Bucks","Miami Heat",94,71,"Sat, Feb 27, 2010",2010-02-27,0,0,0,2010
+"Portland Trail Blazers","Minnesota Timberwolves",110,91,"Sat, Feb 27, 2010",2010-02-27,0,1,1,2010
+"Memphis Grizzlies","New York Knicks",120,109,"Sat, Feb 27, 2010",2010-02-27,0,1,1,2010
+"Houston Rockets","Utah Jazz",110,133,"Sat, Feb 27, 2010",2010-02-27,0,1,1,2010
+"Milwaukee Bucks","Atlanta Hawks",102,106,"Sun, Feb 28, 2010",2010-02-28,0,1,0,2010
+"New Orleans Hornets","Dallas Mavericks",100,108,"Sun, Feb 28, 2010",2010-02-28,0,0,0,2010
+"Denver Nuggets","Los Angeles Lakers",89,95,"Sun, Feb 28, 2010",2010-02-28,0,0,0,2010
+"Washington Wizards","New Jersey Nets",89,85,"Sun, Feb 28, 2010",2010-02-28,0,0,1,2010
+"Toronto Raptors","Oklahoma City Thunder",99,119,"Sun, Feb 28, 2010",2010-02-28,0,0,0,2010
+"Miami Heat","Orlando Magic",80,96,"Sun, Feb 28, 2010",2010-02-28,0,1,0,2010
+"Los Angeles Clippers","Sacramento Kings",92,97,"Sun, Feb 28, 2010",2010-02-28,0,0,0,2010
+"Phoenix Suns","San Antonio Spurs",110,113,"Sun, Feb 28, 2010",2010-02-28,0,0,0,2010
+"Dallas Mavericks","Charlotte Bobcats",89,84,"Mon, Mar 1, 2010",2010-03-01,0,1,0,2010
+"Atlanta Hawks","Chicago Bulls",116,92,"Mon, Mar 1, 2010",2010-03-01,0,1,0,2010
+"New York Knicks","Cleveland Cavaliers",93,124,"Mon, Mar 1, 2010",2010-03-01,0,0,0,2010
+"Toronto Raptors","Houston Rockets",92,116,"Mon, Mar 1, 2010",2010-03-01,0,1,0,2010
+"Utah Jazz","Los Angeles Clippers",104,108,"Mon, Mar 1, 2010",2010-03-01,0,0,1,2010
+"Portland Trail Blazers","Memphis Grizzlies",103,93,"Mon, Mar 1, 2010",2010-03-01,0,0,0,2010
+"San Antonio Spurs","New Orleans Hornets",106,92,"Mon, Mar 1, 2010",2010-03-01,0,1,1,2010
+"Orlando Magic","Philadelphia 76ers",126,105,"Mon, Mar 1, 2010",2010-03-01,0,1,0,2010
+"Denver Nuggets","Phoenix Suns",85,101,"Mon, Mar 1, 2010",2010-03-01,0,1,1,2010
+"Boston Celtics","Detroit Pistons",105,100,"Tue, Mar 2, 2010",2010-03-02,0,0,0,2010
+"Indiana Pacers","Los Angeles Lakers",99,122,"Tue, Mar 2, 2010",2010-03-02,0,0,0,2010
+"Golden State Warriors","Miami Heat",106,110,"Tue, Mar 2, 2010",2010-03-02,0,0,0,2010
+"Sacramento Kings","Oklahoma City Thunder",107,113,"Tue, Mar 2, 2010",2010-03-02,0,0,0,2010
+"Philadelphia 76ers","Atlanta Hawks",93,112,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Charlotte Bobcats","Boston Celtics",80,104,"Wed, Mar 3, 2010",2010-03-03,0,0,1,2010
+"Minnesota Timberwolves","Dallas Mavericks",109,112,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Oklahoma City Thunder","Denver Nuggets",90,119,"Wed, Mar 3, 2010",2010-03-03,0,1,0,2010
+"Sacramento Kings","Houston Rockets",84,81,"Wed, Mar 3, 2010",2010-03-03,0,1,0,2010
+"Phoenix Suns","Los Angeles Clippers",127,101,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Washington Wizards","Milwaukee Bucks",87,100,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Cleveland Cavaliers","New Jersey Nets",111,92,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Memphis Grizzlies","New Orleans Hornets",104,100,"Wed, Mar 3, 2010",2010-03-03,0,0,0,2010
+"Detroit Pistons","New York Knicks",104,128,"Wed, Mar 3, 2010",2010-03-03,0,1,0,2010
+"Golden State Warriors","Orlando Magic",90,117,"Wed, Mar 3, 2010",2010-03-03,0,1,0,2010
+"Indiana Pacers","Portland Trail Blazers",79,102,"Wed, Mar 3, 2010",2010-03-03,0,1,0,2010
+"Memphis Grizzlies","Chicago Bulls",105,96,"Thu, Mar 4, 2010",2010-03-04,0,1,0,2010
+"Los Angeles Lakers","Miami Heat",111,114,"Thu, Mar 4, 2010",2010-03-04,0,0,0,2010
+"Utah Jazz","Phoenix Suns",116,108,"Thu, Mar 4, 2010",2010-03-04,0,0,1,2010
+"Golden State Warriors","Atlanta Hawks",122,127,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Los Angeles Lakers","Charlotte Bobcats",83,98,"Fri, Mar 5, 2010",2010-03-05,0,1,0,2010
+"Detroit Pistons","Cleveland Cavaliers",92,99,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Sacramento Kings","Dallas Mavericks",100,108,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Indiana Pacers","Denver Nuggets",114,122,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Oklahoma City Thunder","Los Angeles Clippers",104,87,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Orlando Magic","New Jersey Nets",97,87,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Boston Celtics","Philadelphia 76ers",96,86,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"New Orleans Hornets","San Antonio Spurs",91,102,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"New York Knicks","Toronto Raptors",96,102,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Milwaukee Bucks","Washington Wizards",102,74,"Fri, Mar 5, 2010",2010-03-05,0,0,0,2010
+"Golden State Warriors","Charlotte Bobcats",90,101,"Sat, Mar 6, 2010",2010-03-06,0,1,1,2010
+"Dallas Mavericks","Chicago Bulls",122,116,"Sat, Mar 6, 2010",2010-03-06,0,1,0,2010
+"San Antonio Spurs","Memphis Grizzlies",102,92,"Sat, Mar 6, 2010",2010-03-06,0,1,0,2010
+"Atlanta Hawks","Miami Heat",94,100,"Sat, Mar 6, 2010",2010-03-06,0,1,0,2010
+"Cleveland Cavaliers","Milwaukee Bucks",85,92,"Sat, Mar 6, 2010",2010-03-06,0,1,1,2010
+"Houston Rockets","Minnesota Timberwolves",112,98,"Sat, Mar 6, 2010",2010-03-06,0,0,0,2010
+"New Jersey Nets","New York Knicks",113,93,"Sat, Mar 6, 2010",2010-03-06,0,1,1,2010
+"Indiana Pacers","Phoenix Suns",105,113,"Sat, Mar 6, 2010",2010-03-06,0,1,0,2010
+"Los Angeles Clippers","Utah Jazz",85,107,"Sat, Mar 6, 2010",2010-03-06,0,1,0,2010
+"Washington Wizards","Boston Celtics",83,86,"Sun, Mar 7, 2010",2010-03-07,0,0,0,2010
+"Portland Trail Blazers","Denver Nuggets",106,118,"Sun, Mar 7, 2010",2010-03-07,0,0,0,2010
+"Houston Rockets","Detroit Pistons",107,110,"Sun, Mar 7, 2010",2010-03-07,0,1,0,2010
+"Los Angeles Lakers","Orlando Magic",94,96,"Sun, Mar 7, 2010",2010-03-07,0,0,0,2010
+"Oklahoma City Thunder","Sacramento Kings",108,102,"Sun, Mar 7, 2010",2010-03-07,0,0,0,2010
+"Philadelphia 76ers","Toronto Raptors",114,101,"Sun, Mar 7, 2010",2010-03-07,0,0,0,2010
+"San Antonio Spurs","Cleveland Cavaliers",95,97,"Mon, Mar 8, 2010",2010-03-08,0,0,0,2010
+"New Jersey Nets","Memphis Grizzlies",101,107,"Mon, Mar 8, 2010",2010-03-08,0,0,0,2010
+"Dallas Mavericks","Minnesota Timberwolves",125,112,"Mon, Mar 8, 2010",2010-03-08,0,0,0,2010
+"Golden State Warriors","New Orleans Hornets",131,135,"Mon, Mar 8, 2010",2010-03-08,0,0,0,2010
+"Atlanta Hawks","New York Knicks",98,99,"Mon, Mar 8, 2010",2010-03-08,0,0,0,2010
+"Miami Heat","Charlotte Bobcats",78,83,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Utah Jazz","Chicago Bulls",132,108,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Philadelphia 76ers","Indiana Pacers",96,107,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Toronto Raptors","Los Angeles Lakers",107,109,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Boston Celtics","Milwaukee Bucks",84,86,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Los Angeles Clippers","Orlando Magic",87,113,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Sacramento Kings","Portland Trail Blazers",81,88,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Houston Rockets","Washington Wizards",96,88,"Tue, Mar 9, 2010",2010-03-09,0,0,0,2010
+"Memphis Grizzlies","Boston Celtics",111,91,"Wed, Mar 10, 2010",2010-03-10,0,0,1,2010
+"New Jersey Nets","Dallas Mavericks",87,96,"Wed, Mar 10, 2010",2010-03-10,0,0,0,2010
+"Utah Jazz","Detroit Pistons",115,104,"Wed, Mar 10, 2010",2010-03-10,0,1,0,2010
+"Los Angeles Clippers","Miami Heat",97,108,"Wed, Mar 10, 2010",2010-03-10,0,1,1,2010
+"Denver Nuggets","Minnesota Timberwolves",110,102,"Wed, Mar 10, 2010",2010-03-10,0,0,0,2010
+"New Orleans Hornets","Oklahoma City Thunder",83,98,"Wed, Mar 10, 2010",2010-03-10,0,0,0,2010
+"Charlotte Bobcats","Philadelphia 76ers",102,87,"Wed, Mar 10, 2010",2010-03-10,0,1,1,2010
+"Toronto Raptors","Sacramento Kings",90,113,"Wed, Mar 10, 2010",2010-03-10,0,1,1,2010
+"New York Knicks","San Antonio Spurs",87,97,"Wed, Mar 10, 2010",2010-03-10,0,0,0,2010
+"Portland Trail Blazers","Golden State Warriors",110,105,"Thu, Mar 11, 2010",2010-03-11,0,0,0,2010
+"Chicago Bulls","Orlando Magic",82,111,"Thu, Mar 11, 2010",2010-03-11,0,0,0,2010
+"Atlanta Hawks","Washington Wizards",105,99,"Thu, Mar 11, 2010",2010-03-11,0,0,0,2010
+"Indiana Pacers","Boston Celtics",103,122,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Los Angeles Clippers","Charlotte Bobcats",98,106,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Washington Wizards","Detroit Pistons",87,101,"Fri, Mar 12, 2010",2010-03-12,0,1,0,2010
+"New York Knicks","Memphis Grizzlies",112,119,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Chicago Bulls","Miami Heat",95,108,"Fri, Mar 12, 2010",2010-03-12,0,1,0,2010
+"Utah Jazz","Milwaukee Bucks",87,95,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"San Antonio Spurs","Minnesota Timberwolves",103,85,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Denver Nuggets","New Orleans Hornets",102,95,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"New Jersey Nets","Oklahoma City Thunder",102,104,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Cleveland Cavaliers","Philadelphia 76ers",100,95,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Los Angeles Lakers","Phoenix Suns",102,96,"Fri, Mar 12, 2010",2010-03-12,0,0,0,2010
+"Portland Trail Blazers","Sacramento Kings",110,94,"Fri, Mar 12, 2010",2010-03-12,0,1,0,2010
+"Detroit Pistons","Atlanta Hawks",99,112,"Sat, Mar 13, 2010",2010-03-13,0,1,0,2010
+"New York Knicks","Dallas Mavericks",128,94,"Sat, Mar 13, 2010",2010-03-13,0,1,0,2010
+"Toronto Raptors","Golden State Warriors",112,124,"Sat, Mar 13, 2010",2010-03-13,0,0,0,2010
+"New Jersey Nets","Houston Rockets",108,116,"Sat, Mar 13, 2010",2010-03-13,0,1,0,2010
+"Denver Nuggets","Memphis Grizzlies",125,108,"Sat, Mar 13, 2010",2010-03-13,0,1,1,2010
+"Los Angeles Clippers","San Antonio Spurs",88,118,"Sat, Mar 13, 2010",2010-03-13,0,1,1,2010
+"Orlando Magic","Washington Wizards",109,95,"Sat, Mar 13, 2010",2010-03-13,0,0,1,2010
+"Boston Celtics","Cleveland Cavaliers",93,104,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Philadelphia 76ers","Miami Heat",91,104,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Indiana Pacers","Milwaukee Bucks",94,98,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Utah Jazz","Oklahoma City Thunder",111,119,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Charlotte Bobcats","Orlando Magic",96,89,"Sun, Mar 14, 2010",2010-03-14,0,0,1,2010
+"New Orleans Hornets","Phoenix Suns",106,120,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Toronto Raptors","Portland Trail Blazers",98,109,"Sun, Mar 14, 2010",2010-03-14,0,1,0,2010
+"Minnesota Timberwolves","Sacramento Kings",100,114,"Sun, Mar 14, 2010",2010-03-14,0,0,0,2010
+"Detroit Pistons","Boston Celtics",93,119,"Mon, Mar 15, 2010",2010-03-15,0,0,1,2010
+"Los Angeles Lakers","Golden State Warriors",124,121,"Mon, Mar 15, 2010",2010-03-15,0,0,0,2010
+"Denver Nuggets","Houston Rockets",123,125,"Mon, Mar 15, 2010",2010-03-15,0,0,0,2010
+"New Orleans Hornets","Los Angeles Clippers",108,100,"Mon, Mar 15, 2010",2010-03-15,0,1,0,2010
+"New York Knicks","Philadelphia 76ers",94,84,"Mon, Mar 15, 2010",2010-03-15,0,0,1,2010
+"Washington Wizards","Utah Jazz",89,112,"Mon, Mar 15, 2010",2010-03-15,0,0,1,2010
+"Washington Wizards","Denver Nuggets",87,97,"Tue, Mar 16, 2010",2010-03-16,0,1,1,2010
+"Cleveland Cavaliers","Detroit Pistons",113,101,"Tue, Mar 16, 2010",2010-03-16,0,0,1,2010
+"Charlotte Bobcats","Indiana Pacers",94,99,"Tue, Mar 16, 2010",2010-03-16,0,0,0,2010
+"Chicago Bulls","Memphis Grizzlies",97,104,"Tue, Mar 16, 2010",2010-03-16,0,0,0,2010
+"San Antonio Spurs","Miami Heat",88,76,"Tue, Mar 16, 2010",2010-03-16,0,0,0,2010
+"Atlanta Hawks","New Jersey Nets",108,84,"Tue, Mar 16, 2010",2010-03-16,0,0,0,2010
+"Minnesota Timberwolves","Phoenix Suns",114,152,"Tue, Mar 16, 2010",2010-03-16,0,0,0,2010
+"Los Angeles Lakers","Sacramento Kings",106,99,"Tue, Mar 16, 2010",2010-03-16,0,1,0,2010
+"New York Knicks","Boston Celtics",97,109,"Wed, Mar 17, 2010",2010-03-17,0,0,0,2010
+"Oklahoma City Thunder","Charlotte Bobcats",92,100,"Wed, Mar 17, 2010",2010-03-17,0,0,1,2010
+"Indiana Pacers","Cleveland Cavaliers",94,99,"Wed, Mar 17, 2010",2010-03-17,0,1,1,2010
+"Chicago Bulls","Dallas Mavericks",106,113,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"New Orleans Hornets","Golden State Warriors",121,131,"Wed, Mar 17, 2010",2010-03-17,0,0,0,2010
+"Memphis Grizzlies","Houston Rockets",94,107,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"Milwaukee Bucks","Los Angeles Clippers",93,101,"Wed, Mar 17, 2010",2010-03-17,0,0,0,2010
+"San Antonio Spurs","Orlando Magic",84,110,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"New Jersey Nets","Philadelphia 76ers",97,108,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"Atlanta Hawks","Toronto Raptors",105,106,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"Minnesota Timberwolves","Utah Jazz",100,122,"Wed, Mar 17, 2010",2010-03-17,0,1,0,2010
+"New Orleans Hornets","Denver Nuggets",80,93,"Thu, Mar 18, 2010",2010-03-18,0,1,0,2010
+"Orlando Magic","Miami Heat",108,102,"Thu, Mar 18, 2010",2010-03-18,0,1,0,2010
+"Charlotte Bobcats","Atlanta Hawks",92,93,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Cleveland Cavaliers","Chicago Bulls",92,85,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Boston Celtics","Houston Rockets",94,87,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Detroit Pistons","Indiana Pacers",102,106,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Minnesota Timberwolves","Los Angeles Lakers",96,104,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Philadelphia 76ers","New York Knicks",88,92,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Utah Jazz","Phoenix Suns",100,110,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Washington Wizards","Portland Trail Blazers",74,76,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Milwaukee Bucks","Sacramento Kings",114,108,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Golden State Warriors","San Antonio Spurs",116,147,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Oklahoma City Thunder","Toronto Raptors",115,89,"Fri, Mar 19, 2010",2010-03-19,0,0,0,2010
+"Boston Celtics","Dallas Mavericks",102,93,"Sat, Mar 20, 2010",2010-03-20,0,1,0,2010
+"Milwaukee Bucks","Denver Nuggets",102,97,"Sat, Mar 20, 2010",2010-03-20,0,1,0,2010
+"Golden State Warriors","Memphis Grizzlies",107,123,"Sat, Mar 20, 2010",2010-03-20,0,1,0,2010
+"Charlotte Bobcats","Miami Heat",71,77,"Sat, Mar 20, 2010",2010-03-20,0,1,0,2010
+"Toronto Raptors","New Jersey Nets",100,90,"Sat, Mar 20, 2010",2010-03-20,0,1,0,2010
+"Chicago Bulls","Philadelphia 76ers",98,84,"Sat, Mar 20, 2010",2010-03-20,0,1,1,2010
+"New Orleans Hornets","Utah Jazz",86,106,"Sat, Mar 20, 2010",2010-03-20,0,0,1,2010
+"San Antonio Spurs","Atlanta Hawks",114,119,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Detroit Pistons","Cleveland Cavaliers",79,104,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Oklahoma City Thunder","Indiana Pacers",101,121,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Sacramento Kings","Los Angeles Clippers",102,89,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Washington Wizards","Los Angeles Lakers",92,99,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Houston Rockets","New York Knicks",116,112,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Portland Trail Blazers","Phoenix Suns",87,93,"Sun, Mar 21, 2010",2010-03-21,0,0,0,2010
+"Houston Rockets","Chicago Bulls",88,98,"Mon, Mar 22, 2010",2010-03-22,0,1,0,2010
+"Phoenix Suns","Golden State Warriors",133,131,"Mon, Mar 22, 2010",2010-03-22,0,1,0,2010
+"Atlanta Hawks","Milwaukee Bucks",95,98,"Mon, Mar 22, 2010",2010-03-22,0,1,0,2010
+"Toronto Raptors","Minnesota Timberwolves",106,100,"Mon, Mar 22, 2010",2010-03-22,0,0,0,2010
+"Miami Heat","New Jersey Nets",99,89,"Mon, Mar 22, 2010",2010-03-22,0,0,0,2010
+"Dallas Mavericks","New Orleans Hornets",99,115,"Mon, Mar 22, 2010",2010-03-22,0,0,0,2010
+"San Antonio Spurs","Oklahoma City Thunder",99,96,"Mon, Mar 22, 2010",2010-03-22,0,1,1,2010
+"Orlando Magic","Philadelphia 76ers",109,93,"Mon, Mar 22, 2010",2010-03-22,0,0,0,2010
+"Memphis Grizzlies","Sacramento Kings",102,85,"Mon, Mar 22, 2010",2010-03-22,0,0,1,2010
+"Boston Celtics","Utah Jazz",97,110,"Mon, Mar 22, 2010",2010-03-22,0,0,0,2010
+"Los Angeles Clippers","Dallas Mavericks",96,106,"Tue, Mar 23, 2010",2010-03-23,0,0,1,2010
+"Indiana Pacers","Detroit Pistons",98,83,"Tue, Mar 23, 2010",2010-03-23,0,0,0,2010
+"Denver Nuggets","New York Knicks",104,109,"Tue, Mar 23, 2010",2010-03-23,0,0,0,2010
+"Charlotte Bobcats","Washington Wizards",95,86,"Tue, Mar 23, 2010",2010-03-23,0,0,0,2010
+"Orlando Magic","Atlanta Hawks",84,86,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Denver Nuggets","Boston Celtics",99,113,"Wed, Mar 24, 2010",2010-03-24,0,1,0,2010
+"Minnesota Timberwolves","Charlotte Bobcats",95,108,"Wed, Mar 24, 2010",2010-03-24,0,0,1,2010
+"Memphis Grizzlies","Golden State Warriors",110,128,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Washington Wizards","Indiana Pacers",82,99,"Wed, Mar 24, 2010",2010-03-24,0,1,1,2010
+"Philadelphia 76ers","Milwaukee Bucks",101,86,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Sacramento Kings","New Jersey Nets",79,93,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Cleveland Cavaliers","New Orleans Hornets",105,92,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Houston Rockets","Oklahoma City Thunder",104,122,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Los Angeles Lakers","San Antonio Spurs",92,83,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Utah Jazz","Toronto Raptors",113,87,"Wed, Mar 24, 2010",2010-03-24,0,0,0,2010
+"Miami Heat","Chicago Bulls",103,74,"Thu, Mar 25, 2010",2010-03-25,0,0,0,2010
+"Los Angeles Clippers","Houston Rockets",99,93,"Thu, Mar 25, 2010",2010-03-25,0,0,1,2010
+"Dallas Mavericks","Portland Trail Blazers",89,101,"Thu, Mar 25, 2010",2010-03-25,0,0,0,2010
+"Sacramento Kings","Boston Celtics",86,94,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Washington Wizards","Charlotte Bobcats",96,107,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Utah Jazz","Indiana Pacers",106,122,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Miami Heat","Milwaukee Bucks",87,74,"Fri, Mar 26, 2010",2010-03-26,0,1,0,2010
+"Detroit Pistons","New Jersey Nets",110,118,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Los Angeles Lakers","Oklahoma City Thunder",75,91,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Minnesota Timberwolves","Orlando Magic",97,106,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Atlanta Hawks","Philadelphia 76ers",98,105,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"New York Knicks","Phoenix Suns",96,132,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Cleveland Cavaliers","San Antonio Spurs",97,102,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"Denver Nuggets","Toronto Raptors",97,96,"Fri, Mar 26, 2010",2010-03-26,0,0,0,2010
+"New Jersey Nets","Chicago Bulls",83,106,"Sat, Mar 27, 2010",2010-03-27,0,1,0,2010
+"Dallas Mavericks","Golden State Warriors",111,90,"Sat, Mar 27, 2010",2010-03-27,0,0,0,2010
+"Los Angeles Lakers","Houston Rockets",109,101,"Sat, Mar 27, 2010",2010-03-27,0,1,0,2010
+"Portland Trail Blazers","New Orleans Hornets",112,101,"Sat, Mar 27, 2010",2010-03-27,0,0,0,2010
+"Utah Jazz","Washington Wizards",103,87,"Sat, Mar 27, 2010",2010-03-27,0,1,1,2010
+"Indiana Pacers","Atlanta Hawks",84,94,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"San Antonio Spurs","Boston Celtics",94,73,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Sacramento Kings","Cleveland Cavaliers",90,97,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Chicago Bulls","Detroit Pistons",110,103,"Sun, Mar 28, 2010",2010-03-28,0,1,0,2010
+"Golden State Warriors","Los Angeles Clippers",121,103,"Sun, Mar 28, 2010",2010-03-28,0,1,0,2010
+"Toronto Raptors","Miami Heat",94,97,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Memphis Grizzlies","Milwaukee Bucks",103,108,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Phoenix Suns","Minnesota Timberwolves",111,105,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Portland Trail Blazers","Oklahoma City Thunder",92,87,"Sun, Mar 28, 2010",2010-03-28,0,1,0,2010
+"Denver Nuggets","Orlando Magic",97,103,"Sun, Mar 28, 2010",2010-03-28,0,0,0,2010
+"Toronto Raptors","Charlotte Bobcats",103,101,"Mon, Mar 29, 2010",2010-03-29,0,1,0,2010
+"Denver Nuggets","Dallas Mavericks",93,109,"Mon, Mar 29, 2010",2010-03-29,0,1,0,2010
+"San Antonio Spurs","New Jersey Nets",84,90,"Mon, Mar 29, 2010",2010-03-29,0,1,0,2010
+"Los Angeles Lakers","New Orleans Hornets",100,108,"Mon, Mar 29, 2010",2010-03-29,0,0,0,2010
+"New York Knicks","Utah Jazz",98,103,"Mon, Mar 29, 2010",2010-03-29,0,0,0,2010
+"Phoenix Suns","Chicago Bulls",111,105,"Tue, Mar 30, 2010",2010-03-30,0,0,0,2010
+"Washington Wizards","Houston Rockets",94,98,"Tue, Mar 30, 2010",2010-03-30,0,0,0,2010
+"Sacramento Kings","Indiana Pacers",95,102,"Tue, Mar 30, 2010",2010-03-30,0,0,0,2010
+"Los Angeles Clippers","Milwaukee Bucks",89,107,"Tue, Mar 30, 2010",2010-03-30,0,0,0,2010
+"Oklahoma City Thunder","Philadelphia 76ers",111,93,"Tue, Mar 30, 2010",2010-03-30,0,0,0,2010
+"Los Angeles Lakers","Atlanta Hawks",92,109,"Wed, Mar 31, 2010",2010-03-31,0,0,0,2010
+"Oklahoma City Thunder","Boston Celtics",109,104,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Philadelphia 76ers","Charlotte Bobcats",84,103,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Milwaukee Bucks","Cleveland Cavaliers",98,101,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Miami Heat","Detroit Pistons",98,81,"Wed, Mar 31, 2010",2010-03-31,0,0,0,2010
+"Dallas Mavericks","Memphis Grizzlies",106,102,"Wed, Mar 31, 2010",2010-03-31,0,0,0,2010
+"Sacramento Kings","Minnesota Timberwolves",99,108,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Phoenix Suns","New Jersey Nets",116,105,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Washington Wizards","New Orleans Hornets",96,91,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"New York Knicks","Portland Trail Blazers",90,118,"Wed, Mar 31, 2010",2010-03-31,0,0,0,2010
+"Houston Rockets","San Antonio Spurs",102,119,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Los Angeles Clippers","Toronto Raptors",92,114,"Wed, Mar 31, 2010",2010-03-31,0,1,0,2010
+"Golden State Warriors","Utah Jazz",104,128,"Wed, Mar 31, 2010",2010-03-31,0,0,0,2010
+"Orlando Magic","Dallas Mavericks",97,82,"Thu, Apr 1, 2010",2010-04-01,0,0,1,2010
+"Portland Trail Blazers","Denver Nuggets",92,109,"Thu, Apr 1, 2010",2010-04-01,0,1,0,2010
+"Houston Rockets","Boston Celtics",119,114,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Milwaukee Bucks","Charlotte Bobcats",86,87,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Atlanta Hawks","Cleveland Cavaliers",88,93,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Phoenix Suns","Detroit Pistons",109,94,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"New York Knicks","Golden State Warriors",117,128,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Miami Heat","Indiana Pacers",105,96,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Utah Jazz","Los Angeles Lakers",92,106,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"New Orleans Hornets","Memphis Grizzlies",96,107,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Orlando Magic","San Antonio Spurs",100,112,"Fri, Apr 2, 2010",2010-04-02,0,1,0,2010
+"Chicago Bulls","Washington Wizards",95,87,"Fri, Apr 2, 2010",2010-04-02,0,0,0,2010
+"Detroit Pistons","Atlanta Hawks",85,91,"Sat, Apr 3, 2010",2010-04-03,0,1,1,2010
+"Charlotte Bobcats","Chicago Bulls",88,96,"Sat, Apr 3, 2010",2010-04-03,0,1,1,2010
+"Oklahoma City Thunder","Dallas Mavericks",121,116,"Sat, Apr 3, 2010",2010-04-03,0,0,0,2010
+"Los Angeles Clippers","Denver Nuggets",90,98,"Sat, Apr 3, 2010",2010-04-03,0,0,0,2010
+"Phoenix Suns","Milwaukee Bucks",98,107,"Sat, Apr 3, 2010",2010-04-03,0,1,1,2010
+"Miami Heat","Minnesota Timberwolves",97,84,"Sat, Apr 3, 2010",2010-04-03,0,1,0,2010
+"New Orleans Hornets","New Jersey Nets",87,115,"Sat, Apr 3, 2010",2010-04-03,0,1,0,2010
+"Toronto Raptors","Philadelphia 76ers",128,123,"Sat, Apr 3, 2010",2010-04-03,0,0,0,2010
+"Portland Trail Blazers","Sacramento Kings",98,87,"Sat, Apr 3, 2010",2010-04-03,0,0,0,2010
+"Cleveland Cavaliers","Boston Celtics",113,117,"Sun, Apr 4, 2010",2010-04-04,0,0,0,2010
+"Houston Rockets","Indiana Pacers",102,133,"Sun, Apr 4, 2010",2010-04-04,0,0,0,2010
+"New York Knicks","Los Angeles Clippers",113,107,"Sun, Apr 4, 2010",2010-04-04,0,0,1,2010
+"San Antonio Spurs","Los Angeles Lakers",100,81,"Sun, Apr 4, 2010",2010-04-04,0,0,0,2010
+"Minnesota Timberwolves","Oklahoma City Thunder",108,116,"Sun, Apr 4, 2010",2010-04-04,0,1,1,2010
+"Memphis Grizzlies","Orlando Magic",92,107,"Sun, Apr 4, 2010",2010-04-04,0,0,0,2010
+"Golden State Warriors","Toronto Raptors",113,112,"Sun, Apr 4, 2010",2010-04-04,0,0,1,2010
+"New Jersey Nets","Washington Wizards",99,109,"Sun, Apr 4, 2010",2010-04-04,0,1,0,2010
+"Atlanta Hawks","Charlotte Bobcats",100,109,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Milwaukee Bucks","Chicago Bulls",79,74,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Toronto Raptors","Cleveland Cavaliers",101,113,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Houston Rockets","Memphis Grizzlies",113,103,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Boston Celtics","New York Knicks",101,104,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Detroit Pistons","Philadelphia 76ers",124,103,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"San Antonio Spurs","Sacramento Kings",95,86,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Oklahoma City Thunder","Utah Jazz",139,140,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Golden State Warriors","Washington Wizards",94,112,"Tue, Apr 6, 2010",2010-04-06,0,0,0,2010
+"Memphis Grizzlies","Dallas Mavericks",84,110,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"Atlanta Hawks","Detroit Pistons",88,90,"Wed, Apr 7, 2010",2010-04-07,0,1,1,2010
+"Utah Jazz","Houston Rockets",96,113,"Wed, Apr 7, 2010",2010-04-07,0,1,1,2010
+"New York Knicks","Indiana Pacers",105,113,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"Portland Trail Blazers","Los Angeles Clippers",93,85,"Wed, Apr 7, 2010",2010-04-07,0,0,0,2010
+"Philadelphia 76ers","Miami Heat",95,99,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"New Jersey Nets","Milwaukee Bucks",89,108,"Wed, Apr 7, 2010",2010-04-07,0,0,1,2010
+"Golden State Warriors","Minnesota Timberwolves",116,107,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"Charlotte Bobcats","New Orleans Hornets",104,103,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"Denver Nuggets","Oklahoma City Thunder",98,94,"Wed, Apr 7, 2010",2010-04-07,0,0,1,2010
+"Washington Wizards","Orlando Magic",94,121,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"San Antonio Spurs","Phoenix Suns",101,112,"Wed, Apr 7, 2010",2010-04-07,0,1,0,2010
+"Boston Celtics","Toronto Raptors",115,104,"Wed, Apr 7, 2010",2010-04-07,0,1,1,2010
+"Cleveland Cavaliers","Chicago Bulls",108,109,"Thu, Apr 8, 2010",2010-04-08,0,0,0,2010
+"Los Angeles Lakers","Denver Nuggets",96,98,"Thu, Apr 8, 2010",2010-04-08,0,0,1,2010
+"Los Angeles Clippers","Sacramento Kings",94,116,"Thu, Apr 8, 2010",2010-04-08,0,1,0,2010
+"Toronto Raptors","Atlanta Hawks",101,107,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Washington Wizards","Boston Celtics",106,96,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Indiana Pacers","Cleveland Cavaliers",116,113,"Fri, Apr 9, 2010",2010-04-09,0,0,1,2010
+"Charlotte Bobcats","Houston Rockets",90,97,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Detroit Pistons","Miami Heat",106,99,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Los Angeles Lakers","Minnesota Timberwolves",97,88,"Fri, Apr 9, 2010",2010-04-09,0,1,0,2010
+"Chicago Bulls","New Jersey Nets",116,127,"Fri, Apr 9, 2010",2010-04-09,0,1,0,2010
+"Utah Jazz","New Orleans Hornets",114,103,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Phoenix Suns","Oklahoma City Thunder",91,96,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"New York Knicks","Orlando Magic",103,118,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Milwaukee Bucks","Philadelphia 76ers",95,90,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Dallas Mavericks","Portland Trail Blazers",83,77,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Memphis Grizzlies","San Antonio Spurs",107,99,"Fri, Apr 9, 2010",2010-04-09,0,0,0,2010
+"Detroit Pistons","Charlotte Bobcats",95,99,"Sat, Apr 10, 2010",2010-04-10,0,1,1,2010
+"San Antonio Spurs","Denver Nuggets",104,85,"Sat, Apr 10, 2010",2010-04-10,0,1,0,2010
+"New Jersey Nets","Indiana Pacers",102,115,"Sat, Apr 10, 2010",2010-04-10,0,1,1,2010
+"Golden State Warriors","Los Angeles Clippers",104,107,"Sat, Apr 10, 2010",2010-04-10,0,0,0,2010
+"Philadelphia 76ers","Memphis Grizzlies",120,101,"Sat, Apr 10, 2010",2010-04-10,0,1,1,2010
+"Boston Celtics","Milwaukee Bucks",105,90,"Sat, Apr 10, 2010",2010-04-10,0,1,1,2010
+"Dallas Mavericks","Sacramento Kings",126,108,"Sat, Apr 10, 2010",2010-04-10,0,1,0,2010
+"Atlanta Hawks","Washington Wizards",105,95,"Sat, Apr 10, 2010",2010-04-10,0,1,1,2010
+"Orlando Magic","Cleveland Cavaliers",98,92,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Oklahoma City Thunder","Golden State Warriors",117,120,"Sun, Apr 11, 2010",2010-04-11,0,0,1,2010
+"Portland Trail Blazers","Los Angeles Lakers",91,88,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Minnesota Timberwolves","New Orleans Hornets",86,114,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Miami Heat","New York Knicks",111,98,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Houston Rockets","Phoenix Suns",106,116,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Chicago Bulls","Toronto Raptors",104,88,"Sun, Apr 11, 2010",2010-04-11,0,0,0,2010
+"Memphis Grizzlies","Denver Nuggets",101,123,"Mon, Apr 12, 2010",2010-04-12,0,0,0,2010
+"Toronto Raptors","Detroit Pistons",111,97,"Mon, Apr 12, 2010",2010-04-12,0,1,0,2010
+"Orlando Magic","Indiana Pacers",118,98,"Mon, Apr 12, 2010",2010-04-12,0,1,0,2010
+"Dallas Mavericks","Los Angeles Clippers",117,94,"Mon, Apr 12, 2010",2010-04-12,0,0,0,2010
+"Atlanta Hawks","Milwaukee Bucks",104,96,"Mon, Apr 12, 2010",2010-04-12,0,0,0,2010
+"Charlotte Bobcats","New Jersey Nets",105,95,"Mon, Apr 12, 2010",2010-04-12,0,0,0,2010
+"Washington Wizards","New York Knicks",103,114,"Mon, Apr 12, 2010",2010-04-12,0,0,1,2010
+"Miami Heat","Philadelphia 76ers",107,105,"Mon, Apr 12, 2010",2010-04-12,0,1,0,2010
+"Oklahoma City Thunder","Portland Trail Blazers",95,103,"Mon, Apr 12, 2010",2010-04-12,0,1,1,2010
+"Houston Rockets","Sacramento Kings",117,107,"Mon, Apr 12, 2010",2010-04-12,0,1,0,2010
+"Minnesota Timberwolves","San Antonio Spurs",111,133,"Mon, Apr 12, 2010",2010-04-12,0,1,0,2010
+"Boston Celtics","Chicago Bulls",93,101,"Tue, Apr 13, 2010",2010-04-13,0,0,0,2010
+"Utah Jazz","Golden State Warriors",103,94,"Tue, Apr 13, 2010",2010-04-13,0,0,0,2010
+"Sacramento Kings","Los Angeles Lakers",100,106,"Tue, Apr 13, 2010",2010-04-13,0,1,0,2010
+"Denver Nuggets","Phoenix Suns",101,123,"Tue, Apr 13, 2010",2010-04-13,0,1,0,2010
+"Cleveland Cavaliers","Atlanta Hawks",83,99,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Milwaukee Bucks","Boston Celtics",106,95,"Wed, Apr 14, 2010",2010-04-14,0,0,1,2010
+"Chicago Bulls","Charlotte Bobcats",98,89,"Wed, Apr 14, 2010",2010-04-14,0,1,0,2010
+"San Antonio Spurs","Dallas Mavericks",89,96,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"New Orleans Hornets","Houston Rockets",123,115,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Los Angeles Lakers","Los Angeles Clippers",91,107,"Wed, Apr 14, 2010",2010-04-14,0,1,0,2010
+"New Jersey Nets","Miami Heat",86,94,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Detroit Pistons","Minnesota Timberwolves",103,98,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Memphis Grizzlies","Oklahoma City Thunder",105,114,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Philadelphia 76ers","Orlando Magic",111,125,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Golden State Warriors","Portland Trail Blazers",122,116,"Wed, Apr 14, 2010",2010-04-14,0,1,0,2010
+"New York Knicks","Toronto Raptors",113,131,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010
+"Phoenix Suns","Utah Jazz",100,86,"Wed, Apr 14, 2010",2010-04-14,0,1,1,2010
+"Indiana Pacers","Washington Wizards",97,98,"Wed, Apr 14, 2010",2010-04-14,0,0,0,2010

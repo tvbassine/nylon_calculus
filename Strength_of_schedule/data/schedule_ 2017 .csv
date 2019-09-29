@@ -1,0 +1,1231 @@
+"away","home","a.sc","h.sc","date","dateR","yet_to_play","away_bb","home_bb","year"
+"New York Knicks","Cleveland Cavaliers",88,117,"Tue, Oct 25, 2016",2016-10-25,0,0,0,2017
+"San Antonio Spurs","Golden State Warriors",129,100,"Tue, Oct 25, 2016",2016-10-25,0,0,0,2017
+"Utah Jazz","Portland Trail Blazers",104,113,"Tue, Oct 25, 2016",2016-10-25,0,0,0,2017
+"Brooklyn Nets","Boston Celtics",117,122,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Dallas Mavericks","Indiana Pacers",121,130,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Houston Rockets","Los Angeles Lakers",114,120,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Minnesota Timberwolves","Memphis Grizzlies",98,102,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Charlotte Hornets","Milwaukee Bucks",107,96,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Denver Nuggets","New Orleans Pelicans",107,102,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Miami Heat","Orlando Magic",108,96,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Oklahoma City Thunder","Philadelphia 76ers",103,97,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Sacramento Kings","Phoenix Suns",113,94,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Detroit Pistons","Toronto Raptors",91,109,"Wed, Oct 26, 2016",2016-10-26,0,0,0,2017
+"Washington Wizards","Atlanta Hawks",99,114,"Thu, Oct 27, 2016",2016-10-27,0,0,0,2017
+"Boston Celtics","Chicago Bulls",99,105,"Thu, Oct 27, 2016",2016-10-27,0,1,0,2017
+"Los Angeles Clippers","Portland Trail Blazers",114,106,"Thu, Oct 27, 2016",2016-10-27,0,0,0,2017
+"San Antonio Spurs","Sacramento Kings",102,94,"Thu, Oct 27, 2016",2016-10-27,0,0,1,2017
+"Indiana Pacers","Brooklyn Nets",94,103,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Houston Rockets","Dallas Mavericks",106,98,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Orlando Magic","Detroit Pistons",82,108,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Charlotte Hornets","Miami Heat",97,91,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Golden State Warriors","New Orleans Pelicans",122,114,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Phoenix Suns","Oklahoma City Thunder",110,113,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Cleveland Cavaliers","Toronto Raptors",94,91,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Los Angeles Lakers","Utah Jazz",89,96,"Fri, Oct 28, 2016",2016-10-28,0,0,0,2017
+"Indiana Pacers","Chicago Bulls",101,118,"Sat, Oct 29, 2016",2016-10-29,0,1,0,2017
+"Boston Celtics","Charlotte Hornets",104,98,"Sat, Oct 29, 2016",2016-10-29,0,0,1,2017
+"Orlando Magic","Cleveland Cavaliers",99,105,"Sat, Oct 29, 2016",2016-10-29,0,1,1,2017
+"Portland Trail Blazers","Denver Nuggets",115,113,"Sat, Oct 29, 2016",2016-10-29,0,0,0,2017
+"Brooklyn Nets","Milwaukee Bucks",108,110,"Sat, Oct 29, 2016",2016-10-29,0,1,0,2017
+"Memphis Grizzlies","New York Knicks",104,111,"Sat, Oct 29, 2016",2016-10-29,0,0,0,2017
+"Atlanta Hawks","Philadelphia 76ers",104,72,"Sat, Oct 29, 2016",2016-10-29,0,0,0,2017
+"Minnesota Timberwolves","Sacramento Kings",103,106,"Sat, Oct 29, 2016",2016-10-29,0,0,0,2017
+"New Orleans Pelicans","San Antonio Spurs",79,98,"Sat, Oct 29, 2016",2016-10-29,0,1,0,2017
+"Milwaukee Bucks","Detroit Pistons",83,98,"Sun, Oct 30, 2016",2016-10-30,0,1,0,2017
+"Dallas Mavericks","Houston Rockets",92,93,"Sun, Oct 30, 2016",2016-10-30,0,0,0,2017
+"Utah Jazz","Los Angeles Clippers",75,88,"Sun, Oct 30, 2016",2016-10-30,0,0,0,2017
+"Washington Wizards","Memphis Grizzlies",103,112,"Sun, Oct 30, 2016",2016-10-30,0,0,1,2017
+"San Antonio Spurs","Miami Heat",106,99,"Sun, Oct 30, 2016",2016-10-30,0,1,0,2017
+"Los Angeles Lakers","Oklahoma City Thunder",96,113,"Sun, Oct 30, 2016",2016-10-30,0,0,0,2017
+"Golden State Warriors","Phoenix Suns",106,100,"Sun, Oct 30, 2016",2016-10-30,0,0,0,2017
+"Sacramento Kings","Atlanta Hawks",95,106,"Mon, Oct 31, 2016",2016-10-31,0,0,0,2017
+"Chicago Bulls","Brooklyn Nets",118,88,"Mon, Oct 31, 2016",2016-10-31,0,0,0,2017
+"Phoenix Suns","Los Angeles Clippers",98,116,"Mon, Oct 31, 2016",2016-10-31,0,1,1,2017
+"Denver Nuggets","Toronto Raptors",102,105,"Mon, Oct 31, 2016",2016-10-31,0,0,0,2017
+"Houston Rockets","Cleveland Cavaliers",120,128,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"New York Knicks","Detroit Pistons",89,102,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Los Angeles Lakers","Indiana Pacers",108,115,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Sacramento Kings","Miami Heat",96,108,"Tue, Nov 1, 2016",2016-11-01,0,1,0,2017
+"Memphis Grizzlies","Minnesota Timberwolves",80,116,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Milwaukee Bucks","New Orleans Pelicans",117,113,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Orlando Magic","Philadelphia 76ers",103,101,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Golden State Warriors","Portland Trail Blazers",127,104,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Utah Jazz","San Antonio Spurs",106,91,"Tue, Nov 1, 2016",2016-11-01,0,0,0,2017
+"Los Angeles Lakers","Atlanta Hawks",123,116,"Wed, Nov 2, 2016",2016-11-02,0,1,0,2017
+"Chicago Bulls","Boston Celtics",100,107,"Wed, Nov 2, 2016",2016-11-02,0,0,0,2017
+"Detroit Pistons","Brooklyn Nets",101,109,"Wed, Nov 2, 2016",2016-11-02,0,1,0,2017
+"Philadelphia 76ers","Charlotte Hornets",93,109,"Wed, Nov 2, 2016",2016-11-02,0,1,0,2017
+"Oklahoma City Thunder","Los Angeles Clippers",85,83,"Wed, Nov 2, 2016",2016-11-02,0,0,0,2017
+"New Orleans Pelicans","Memphis Grizzlies",83,89,"Wed, Nov 2, 2016",2016-11-02,0,1,1,2017
+"Houston Rockets","New York Knicks",118,99,"Wed, Nov 2, 2016",2016-11-02,0,1,1,2017
+"Portland Trail Blazers","Phoenix Suns",115,118,"Wed, Nov 2, 2016",2016-11-02,0,1,0,2017
+"Dallas Mavericks","Utah Jazz",81,97,"Wed, Nov 2, 2016",2016-11-02,0,0,1,2017
+"Toronto Raptors","Washington Wizards",113,103,"Wed, Nov 2, 2016",2016-11-02,0,0,0,2017
+"Boston Celtics","Cleveland Cavaliers",122,128,"Thu, Nov 3, 2016",2016-11-03,0,1,0,2017
+"Oklahoma City Thunder","Golden State Warriors",96,122,"Thu, Nov 3, 2016",2016-11-03,0,1,0,2017
+"Indiana Pacers","Milwaukee Bucks",107,125,"Thu, Nov 3, 2016",2016-11-03,0,0,0,2017
+"Denver Nuggets","Minnesota Timberwolves",102,99,"Thu, Nov 3, 2016",2016-11-03,0,0,0,2017
+"Sacramento Kings","Orlando Magic",94,102,"Thu, Nov 3, 2016",2016-11-03,0,0,0,2017
+"Charlotte Hornets","Brooklyn Nets",99,95,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"New York Knicks","Chicago Bulls",117,104,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Portland Trail Blazers","Dallas Mavericks",105,95,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Golden State Warriors","Los Angeles Lakers",97,117,"Fri, Nov 4, 2016",2016-11-04,0,1,0,2017
+"Los Angeles Clippers","Memphis Grizzlies",99,88,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Phoenix Suns","New Orleans Pelicans",112,111,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Miami Heat","Toronto Raptors",87,96,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"San Antonio Spurs","Utah Jazz",100,86,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Atlanta Hawks","Washington Wizards",92,95,"Fri, Nov 4, 2016",2016-11-04,0,0,0,2017
+"Houston Rockets","Atlanta Hawks",97,112,"Sat, Nov 5, 2016",2016-11-05,0,0,1,2017
+"Denver Nuggets","Detroit Pistons",86,103,"Sat, Nov 5, 2016",2016-11-05,0,0,0,2017
+"Chicago Bulls","Indiana Pacers",94,111,"Sat, Nov 5, 2016",2016-11-05,0,1,0,2017
+"Sacramento Kings","Milwaukee Bucks",91,117,"Sat, Nov 5, 2016",2016-11-05,0,0,0,2017
+"Minnesota Timberwolves","Oklahoma City Thunder",92,112,"Sat, Nov 5, 2016",2016-11-05,0,0,0,2017
+"Washington Wizards","Orlando Magic",86,88,"Sat, Nov 5, 2016",2016-11-05,0,1,0,2017
+"Cleveland Cavaliers","Philadelphia 76ers",102,101,"Sat, Nov 5, 2016",2016-11-05,0,0,0,2017
+"Los Angeles Clippers","San Antonio Spurs",116,92,"Sat, Nov 5, 2016",2016-11-05,0,1,1,2017
+"Denver Nuggets","Boston Celtics",123,107,"Sun, Nov 6, 2016",2016-11-06,0,1,0,2017
+"Milwaukee Bucks","Dallas Mavericks",75,86,"Sun, Nov 6, 2016",2016-11-06,0,1,0,2017
+"Phoenix Suns","Los Angeles Lakers",108,119,"Sun, Nov 6, 2016",2016-11-06,0,0,0,2017
+"Portland Trail Blazers","Memphis Grizzlies",100,94,"Sun, Nov 6, 2016",2016-11-06,0,0,0,2017
+"Utah Jazz","New York Knicks",114,109,"Sun, Nov 6, 2016",2016-11-06,0,0,0,2017
+"Sacramento Kings","Toronto Raptors",96,91,"Sun, Nov 6, 2016",2016-11-06,0,1,0,2017
+"Orlando Magic","Chicago Bulls",80,112,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"Indiana Pacers","Charlotte Hornets",100,122,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"New Orleans Pelicans","Golden State Warriors",106,116,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"Detroit Pistons","Los Angeles Clippers",82,114,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"Miami Heat","Oklahoma City Thunder",85,97,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"Utah Jazz","Philadelphia 76ers",109,84,"Mon, Nov 7, 2016",2016-11-07,0,1,0,2017
+"Houston Rockets","Washington Wizards",114,106,"Mon, Nov 7, 2016",2016-11-07,0,0,0,2017
+"Minnesota Timberwolves","Brooklyn Nets",110,119,"Tue, Nov 8, 2016",2016-11-08,0,0,0,2017
+"Atlanta Hawks","Cleveland Cavaliers",110,106,"Tue, Nov 8, 2016",2016-11-08,0,0,0,2017
+"Dallas Mavericks","Los Angeles Lakers",109,97,"Tue, Nov 8, 2016",2016-11-08,0,0,0,2017
+"Denver Nuggets","Memphis Grizzlies",107,108,"Tue, Nov 8, 2016",2016-11-08,0,0,0,2017
+"Phoenix Suns","Portland Trail Blazers",121,124,"Tue, Nov 8, 2016",2016-11-08,0,0,0,2017
+"New Orleans Pelicans","Sacramento Kings",94,102,"Tue, Nov 8, 2016",2016-11-08,0,1,0,2017
+"Chicago Bulls","Atlanta Hawks",107,115,"Wed, Nov 9, 2016",2016-11-09,0,0,1,2017
+"Utah Jazz","Charlotte Hornets",98,104,"Wed, Nov 9, 2016",2016-11-09,0,0,0,2017
+"Dallas Mavericks","Golden State Warriors",95,116,"Wed, Nov 9, 2016",2016-11-09,0,1,0,2017
+"Philadelphia 76ers","Indiana Pacers",115,122,"Wed, Nov 9, 2016",2016-11-09,0,0,0,2017
+"Portland Trail Blazers","Los Angeles Clippers",80,111,"Wed, Nov 9, 2016",2016-11-09,0,1,0,2017
+"Brooklyn Nets","New York Knicks",96,110,"Wed, Nov 9, 2016",2016-11-09,0,1,0,2017
+"Toronto Raptors","Oklahoma City Thunder",112,102,"Wed, Nov 9, 2016",2016-11-09,0,0,0,2017
+"Minnesota Timberwolves","Orlando Magic",123,107,"Wed, Nov 9, 2016",2016-11-09,0,1,0,2017
+"Detroit Pistons","Phoenix Suns",100,107,"Wed, Nov 9, 2016",2016-11-09,0,0,1,2017
+"Houston Rockets","San Antonio Spurs",101,99,"Wed, Nov 9, 2016",2016-11-09,0,0,0,2017
+"Boston Celtics","Washington Wizards",93,118,"Wed, Nov 9, 2016",2016-11-09,0,0,0,2017
+"Golden State Warriors","Denver Nuggets",125,101,"Thu, Nov 10, 2016",2016-11-10,0,1,0,2017
+"Chicago Bulls","Miami Heat",98,95,"Thu, Nov 10, 2016",2016-11-10,0,1,0,2017
+"New Orleans Pelicans","Milwaukee Bucks",112,106,"Thu, Nov 10, 2016",2016-11-10,0,0,0,2017
+"Los Angeles Lakers","Sacramento Kings",101,91,"Thu, Nov 10, 2016",2016-11-10,0,0,0,2017
+"New York Knicks","Boston Celtics",87,115,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Toronto Raptors","Charlotte Hornets",113,111,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Los Angeles Clippers","Oklahoma City Thunder",110,108,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Utah Jazz","Orlando Magic",87,74,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Indiana Pacers","Philadelphia 76ers",105,109,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Sacramento Kings","Portland Trail Blazers",120,122,"Fri, Nov 11, 2016",2016-11-11,0,1,0,2017
+"Detroit Pistons","San Antonio Spurs",86,96,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Cleveland Cavaliers","Washington Wizards",105,94,"Fri, Nov 11, 2016",2016-11-11,0,0,0,2017
+"Philadelphia 76ers","Atlanta Hawks",96,117,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"Washington Wizards","Chicago Bulls",95,106,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"Detroit Pistons","Denver Nuggets",106,95,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"San Antonio Spurs","Houston Rockets",106,100,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"Boston Celtics","Indiana Pacers",105,99,"Sat, Nov 12, 2016",2016-11-12,0,1,1,2017
+"Utah Jazz","Miami Heat",102,91,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"Memphis Grizzlies","Milwaukee Bucks",96,106,"Sat, Nov 12, 2016",2016-11-12,0,0,0,2017
+"Los Angeles Clippers","Minnesota Timberwolves",119,105,"Sat, Nov 12, 2016",2016-11-12,0,1,0,2017
+"Los Angeles Lakers","New Orleans Pelicans",126,99,"Sat, Nov 12, 2016",2016-11-12,0,0,0,2017
+"Brooklyn Nets","Phoenix Suns",122,104,"Sat, Nov 12, 2016",2016-11-12,0,0,0,2017
+"New York Knicks","Toronto Raptors",107,118,"Sat, Nov 12, 2016",2016-11-12,0,1,1,2017
+"Charlotte Hornets","Cleveland Cavaliers",93,100,"Sun, Nov 13, 2016",2016-11-13,0,0,0,2017
+"Phoenix Suns","Golden State Warriors",120,133,"Sun, Nov 13, 2016",2016-11-13,0,1,0,2017
+"Los Angeles Lakers","Minnesota Timberwolves",99,125,"Sun, Nov 13, 2016",2016-11-13,0,1,1,2017
+"Orlando Magic","Oklahoma City Thunder",119,117,"Sun, Nov 13, 2016",2016-11-13,0,0,0,2017
+"Denver Nuggets","Portland Trail Blazers",105,112,"Sun, Nov 13, 2016",2016-11-13,0,1,0,2017
+"Oklahoma City Thunder","Detroit Pistons",88,104,"Mon, Nov 14, 2016",2016-11-14,0,1,0,2017
+"Philadelphia 76ers","Houston Rockets",88,115,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Orlando Magic","Indiana Pacers",69,88,"Mon, Nov 14, 2016",2016-11-14,0,1,0,2017
+"Brooklyn Nets","Los Angeles Clippers",95,127,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Boston Celtics","New Orleans Pelicans",105,106,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Dallas Mavericks","New York Knicks",77,93,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Miami Heat","San Antonio Spurs",90,94,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Memphis Grizzlies","Utah Jazz",102,96,"Mon, Nov 14, 2016",2016-11-14,0,0,0,2017
+"Toronto Raptors","Cleveland Cavaliers",117,121,"Tue, Nov 15, 2016",2016-11-15,0,0,0,2017
+"Brooklyn Nets","Los Angeles Lakers",118,125,"Tue, Nov 15, 2016",2016-11-15,0,1,0,2017
+"Atlanta Hawks","Miami Heat",93,90,"Tue, Nov 15, 2016",2016-11-15,0,0,1,2017
+"Charlotte Hornets","Minnesota Timberwolves",115,108,"Tue, Nov 15, 2016",2016-11-15,0,0,0,2017
+"Chicago Bulls","Portland Trail Blazers",113,88,"Tue, Nov 15, 2016",2016-11-15,0,0,0,2017
+"Milwaukee Bucks","Atlanta Hawks",100,107,"Wed, Nov 16, 2016",2016-11-16,0,0,1,2017
+"Dallas Mavericks","Boston Celtics",83,90,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Phoenix Suns","Denver Nuggets",104,120,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Cleveland Cavaliers","Indiana Pacers",93,103,"Wed, Nov 16, 2016",2016-11-16,0,1,0,2017
+"Memphis Grizzlies","Los Angeles Clippers",111,107,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Detroit Pistons","New York Knicks",102,105,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Houston Rockets","Oklahoma City Thunder",103,105,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"New Orleans Pelicans","Orlando Magic",82,89,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Washington Wizards","Philadelphia 76ers",102,109,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"San Antonio Spurs","Sacramento Kings",110,105,"Wed, Nov 16, 2016",2016-11-16,0,0,0,2017
+"Golden State Warriors","Toronto Raptors",127,121,"Wed, Nov 16, 2016",2016-11-16,0,0,1,2017
+"Portland Trail Blazers","Houston Rockets",109,126,"Thu, Nov 17, 2016",2016-11-17,0,0,1,2017
+"Milwaukee Bucks","Miami Heat",73,96,"Thu, Nov 17, 2016",2016-11-17,0,1,0,2017
+"Philadelphia 76ers","Minnesota Timberwolves",86,110,"Thu, Nov 17, 2016",2016-11-17,0,1,0,2017
+"Chicago Bulls","Utah Jazz",85,77,"Thu, Nov 17, 2016",2016-11-17,0,0,0,2017
+"New York Knicks","Washington Wizards",112,119,"Thu, Nov 17, 2016",2016-11-17,0,1,1,2017
+"Golden State Warriors","Boston Celtics",104,88,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Atlanta Hawks","Charlotte Hornets",96,100,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Detroit Pistons","Cleveland Cavaliers",81,104,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Memphis Grizzlies","Dallas Mavericks",80,64,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Toronto Raptors","Denver Nuggets",113,111,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Phoenix Suns","Indiana Pacers",116,96,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"San Antonio Spurs","Los Angeles Lakers",116,107,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Portland Trail Blazers","New Orleans Pelicans",101,113,"Fri, Nov 18, 2016",2016-11-18,0,1,0,2017
+"Brooklyn Nets","Oklahoma City Thunder",105,124,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Los Angeles Clippers","Sacramento Kings",121,115,"Fri, Nov 18, 2016",2016-11-18,0,0,0,2017
+"Boston Celtics","Detroit Pistons",94,92,"Sat, Nov 19, 2016",2016-11-19,0,1,1,2017
+"Utah Jazz","Houston Rockets",102,111,"Sat, Nov 19, 2016",2016-11-19,0,0,0,2017
+"Chicago Bulls","Los Angeles Clippers",95,102,"Sat, Nov 19, 2016",2016-11-19,0,0,1,2017
+"Minnesota Timberwolves","Memphis Grizzlies",71,93,"Sat, Nov 19, 2016",2016-11-19,0,0,1,2017
+"Golden State Warriors","Milwaukee Bucks",124,121,"Sat, Nov 19, 2016",2016-11-19,0,1,0,2017
+"Charlotte Hornets","New Orleans Pelicans",116,121,"Sat, Nov 19, 2016",2016-11-19,0,1,1,2017
+"Dallas Mavericks","Orlando Magic",87,95,"Sat, Nov 19, 2016",2016-11-19,0,1,0,2017
+"Phoenix Suns","Philadelphia 76ers",105,120,"Sat, Nov 19, 2016",2016-11-19,0,1,0,2017
+"Miami Heat","Washington Wizards",114,111,"Sat, Nov 19, 2016",2016-11-19,0,0,0,2017
+"Portland Trail Blazers","Brooklyn Nets",129,109,"Sun, Nov 20, 2016",2016-11-20,0,0,0,2017
+"Utah Jazz","Denver Nuggets",91,105,"Sun, Nov 20, 2016",2016-11-20,0,1,0,2017
+"Chicago Bulls","Los Angeles Lakers",118,110,"Sun, Nov 20, 2016",2016-11-20,0,1,0,2017
+"Atlanta Hawks","New York Knicks",94,104,"Sun, Nov 20, 2016",2016-11-20,0,0,0,2017
+"Indiana Pacers","Oklahoma City Thunder",115,111,"Sun, Nov 20, 2016",2016-11-20,0,0,0,2017
+"Toronto Raptors","Sacramento Kings",99,102,"Sun, Nov 20, 2016",2016-11-20,0,0,0,2017
+"Memphis Grizzlies","Charlotte Hornets",105,90,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Houston Rockets","Detroit Pistons",99,96,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Golden State Warriors","Indiana Pacers",120,83,"Mon, Nov 21, 2016",2016-11-21,0,0,1,2017
+"Toronto Raptors","Los Angeles Clippers",115,123,"Mon, Nov 21, 2016",2016-11-21,0,1,0,2017
+"Orlando Magic","Milwaukee Bucks",89,93,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Boston Celtics","Minnesota Timberwolves",99,93,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Miami Heat","Philadelphia 76ers",94,101,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Dallas Mavericks","San Antonio Spurs",91,96,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"Phoenix Suns","Washington Wizards",101,106,"Mon, Nov 21, 2016",2016-11-21,0,0,0,2017
+"New Orleans Pelicans","Atlanta Hawks",112,94,"Tue, Nov 22, 2016",2016-11-22,0,0,0,2017
+"Chicago Bulls","Denver Nuggets",107,110,"Tue, Nov 22, 2016",2016-11-22,0,0,0,2017
+"Oklahoma City Thunder","Los Angeles Lakers",109,111,"Tue, Nov 22, 2016",2016-11-22,0,0,0,2017
+"Portland Trail Blazers","New York Knicks",103,107,"Tue, Nov 22, 2016",2016-11-22,0,0,0,2017
+"Boston Celtics","Brooklyn Nets",111,92,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"San Antonio Spurs","Charlotte Hornets",119,114,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Portland Trail Blazers","Cleveland Cavaliers",125,137,"Wed, Nov 23, 2016",2016-11-23,0,1,0,2017
+"Los Angeles Clippers","Dallas Mavericks",124,104,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Miami Heat","Detroit Pistons",84,107,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Los Angeles Lakers","Golden State Warriors",106,149,"Wed, Nov 23, 2016",2016-11-23,0,1,0,2017
+"Toronto Raptors","Houston Rockets",115,102,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Atlanta Hawks","Indiana Pacers",96,85,"Wed, Nov 23, 2016",2016-11-23,0,1,0,2017
+"Minnesota Timberwolves","New Orleans Pelicans",96,117,"Wed, Nov 23, 2016",2016-11-23,0,0,1,2017
+"Phoenix Suns","Orlando Magic",92,87,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Memphis Grizzlies","Philadelphia 76ers",104,99,"Wed, Nov 23, 2016",2016-11-23,0,0,0,2017
+"Oklahoma City Thunder","Sacramento Kings",101,116,"Wed, Nov 23, 2016",2016-11-23,0,1,0,2017
+"Denver Nuggets","Utah Jazz",83,108,"Wed, Nov 23, 2016",2016-11-23,0,1,0,2017
+"San Antonio Spurs","Boston Celtics",109,103,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Dallas Mavericks","Cleveland Cavaliers",90,128,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Oklahoma City Thunder","Denver Nuggets",132,129,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Los Angeles Clippers","Detroit Pistons",97,108,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Brooklyn Nets","Indiana Pacers",97,118,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Golden State Warriors","Los Angeles Lakers",109,85,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Miami Heat","Memphis Grizzlies",90,81,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Toronto Raptors","Milwaukee Bucks",105,99,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Charlotte Hornets","New York Knicks",111,113,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Washington Wizards","Orlando Magic",94,91,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Chicago Bulls","Philadelphia 76ers",105,89,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Minnesota Timberwolves","Phoenix Suns",98,85,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"New Orleans Pelicans","Portland Trail Blazers",104,119,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Houston Rockets","Sacramento Kings",117,104,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"Atlanta Hawks","Utah Jazz",68,95,"Fri, Nov 25, 2016",2016-11-25,0,0,0,2017
+"New York Knicks","Charlotte Hornets",102,107,"Sat, Nov 26, 2016",2016-11-26,0,1,1,2017
+"Minnesota Timberwolves","Golden State Warriors",102,115,"Sat, Nov 26, 2016",2016-11-26,0,1,1,2017
+"Memphis Grizzlies","Miami Heat",110,107,"Sat, Nov 26, 2016",2016-11-26,0,1,1,2017
+"Detroit Pistons","Oklahoma City Thunder",88,106,"Sat, Nov 26, 2016",2016-11-26,0,1,1,2017
+"San Antonio Spurs","Washington Wizards",112,100,"Sat, Nov 26, 2016",2016-11-26,0,1,1,2017
+"Sacramento Kings","Brooklyn Nets",122,105,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"New Orleans Pelicans","Dallas Mavericks",81,91,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Los Angeles Clippers","Indiana Pacers",70,91,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Atlanta Hawks","Los Angeles Lakers",94,109,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Milwaukee Bucks","Orlando Magic",104,96,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Cleveland Cavaliers","Philadelphia 76ers",112,108,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Denver Nuggets","Phoenix Suns",120,114,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Houston Rockets","Portland Trail Blazers",130,114,"Sun, Nov 27, 2016",2016-11-27,0,0,0,2017
+"Atlanta Hawks","Golden State Warriors",100,105,"Mon, Nov 28, 2016",2016-11-28,0,1,0,2017
+"Charlotte Hornets","Memphis Grizzlies",104,85,"Mon, Nov 28, 2016",2016-11-28,0,0,0,2017
+"Boston Celtics","Miami Heat",112,104,"Mon, Nov 28, 2016",2016-11-28,0,0,0,2017
+"Utah Jazz","Minnesota Timberwolves",112,103,"Mon, Nov 28, 2016",2016-11-28,0,0,0,2017
+"Oklahoma City Thunder","New York Knicks",112,103,"Mon, Nov 28, 2016",2016-11-28,0,0,0,2017
+"Philadelphia 76ers","Toronto Raptors",95,122,"Mon, Nov 28, 2016",2016-11-28,0,1,0,2017
+"Sacramento Kings","Washington Wizards",95,101,"Mon, Nov 28, 2016",2016-11-28,0,1,0,2017
+"Los Angeles Clippers","Brooklyn Nets",122,127,"Tue, Nov 29, 2016",2016-11-29,0,0,0,2017
+"Detroit Pistons","Charlotte Hornets",112,89,"Tue, Nov 29, 2016",2016-11-29,0,0,1,2017
+"Cleveland Cavaliers","Milwaukee Bucks",101,118,"Tue, Nov 29, 2016",2016-11-29,0,0,0,2017
+"Los Angeles Lakers","New Orleans Pelicans",88,105,"Tue, Nov 29, 2016",2016-11-29,0,0,0,2017
+"Orlando Magic","San Antonio Spurs",95,83,"Tue, Nov 29, 2016",2016-11-29,0,0,0,2017
+"Houston Rockets","Utah Jazz",101,120,"Tue, Nov 29, 2016",2016-11-29,0,0,1,2017
+"Detroit Pistons","Boston Celtics",121,114,"Wed, Nov 30, 2016",2016-11-30,0,1,0,2017
+"Los Angeles Lakers","Chicago Bulls",96,90,"Wed, Nov 30, 2016",2016-11-30,0,1,0,2017
+"San Antonio Spurs","Dallas Mavericks",94,87,"Wed, Nov 30, 2016",2016-11-30,0,1,0,2017
+"Miami Heat","Denver Nuggets",106,98,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"New York Knicks","Minnesota Timberwolves",106,104,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"Washington Wizards","Oklahoma City Thunder",115,126,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"Atlanta Hawks","Phoenix Suns",107,109,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"Indiana Pacers","Portland Trail Blazers",109,131,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"Memphis Grizzlies","Toronto Raptors",105,120,"Wed, Nov 30, 2016",2016-11-30,0,0,0,2017
+"Milwaukee Bucks","Brooklyn Nets",111,93,"Thu, Dec 1, 2016",2016-12-01,0,0,0,2017
+"Dallas Mavericks","Charlotte Hornets",87,97,"Thu, Dec 1, 2016",2016-12-01,0,1,0,2017
+"Los Angeles Clippers","Cleveland Cavaliers",113,94,"Thu, Dec 1, 2016",2016-12-01,0,0,0,2017
+"Houston Rockets","Golden State Warriors",132,127,"Thu, Dec 1, 2016",2016-12-01,0,0,0,2017
+"Orlando Magic","Memphis Grizzlies",94,95,"Thu, Dec 1, 2016",2016-12-01,0,0,1,2017
+"Miami Heat","Utah Jazz",111,110,"Thu, Dec 1, 2016",2016-12-01,0,1,0,2017
+"Detroit Pistons","Atlanta Hawks",121,85,"Fri, Dec 2, 2016",2016-12-02,0,0,0,2017
+"Sacramento Kings","Boston Celtics",92,97,"Fri, Dec 2, 2016",2016-12-02,0,0,0,2017
+"Cleveland Cavaliers","Chicago Bulls",105,111,"Fri, Dec 2, 2016",2016-12-02,0,1,0,2017
+"Houston Rockets","Denver Nuggets",128,110,"Fri, Dec 2, 2016",2016-12-02,0,1,0,2017
+"Los Angeles Clippers","New Orleans Pelicans",114,96,"Fri, Dec 2, 2016",2016-12-02,0,1,0,2017
+"Minnesota Timberwolves","New York Knicks",114,118,"Fri, Dec 2, 2016",2016-12-02,0,0,0,2017
+"Orlando Magic","Philadelphia 76ers",105,88,"Fri, Dec 2, 2016",2016-12-02,0,1,0,2017
+"Washington Wizards","San Antonio Spurs",105,107,"Fri, Dec 2, 2016",2016-12-02,0,0,0,2017
+"Los Angeles Lakers","Toronto Raptors",80,113,"Fri, Dec 2, 2016",2016-12-02,0,0,0,2017
+"Minnesota Timberwolves","Charlotte Hornets",125,120,"Sat, Dec 3, 2016",2016-12-03,0,1,0,2017
+"Chicago Bulls","Dallas Mavericks",82,107,"Sat, Dec 3, 2016",2016-12-03,0,1,0,2017
+"Phoenix Suns","Golden State Warriors",109,138,"Sat, Dec 3, 2016",2016-12-03,0,0,0,2017
+"Los Angeles Lakers","Memphis Grizzlies",100,103,"Sat, Dec 3, 2016",2016-12-03,0,1,0,2017
+"Brooklyn Nets","Milwaukee Bucks",103,112,"Sat, Dec 3, 2016",2016-12-03,0,0,0,2017
+"Boston Celtics","Philadelphia 76ers",107,106,"Sat, Dec 3, 2016",2016-12-03,0,1,1,2017
+"Miami Heat","Portland Trail Blazers",92,99,"Sat, Dec 3, 2016",2016-12-03,0,0,0,2017
+"Atlanta Hawks","Toronto Raptors",84,128,"Sat, Dec 3, 2016",2016-12-03,0,1,1,2017
+"Denver Nuggets","Utah Jazz",98,105,"Sat, Dec 3, 2016",2016-12-03,0,1,0,2017
+"Orlando Magic","Detroit Pistons",98,92,"Sun, Dec 4, 2016",2016-12-04,0,0,0,2017
+"Indiana Pacers","Los Angeles Clippers",111,102,"Sun, Dec 4, 2016",2016-12-04,0,0,0,2017
+"Sacramento Kings","New York Knicks",98,106,"Sun, Dec 4, 2016",2016-12-04,0,0,0,2017
+"New Orleans Pelicans","Oklahoma City Thunder",92,101,"Sun, Dec 4, 2016",2016-12-04,0,0,0,2017
+"Oklahoma City Thunder","Atlanta Hawks",102,99,"Mon, Dec 5, 2016",2016-12-05,0,1,0,2017
+"Washington Wizards","Brooklyn Nets",118,113,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Portland Trail Blazers","Chicago Bulls",112,110,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Charlotte Hornets","Dallas Mavericks",109,101,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Indiana Pacers","Golden State Warriors",106,142,"Mon, Dec 5, 2016",2016-12-05,0,1,0,2017
+"Boston Celtics","Houston Rockets",106,107,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Utah Jazz","Los Angeles Lakers",107,101,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"San Antonio Spurs","Milwaukee Bucks",97,96,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Memphis Grizzlies","New Orleans Pelicans",110,108,"Mon, Dec 5, 2016",2016-12-05,0,0,1,2017
+"Denver Nuggets","Philadelphia 76ers",106,98,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Cleveland Cavaliers","Toronto Raptors",116,112,"Mon, Dec 5, 2016",2016-12-05,0,0,0,2017
+"Chicago Bulls","Detroit Pistons",91,102,"Tue, Dec 6, 2016",2016-12-06,0,1,0,2017
+"Philadelphia 76ers","Memphis Grizzlies",91,96,"Tue, Dec 6, 2016",2016-12-06,0,1,1,2017
+"New York Knicks","Miami Heat",114,103,"Tue, Dec 6, 2016",2016-12-06,0,0,0,2017
+"San Antonio Spurs","Minnesota Timberwolves",105,91,"Tue, Dec 6, 2016",2016-12-06,0,1,0,2017
+"Phoenix Suns","Utah Jazz",105,112,"Tue, Dec 6, 2016",2016-12-06,0,0,1,2017
+"Orlando Magic","Washington Wizards",124,116,"Tue, Dec 6, 2016",2016-12-06,0,0,1,2017
+"Miami Heat","Atlanta Hawks",95,103,"Wed, Dec 7, 2016",2016-12-07,0,1,0,2017
+"Denver Nuggets","Brooklyn Nets",111,116,"Wed, Dec 7, 2016",2016-12-07,0,0,0,2017
+"Detroit Pistons","Charlotte Hornets",77,87,"Wed, Dec 7, 2016",2016-12-07,0,1,0,2017
+"Sacramento Kings","Dallas Mavericks",120,89,"Wed, Dec 7, 2016",2016-12-07,0,0,0,2017
+"Los Angeles Lakers","Houston Rockets",95,134,"Wed, Dec 7, 2016",2016-12-07,0,0,0,2017
+"Golden State Warriors","Los Angeles Clippers",115,98,"Wed, Dec 7, 2016",2016-12-07,0,0,0,2017
+"Portland Trail Blazers","Milwaukee Bucks",107,115,"Wed, Dec 7, 2016",2016-12-07,0,0,0,2017
+"Cleveland Cavaliers","New York Knicks",126,94,"Wed, Dec 7, 2016",2016-12-07,0,0,1,2017
+"Boston Celtics","Orlando Magic",117,87,"Wed, Dec 7, 2016",2016-12-07,0,0,1,2017
+"Indiana Pacers","Phoenix Suns",109,94,"Wed, Dec 7, 2016",2016-12-07,0,0,1,2017
+"San Antonio Spurs","Chicago Bulls",91,95,"Thu, Dec 8, 2016",2016-12-08,0,0,0,2017
+"Portland Trail Blazers","Memphis Grizzlies",86,88,"Thu, Dec 8, 2016",2016-12-08,0,1,0,2017
+"Philadelphia 76ers","New Orleans Pelicans",99,88,"Thu, Dec 8, 2016",2016-12-08,0,0,0,2017
+"Minnesota Timberwolves","Toronto Raptors",110,124,"Thu, Dec 8, 2016",2016-12-08,0,0,0,2017
+"Golden State Warriors","Utah Jazz",106,99,"Thu, Dec 8, 2016",2016-12-08,0,1,0,2017
+"Denver Nuggets","Washington Wizards",85,92,"Thu, Dec 8, 2016",2016-12-08,0,1,0,2017
+"Toronto Raptors","Boston Celtics",101,94,"Fri, Dec 9, 2016",2016-12-09,0,1,0,2017
+"Orlando Magic","Charlotte Hornets",88,109,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Miami Heat","Cleveland Cavaliers",84,114,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Indiana Pacers","Dallas Mavericks",103,111,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Phoenix Suns","Los Angeles Lakers",119,115,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Atlanta Hawks","Milwaukee Bucks",114,110,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Detroit Pistons","Minnesota Timberwolves",117,90,"Fri, Dec 9, 2016",2016-12-09,0,0,1,2017
+"Houston Rockets","Oklahoma City Thunder",102,99,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"New York Knicks","Sacramento Kings",103,100,"Fri, Dec 9, 2016",2016-12-09,0,0,0,2017
+"Miami Heat","Chicago Bulls",100,105,"Sat, Dec 10, 2016",2016-12-10,0,1,0,2017
+"Charlotte Hornets","Cleveland Cavaliers",105,116,"Sat, Dec 10, 2016",2016-12-10,0,1,1,2017
+"Dallas Mavericks","Houston Rockets",87,109,"Sat, Dec 10, 2016",2016-12-10,0,1,1,2017
+"Portland Trail Blazers","Indiana Pacers",111,118,"Sat, Dec 10, 2016",2016-12-10,0,0,1,2017
+"New Orleans Pelicans","Los Angeles Clippers",105,133,"Sat, Dec 10, 2016",2016-12-10,0,0,0,2017
+"Golden State Warriors","Memphis Grizzlies",89,110,"Sat, Dec 10, 2016",2016-12-10,0,0,0,2017
+"Denver Nuggets","Orlando Magic",121,113,"Sat, Dec 10, 2016",2016-12-10,0,0,1,2017
+"Brooklyn Nets","San Antonio Spurs",101,130,"Sat, Dec 10, 2016",2016-12-10,0,0,0,2017
+"Sacramento Kings","Utah Jazz",84,104,"Sat, Dec 10, 2016",2016-12-10,0,1,0,2017
+"Milwaukee Bucks","Washington Wizards",105,110,"Sat, Dec 10, 2016",2016-12-10,0,1,0,2017
+"Philadelphia 76ers","Detroit Pistons",97,79,"Sun, Dec 11, 2016",2016-12-11,0,0,0,2017
+"New York Knicks","Los Angeles Lakers",118,112,"Sun, Dec 11, 2016",2016-12-11,0,0,0,2017
+"Golden State Warriors","Minnesota Timberwolves",116,108,"Sun, Dec 11, 2016",2016-12-11,0,1,0,2017
+"Boston Celtics","Oklahoma City Thunder",96,99,"Sun, Dec 11, 2016",2016-12-11,0,0,0,2017
+"New Orleans Pelicans","Phoenix Suns",120,119,"Sun, Dec 11, 2016",2016-12-11,0,1,0,2017
+"Denver Nuggets","Dallas Mavericks",92,112,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Brooklyn Nets","Houston Rockets",118,122,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Charlotte Hornets","Indiana Pacers",94,110,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Portland Trail Blazers","Los Angeles Clippers",120,121,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Washington Wizards","Miami Heat",101,112,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Los Angeles Lakers","Sacramento Kings",92,116,"Mon, Dec 12, 2016",2016-12-12,0,1,0,2017
+"Milwaukee Bucks","Toronto Raptors",100,122,"Mon, Dec 12, 2016",2016-12-12,0,0,0,2017
+"Orlando Magic","Atlanta Hawks",131,120,"Tue, Dec 13, 2016",2016-12-13,0,0,0,2017
+"Minnesota Timberwolves","Chicago Bulls",99,94,"Tue, Dec 13, 2016",2016-12-13,0,0,0,2017
+"Memphis Grizzlies","Cleveland Cavaliers",86,103,"Tue, Dec 13, 2016",2016-12-13,0,0,0,2017
+"Golden State Warriors","New Orleans Pelicans",113,109,"Tue, Dec 13, 2016",2016-12-13,0,0,0,2017
+"New York Knicks","Phoenix Suns",111,113,"Tue, Dec 13, 2016",2016-12-13,0,0,0,2017
+"Oklahoma City Thunder","Portland Trail Blazers",95,114,"Tue, Dec 13, 2016",2016-12-13,0,0,1,2017
+"Los Angeles Lakers","Brooklyn Nets",97,107,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Detroit Pistons","Dallas Mavericks",95,85,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Sacramento Kings","Houston Rockets",98,132,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Cleveland Cavaliers","Memphis Grizzlies",85,93,"Wed, Dec 14, 2016",2016-12-14,0,1,1,2017
+"Indiana Pacers","Miami Heat",89,95,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Los Angeles Clippers","Orlando Magic",113,108,"Wed, Dec 14, 2016",2016-12-14,0,0,1,2017
+"Toronto Raptors","Philadelphia 76ers",123,114,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Boston Celtics","San Antonio Spurs",101,108,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Oklahoma City Thunder","Utah Jazz",89,109,"Wed, Dec 14, 2016",2016-12-14,0,1,0,2017
+"Charlotte Hornets","Washington Wizards",106,109,"Wed, Dec 14, 2016",2016-12-14,0,0,0,2017
+"Portland Trail Blazers","Denver Nuggets",120,132,"Thu, Dec 15, 2016",2016-12-15,0,0,0,2017
+"New York Knicks","Golden State Warriors",90,103,"Thu, Dec 15, 2016",2016-12-15,0,0,0,2017
+"Chicago Bulls","Milwaukee Bucks",97,108,"Thu, Dec 15, 2016",2016-12-15,0,0,0,2017
+"Indiana Pacers","New Orleans Pelicans",95,102,"Thu, Dec 15, 2016",2016-12-15,0,1,0,2017
+"San Antonio Spurs","Phoenix Suns",107,92,"Thu, Dec 15, 2016",2016-12-15,0,1,0,2017
+"Charlotte Hornets","Boston Celtics",88,96,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Milwaukee Bucks","Chicago Bulls",95,69,"Fri, Dec 16, 2016",2016-12-16,0,1,1,2017
+"New Orleans Pelicans","Houston Rockets",100,122,"Fri, Dec 16, 2016",2016-12-16,0,1,0,2017
+"Sacramento Kings","Memphis Grizzlies",96,92,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Los Angeles Clippers","Miami Heat",102,98,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Brooklyn Nets","Orlando Magic",111,118,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Los Angeles Lakers","Philadelphia 76ers",100,89,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Atlanta Hawks","Toronto Raptors",125,121,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Dallas Mavericks","Utah Jazz",100,103,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Detroit Pistons","Washington Wizards",108,122,"Fri, Dec 16, 2016",2016-12-16,0,0,0,2017
+"Charlotte Hornets","Atlanta Hawks",107,99,"Sat, Dec 17, 2016",2016-12-17,0,1,1,2017
+"Los Angeles Lakers","Cleveland Cavaliers",108,119,"Sat, Dec 17, 2016",2016-12-17,0,1,0,2017
+"New York Knicks","Denver Nuggets",114,127,"Sat, Dec 17, 2016",2016-12-17,0,0,0,2017
+"Indiana Pacers","Detroit Pistons",105,90,"Sat, Dec 17, 2016",2016-12-17,0,0,1,2017
+"Portland Trail Blazers","Golden State Warriors",90,135,"Sat, Dec 17, 2016",2016-12-17,0,0,0,2017
+"Houston Rockets","Minnesota Timberwolves",111,109,"Sat, Dec 17, 2016",2016-12-17,0,1,0,2017
+"Phoenix Suns","Oklahoma City Thunder",101,114,"Sat, Dec 17, 2016",2016-12-17,0,0,0,2017
+"Sacramento Kings","Dallas Mavericks",79,99,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Utah Jazz","Memphis Grizzlies",82,73,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Boston Celtics","Miami Heat",105,95,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Toronto Raptors","Orlando Magic",109,79,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Brooklyn Nets","Philadelphia 76ers",107,108,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"New Orleans Pelicans","San Antonio Spurs",100,113,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Los Angeles Clippers","Washington Wizards",110,117,"Sun, Dec 18, 2016",2016-12-18,0,0,0,2017
+"Detroit Pistons","Chicago Bulls",82,113,"Mon, Dec 19, 2016",2016-12-19,0,0,0,2017
+"Dallas Mavericks","Denver Nuggets",107,117,"Mon, Dec 19, 2016",2016-12-19,0,1,0,2017
+"Washington Wizards","Indiana Pacers",105,107,"Mon, Dec 19, 2016",2016-12-19,0,1,0,2017
+"Phoenix Suns","Minnesota Timberwolves",108,115,"Mon, Dec 19, 2016",2016-12-19,0,0,0,2017
+"Atlanta Hawks","Oklahoma City Thunder",110,108,"Mon, Dec 19, 2016",2016-12-19,0,0,0,2017
+"Los Angeles Lakers","Charlotte Hornets",113,117,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Utah Jazz","Golden State Warriors",74,104,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"San Antonio Spurs","Houston Rockets",102,100,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Denver Nuggets","Los Angeles Clippers",102,119,"Tue, Dec 20, 2016",2016-12-20,0,1,0,2017
+"Boston Celtics","Memphis Grizzlies",112,109,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Orlando Magic","Miami Heat",136,130,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Cleveland Cavaliers","Milwaukee Bucks",114,108,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Indiana Pacers","New York Knicks",111,118,"Tue, Dec 20, 2016",2016-12-20,0,1,0,2017
+"New Orleans Pelicans","Philadelphia 76ers",108,93,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Portland Trail Blazers","Sacramento Kings",121,126,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Brooklyn Nets","Toronto Raptors",104,116,"Tue, Dec 20, 2016",2016-12-20,0,0,0,2017
+"Minnesota Timberwolves","Atlanta Hawks",92,84,"Wed, Dec 21, 2016",2016-12-21,0,0,0,2017
+"Washington Wizards","Chicago Bulls",107,97,"Wed, Dec 21, 2016",2016-12-21,0,0,0,2017
+"Milwaukee Bucks","Cleveland Cavaliers",102,113,"Wed, Dec 21, 2016",2016-12-21,0,1,1,2017
+"Memphis Grizzlies","Detroit Pistons",98,86,"Wed, Dec 21, 2016",2016-12-21,0,1,0,2017
+"Oklahoma City Thunder","New Orleans Pelicans",121,110,"Wed, Dec 21, 2016",2016-12-21,0,0,1,2017
+"Houston Rockets","Phoenix Suns",125,111,"Wed, Dec 21, 2016",2016-12-21,0,1,0,2017
+"Dallas Mavericks","Portland Trail Blazers",96,95,"Wed, Dec 21, 2016",2016-12-21,0,0,1,2017
+"Sacramento Kings","Utah Jazz",94,93,"Wed, Dec 21, 2016",2016-12-21,0,1,1,2017
+"Golden State Warriors","Brooklyn Nets",117,101,"Thu, Dec 22, 2016",2016-12-22,0,0,0,2017
+"Boston Celtics","Indiana Pacers",109,102,"Thu, Dec 22, 2016",2016-12-22,0,0,0,2017
+"San Antonio Spurs","Los Angeles Clippers",101,106,"Thu, Dec 22, 2016",2016-12-22,0,0,0,2017
+"Los Angeles Lakers","Miami Heat",107,115,"Thu, Dec 22, 2016",2016-12-22,0,0,0,2017
+"Orlando Magic","New York Knicks",95,106,"Thu, Dec 22, 2016",2016-12-22,0,0,0,2017
+"Oklahoma City Thunder","Boston Celtics",117,112,"Fri, Dec 23, 2016",2016-12-23,0,0,1,2017
+"Chicago Bulls","Charlotte Hornets",91,103,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Brooklyn Nets","Cleveland Cavaliers",99,119,"Fri, Dec 23, 2016",2016-12-23,0,1,0,2017
+"Atlanta Hawks","Denver Nuggets",109,108,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Golden State Warriors","Detroit Pistons",119,113,"Fri, Dec 23, 2016",2016-12-23,0,1,0,2017
+"Dallas Mavericks","Los Angeles Clippers",90,88,"Fri, Dec 23, 2016",2016-12-23,0,0,1,2017
+"Houston Rockets","Memphis Grizzlies",109,115,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Washington Wizards","Milwaukee Bucks",96,123,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Sacramento Kings","Minnesota Timberwolves",109,105,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Miami Heat","New Orleans Pelicans",87,91,"Fri, Dec 23, 2016",2016-12-23,0,1,0,2017
+"Los Angeles Lakers","Orlando Magic",90,109,"Fri, Dec 23, 2016",2016-12-23,0,1,1,2017
+"Philadelphia 76ers","Phoenix Suns",116,123,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"San Antonio Spurs","Portland Trail Blazers",110,90,"Fri, Dec 23, 2016",2016-12-23,0,1,0,2017
+"Toronto Raptors","Utah Jazz",104,98,"Fri, Dec 23, 2016",2016-12-23,0,0,0,2017
+"Golden State Warriors","Cleveland Cavaliers",108,109,"Sun, Dec 25, 2016",2016-12-25,0,0,0,2017
+"Los Angeles Clippers","Los Angeles Lakers",102,111,"Sun, Dec 25, 2016",2016-12-25,0,0,0,2017
+"Boston Celtics","New York Knicks",119,114,"Sun, Dec 25, 2016",2016-12-25,0,0,0,2017
+"Minnesota Timberwolves","Oklahoma City Thunder",100,112,"Sun, Dec 25, 2016",2016-12-25,0,0,0,2017
+"Chicago Bulls","San Antonio Spurs",100,119,"Sun, Dec 25, 2016",2016-12-25,0,0,0,2017
+"Charlotte Hornets","Brooklyn Nets",118,120,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Indiana Pacers","Chicago Bulls",85,90,"Mon, Dec 26, 2016",2016-12-26,0,0,1,2017
+"Cleveland Cavaliers","Detroit Pistons",90,106,"Mon, Dec 26, 2016",2016-12-26,0,1,0,2017
+"Phoenix Suns","Houston Rockets",115,131,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Denver Nuggets","Los Angeles Clippers",106,102,"Mon, Dec 26, 2016",2016-12-26,0,0,1,2017
+"Atlanta Hawks","Minnesota Timberwolves",90,104,"Mon, Dec 26, 2016",2016-12-26,0,0,1,2017
+"Dallas Mavericks","New Orleans Pelicans",104,111,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Memphis Grizzlies","Orlando Magic",102,112,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Toronto Raptors","Portland Trail Blazers",95,91,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Philadelphia 76ers","Sacramento Kings",100,102,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Milwaukee Bucks","Washington Wizards",102,107,"Mon, Dec 26, 2016",2016-12-26,0,0,0,2017
+"Memphis Grizzlies","Boston Celtics",103,113,"Tue, Dec 27, 2016",2016-12-27,0,1,0,2017
+"Houston Rockets","Dallas Mavericks",123,107,"Tue, Dec 27, 2016",2016-12-27,0,1,1,2017
+"Utah Jazz","Los Angeles Lakers",102,100,"Tue, Dec 27, 2016",2016-12-27,0,0,0,2017
+"Oklahoma City Thunder","Miami Heat",106,94,"Tue, Dec 27, 2016",2016-12-27,0,0,0,2017
+"New York Knicks","Atlanta Hawks",98,102,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Brooklyn Nets","Chicago Bulls",99,101,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Minnesota Timberwolves","Denver Nuggets",103,105,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Milwaukee Bucks","Detroit Pistons",119,94,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Toronto Raptors","Golden State Warriors",111,121,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Los Angeles Clippers","New Orleans Pelicans",98,102,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Charlotte Hornets","Orlando Magic",120,101,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Sacramento Kings","Portland Trail Blazers",89,102,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Phoenix Suns","San Antonio Spurs",98,119,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Indiana Pacers","Washington Wizards",105,111,"Wed, Dec 28, 2016",2016-12-28,0,0,0,2017
+"Miami Heat","Charlotte Hornets",82,91,"Thu, Dec 29, 2016",2016-12-29,0,0,1,2017
+"Boston Celtics","Cleveland Cavaliers",118,124,"Thu, Dec 29, 2016",2016-12-29,0,0,0,2017
+"Dallas Mavericks","Los Angeles Lakers",101,89,"Thu, Dec 29, 2016",2016-12-29,0,0,0,2017
+"Oklahoma City Thunder","Memphis Grizzlies",80,114,"Thu, Dec 29, 2016",2016-12-29,0,0,0,2017
+"Toronto Raptors","Phoenix Suns",91,99,"Thu, Dec 29, 2016",2016-12-29,0,1,1,2017
+"Philadelphia 76ers","Utah Jazz",83,100,"Thu, Dec 29, 2016",2016-12-29,0,0,0,2017
+"Detroit Pistons","Atlanta Hawks",98,105,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Miami Heat","Boston Celtics",114,117,"Fri, Dec 30, 2016",2016-12-30,0,1,1,2017
+"Philadelphia 76ers","Denver Nuggets",124,122,"Fri, Dec 30, 2016",2016-12-30,0,1,0,2017
+"Dallas Mavericks","Golden State Warriors",99,108,"Fri, Dec 30, 2016",2016-12-30,0,1,0,2017
+"Los Angeles Clippers","Houston Rockets",116,140,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Chicago Bulls","Indiana Pacers",101,111,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Milwaukee Bucks","Minnesota Timberwolves",99,116,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"New York Knicks","New Orleans Pelicans",92,104,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Portland Trail Blazers","San Antonio Spurs",94,110,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Brooklyn Nets","Washington Wizards",95,118,"Fri, Dec 30, 2016",2016-12-30,0,0,0,2017
+"Milwaukee Bucks","Chicago Bulls",116,96,"Sat, Dec 31, 2016",2016-12-31,0,1,1,2017
+"Cleveland Cavaliers","Charlotte Hornets",121,109,"Sat, Dec 31, 2016",2016-12-31,0,0,0,2017
+"New York Knicks","Houston Rockets",122,129,"Sat, Dec 31, 2016",2016-12-31,0,1,1,2017
+"Los Angeles Clippers","Oklahoma City Thunder",88,114,"Sat, Dec 31, 2016",2016-12-31,0,1,0,2017
+"Memphis Grizzlies","Sacramento Kings",112,98,"Sat, Dec 31, 2016",2016-12-31,0,0,0,2017
+"Phoenix Suns","Utah Jazz",86,91,"Sat, Dec 31, 2016",2016-12-31,0,0,0,2017
+"San Antonio Spurs","Atlanta Hawks",112,114,"Sun, Jan 1, 2017",2017-01-01,0,0,0,2017
+"Orlando Magic","Indiana Pacers",104,117,"Sun, Jan 1, 2017",2017-01-01,0,0,0,2017
+"Toronto Raptors","Los Angeles Lakers",123,114,"Sun, Jan 1, 2017",2017-01-01,0,0,0,2017
+"Detroit Pistons","Miami Heat",107,98,"Sun, Jan 1, 2017",2017-01-01,0,0,0,2017
+"Portland Trail Blazers","Minnesota Timberwolves",95,89,"Sun, Jan 1, 2017",2017-01-01,0,0,0,2017
+"Utah Jazz","Brooklyn Nets",101,89,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Charlotte Hornets","Chicago Bulls",111,118,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"New Orleans Pelicans","Cleveland Cavaliers",82,90,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Denver Nuggets","Golden State Warriors",119,127,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Washington Wizards","Houston Rockets",91,101,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Phoenix Suns","Los Angeles Clippers",98,109,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Oklahoma City Thunder","Milwaukee Bucks",94,98,"Mon, Jan 2, 2017",2017-01-02,0,0,0,2017
+"Orlando Magic","New York Knicks",115,103,"Mon, Jan 2, 2017",2017-01-02,0,1,0,2017
+"Utah Jazz","Boston Celtics",104,115,"Tue, Jan 3, 2017",2017-01-03,0,1,0,2017
+"Washington Wizards","Dallas Mavericks",105,113,"Tue, Jan 3, 2017",2017-01-03,0,1,0,2017
+"Sacramento Kings","Denver Nuggets",120,113,"Tue, Jan 3, 2017",2017-01-03,0,0,1,2017
+"Indiana Pacers","Detroit Pistons",121,116,"Tue, Jan 3, 2017",2017-01-03,0,0,0,2017
+"Memphis Grizzlies","Los Angeles Lakers",102,116,"Tue, Jan 3, 2017",2017-01-03,0,0,0,2017
+"Minnesota Timberwolves","Philadelphia 76ers",91,93,"Tue, Jan 3, 2017",2017-01-03,0,0,0,2017
+"Miami Heat","Phoenix Suns",90,99,"Tue, Jan 3, 2017",2017-01-03,0,0,1,2017
+"Toronto Raptors","San Antonio Spurs",82,110,"Tue, Jan 3, 2017",2017-01-03,0,0,0,2017
+"Oklahoma City Thunder","Charlotte Hornets",112,123,"Wed, Jan 4, 2017",2017-01-04,0,0,0,2017
+"Chicago Bulls","Cleveland Cavaliers",106,94,"Wed, Jan 4, 2017",2017-01-04,0,0,0,2017
+"Portland Trail Blazers","Golden State Warriors",117,125,"Wed, Jan 4, 2017",2017-01-04,0,0,0,2017
+"Memphis Grizzlies","Los Angeles Clippers",106,115,"Wed, Jan 4, 2017",2017-01-04,0,1,0,2017
+"Milwaukee Bucks","New York Knicks",105,104,"Wed, Jan 4, 2017",2017-01-04,0,0,0,2017
+"Atlanta Hawks","Orlando Magic",111,92,"Wed, Jan 4, 2017",2017-01-04,0,0,0,2017
+"Miami Heat","Sacramento Kings",107,102,"Wed, Jan 4, 2017",2017-01-04,0,1,1,2017
+"Phoenix Suns","Dallas Mavericks",102,95,"Thu, Jan 5, 2017",2017-01-05,0,0,0,2017
+"San Antonio Spurs","Denver Nuggets",127,99,"Thu, Jan 5, 2017",2017-01-05,0,0,0,2017
+"Charlotte Hornets","Detroit Pistons",114,115,"Thu, Jan 5, 2017",2017-01-05,0,1,0,2017
+"Oklahoma City Thunder","Houston Rockets",116,118,"Thu, Jan 5, 2017",2017-01-05,0,1,0,2017
+"Brooklyn Nets","Indiana Pacers",109,121,"Thu, Jan 5, 2017",2017-01-05,0,0,0,2017
+"Atlanta Hawks","New Orleans Pelicans",99,94,"Thu, Jan 5, 2017",2017-01-05,0,1,0,2017
+"Los Angeles Lakers","Portland Trail Blazers",109,118,"Thu, Jan 5, 2017",2017-01-05,0,0,1,2017
+"Utah Jazz","Toronto Raptors",93,101,"Thu, Jan 5, 2017",2017-01-05,0,0,0,2017
+"Philadelphia 76ers","Boston Celtics",106,110,"Fri, Jan 6, 2017",2017-01-06,0,0,0,2017
+"Cleveland Cavaliers","Brooklyn Nets",116,108,"Fri, Jan 6, 2017",2017-01-06,0,0,1,2017
+"Memphis Grizzlies","Golden State Warriors",128,119,"Fri, Jan 6, 2017",2017-01-06,0,0,0,2017
+"Miami Heat","Los Angeles Lakers",100,127,"Fri, Jan 6, 2017",2017-01-06,0,0,1,2017
+"New York Knicks","Milwaukee Bucks",116,111,"Fri, Jan 6, 2017",2017-01-06,0,0,0,2017
+"Houston Rockets","Orlando Magic",100,93,"Fri, Jan 6, 2017",2017-01-06,0,1,0,2017
+"Los Angeles Clippers","Sacramento Kings",106,98,"Fri, Jan 6, 2017",2017-01-06,0,0,0,2017
+"Minnesota Timberwolves","Washington Wizards",105,112,"Fri, Jan 6, 2017",2017-01-06,0,0,0,2017
+"New Orleans Pelicans","Boston Celtics",108,117,"Sat, Jan 7, 2017",2017-01-07,0,0,1,2017
+"Toronto Raptors","Chicago Bulls",118,123,"Sat, Jan 7, 2017",2017-01-07,0,0,0,2017
+"Atlanta Hawks","Dallas Mavericks",97,82,"Sat, Jan 7, 2017",2017-01-07,0,0,0,2017
+"New York Knicks","Indiana Pacers",109,123,"Sat, Jan 7, 2017",2017-01-07,0,1,0,2017
+"Utah Jazz","Minnesota Timberwolves",94,92,"Sat, Jan 7, 2017",2017-01-07,0,0,1,2017
+"Denver Nuggets","Oklahoma City Thunder",106,121,"Sat, Jan 7, 2017",2017-01-07,0,0,0,2017
+"Charlotte Hornets","San Antonio Spurs",85,102,"Sat, Jan 7, 2017",2017-01-07,0,0,0,2017
+"Philadelphia 76ers","Brooklyn Nets",105,95,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Miami Heat","Los Angeles Clippers",86,98,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Orlando Magic","Los Angeles Lakers",95,111,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Utah Jazz","Memphis Grizzlies",79,88,"Sun, Jan 8, 2017",2017-01-08,0,1,0,2017
+"Washington Wizards","Milwaukee Bucks",107,101,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Cleveland Cavaliers","Phoenix Suns",120,116,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Detroit Pistons","Portland Trail Blazers",125,124,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Golden State Warriors","Sacramento Kings",117,106,"Sun, Jan 8, 2017",2017-01-08,0,0,0,2017
+"Houston Rockets","Toronto Raptors",129,122,"Sun, Jan 8, 2017",2017-01-08,0,0,1,2017
+"Oklahoma City Thunder","Chicago Bulls",109,94,"Mon, Jan 9, 2017",2017-01-09,0,0,0,2017
+"Dallas Mavericks","Minnesota Timberwolves",92,101,"Mon, Jan 9, 2017",2017-01-09,0,0,0,2017
+"New Orleans Pelicans","New York Knicks",110,96,"Mon, Jan 9, 2017",2017-01-09,0,0,0,2017
+"Atlanta Hawks","Brooklyn Nets",117,97,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Miami Heat","Golden State Warriors",95,107,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Charlotte Hornets","Houston Rockets",114,121,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Portland Trail Blazers","Los Angeles Lakers",108,87,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Detroit Pistons","Sacramento Kings",94,100,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Milwaukee Bucks","San Antonio Spurs",109,107,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Boston Celtics","Toronto Raptors",106,114,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Cleveland Cavaliers","Utah Jazz",92,100,"Tue, Jan 10, 2017",2017-01-10,0,0,0,2017
+"Chicago Bulls","Washington Wizards",99,101,"Tue, Jan 10, 2017",2017-01-10,0,1,0,2017
+"Washington Wizards","Boston Celtics",108,117,"Wed, Jan 11, 2017",2017-01-11,0,1,1,2017
+"Orlando Magic","Los Angeles Clippers",96,105,"Wed, Jan 11, 2017",2017-01-11,0,0,0,2017
+"Houston Rockets","Minnesota Timberwolves",105,119,"Wed, Jan 11, 2017",2017-01-11,0,1,0,2017
+"Memphis Grizzlies","Oklahoma City Thunder",95,103,"Wed, Jan 11, 2017",2017-01-11,0,0,0,2017
+"New York Knicks","Philadelphia 76ers",97,98,"Wed, Jan 11, 2017",2017-01-11,0,0,0,2017
+"Cleveland Cavaliers","Portland Trail Blazers",86,102,"Wed, Jan 11, 2017",2017-01-11,0,1,1,2017
+"New Orleans Pelicans","Brooklyn Nets",104,95,"Thu, Jan 12, 2017",2017-01-12,0,0,0,2017
+"Indiana Pacers","Denver Nuggets",112,140,"Thu, Jan 12, 2017",2017-01-12,0,0,0,2017
+"Detroit Pistons","Golden State Warriors",107,127,"Thu, Jan 12, 2017",2017-01-12,0,0,0,2017
+"Chicago Bulls","New York Knicks",89,104,"Thu, Jan 12, 2017",2017-01-12,0,0,1,2017
+"Dallas Mavericks","Phoenix Suns",113,108,"Thu, Jan 12, 2017",2017-01-12,0,0,0,2017
+"Los Angeles Lakers","San Antonio Spurs",94,134,"Thu, Jan 12, 2017",2017-01-12,0,0,0,2017
+"Boston Celtics","Atlanta Hawks",103,101,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Memphis Grizzlies","Houston Rockets",110,105,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Miami Heat","Milwaukee Bucks",108,116,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Oklahoma City Thunder","Minnesota Timberwolves",86,96,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Charlotte Hornets","Philadelphia 76ers",93,102,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Orlando Magic","Portland Trail Blazers",115,109,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Cleveland Cavaliers","Sacramento Kings",120,108,"Fri, Jan 13, 2017",2017-01-13,0,0,0,2017
+"Brooklyn Nets","Toronto Raptors",113,132,"Fri, Jan 13, 2017",2017-01-13,0,1,0,2017
+"Detroit Pistons","Utah Jazz",77,110,"Fri, Jan 13, 2017",2017-01-13,0,1,0,2017
+"New Orleans Pelicans","Chicago Bulls",99,107,"Sat, Jan 14, 2017",2017-01-14,0,0,0,2017
+"Los Angeles Lakers","Los Angeles Clippers",97,113,"Sat, Jan 14, 2017",2017-01-14,0,0,0,2017
+"San Antonio Spurs","Phoenix Suns",105,108,"Sat, Jan 14, 2017",2017-01-14,0,0,0,2017
+"Orlando Magic","Utah Jazz",107,114,"Sat, Jan 14, 2017",2017-01-14,0,1,1,2017
+"Philadelphia 76ers","Washington Wizards",93,109,"Sat, Jan 14, 2017",2017-01-14,0,1,0,2017
+"Milwaukee Bucks","Atlanta Hawks",98,111,"Sun, Jan 15, 2017",2017-01-15,0,0,0,2017
+"Houston Rockets","Brooklyn Nets",137,112,"Sun, Jan 15, 2017",2017-01-15,0,0,0,2017
+"Minnesota Timberwolves","Dallas Mavericks",87,98,"Sun, Jan 15, 2017",2017-01-15,0,0,0,2017
+"Detroit Pistons","Los Angeles Lakers",102,97,"Sun, Jan 15, 2017",2017-01-15,0,0,1,2017
+"Chicago Bulls","Memphis Grizzlies",108,104,"Sun, Jan 15, 2017",2017-01-15,0,1,0,2017
+"Oklahoma City Thunder","Sacramento Kings",122,118,"Sun, Jan 15, 2017",2017-01-15,0,0,0,2017
+"New York Knicks","Toronto Raptors",101,116,"Sun, Jan 15, 2017",2017-01-15,0,0,0,2017
+"Charlotte Hornets","Boston Celtics",98,108,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"Orlando Magic","Denver Nuggets",112,125,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"Cleveland Cavaliers","Golden State Warriors",91,126,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"New Orleans Pelicans","Indiana Pacers",95,98,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"Oklahoma City Thunder","Los Angeles Clippers",98,120,"Mon, Jan 16, 2017",2017-01-16,0,1,0,2017
+"Philadelphia 76ers","Milwaukee Bucks",113,104,"Mon, Jan 16, 2017",2017-01-16,0,0,1,2017
+"Atlanta Hawks","New York Knicks",108,107,"Mon, Jan 16, 2017",2017-01-16,0,1,1,2017
+"Utah Jazz","Phoenix Suns",106,101,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"Portland Trail Blazers","Washington Wizards",101,120,"Mon, Jan 16, 2017",2017-01-16,0,0,0,2017
+"Toronto Raptors","Brooklyn Nets",119,109,"Tue, Jan 17, 2017",2017-01-17,0,0,0,2017
+"Dallas Mavericks","Chicago Bulls",99,98,"Tue, Jan 17, 2017",2017-01-17,0,0,0,2017
+"Denver Nuggets","Los Angeles Lakers",127,121,"Tue, Jan 17, 2017",2017-01-17,0,1,0,2017
+"Houston Rockets","Miami Heat",103,109,"Tue, Jan 17, 2017",2017-01-17,0,0,0,2017
+"Minnesota Timberwolves","San Antonio Spurs",114,122,"Tue, Jan 17, 2017",2017-01-17,0,0,0,2017
+"New York Knicks","Boston Celtics",117,106,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Portland Trail Blazers","Charlotte Hornets",85,107,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Atlanta Hawks","Detroit Pistons",95,118,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Oklahoma City Thunder","Golden State Warriors",100,121,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Milwaukee Bucks","Houston Rockets",92,111,"Wed, Jan 18, 2017",2017-01-18,0,0,1,2017
+"Orlando Magic","New Orleans Pelicans",98,118,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Toronto Raptors","Philadelphia 76ers",89,94,"Wed, Jan 18, 2017",2017-01-18,0,1,0,2017
+"Indiana Pacers","Sacramento Kings",106,100,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Memphis Grizzlies","Washington Wizards",101,104,"Wed, Jan 18, 2017",2017-01-18,0,0,0,2017
+"Phoenix Suns","Cleveland Cavaliers",103,118,"Thu, Jan 19, 2017",2017-01-19,0,0,0,2017
+"Minnesota Timberwolves","Los Angeles Clippers",104,101,"Thu, Jan 19, 2017",2017-01-19,0,0,0,2017
+"Dallas Mavericks","Miami Heat",95,99,"Thu, Jan 19, 2017",2017-01-19,0,0,0,2017
+"Washington Wizards","New York Knicks",113,110,"Thu, Jan 19, 2017",2017-01-19,0,1,1,2017
+"Denver Nuggets","San Antonio Spurs",104,118,"Thu, Jan 19, 2017",2017-01-19,0,0,0,2017
+"Chicago Bulls","Atlanta Hawks",93,102,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Toronto Raptors","Charlotte Hornets",78,113,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Utah Jazz","Dallas Mavericks",112,107,"Fri, Jan 20, 2017",2017-01-20,0,0,1,2017
+"Golden State Warriors","Houston Rockets",125,108,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Indiana Pacers","Los Angeles Lakers",95,108,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Sacramento Kings","Memphis Grizzlies",91,107,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Brooklyn Nets","New Orleans Pelicans",143,114,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Milwaukee Bucks","Orlando Magic",96,112,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Portland Trail Blazers","Philadelphia 76ers",92,93,"Fri, Jan 20, 2017",2017-01-20,0,0,0,2017
+"Philadelphia 76ers","Atlanta Hawks",93,110,"Sat, Jan 21, 2017",2017-01-21,0,1,1,2017
+"Portland Trail Blazers","Boston Celtics",127,123,"Sat, Jan 21, 2017",2017-01-21,0,1,0,2017
+"Sacramento Kings","Chicago Bulls",99,102,"Sat, Jan 21, 2017",2017-01-21,0,1,1,2017
+"Brooklyn Nets","Charlotte Hornets",105,112,"Sat, Jan 21, 2017",2017-01-21,0,1,1,2017
+"San Antonio Spurs","Cleveland Cavaliers",118,115,"Sat, Jan 21, 2017",2017-01-21,0,0,0,2017
+"Los Angeles Clippers","Denver Nuggets",98,123,"Sat, Jan 21, 2017",2017-01-21,0,0,0,2017
+"Washington Wizards","Detroit Pistons",112,113,"Sat, Jan 21, 2017",2017-01-21,0,0,0,2017
+"Houston Rockets","Memphis Grizzlies",119,95,"Sat, Jan 21, 2017",2017-01-21,0,1,1,2017
+"Milwaukee Bucks","Miami Heat",97,109,"Sat, Jan 21, 2017",2017-01-21,0,1,0,2017
+"Phoenix Suns","New York Knicks",107,105,"Sat, Jan 21, 2017",2017-01-21,0,0,0,2017
+"Indiana Pacers","Utah Jazz",100,109,"Sat, Jan 21, 2017",2017-01-21,0,1,1,2017
+"Los Angeles Lakers","Dallas Mavericks",73,122,"Sun, Jan 22, 2017",2017-01-22,0,0,0,2017
+"Denver Nuggets","Minnesota Timberwolves",108,111,"Sun, Jan 22, 2017",2017-01-22,0,1,0,2017
+"Golden State Warriors","Orlando Magic",118,98,"Sun, Jan 22, 2017",2017-01-22,0,0,0,2017
+"Phoenix Suns","Toronto Raptors",115,103,"Sun, Jan 22, 2017",2017-01-22,0,1,0,2017
+"Los Angeles Clippers","Atlanta Hawks",115,105,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"San Antonio Spurs","Brooklyn Nets",112,86,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Washington Wizards","Charlotte Hornets",109,99,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Sacramento Kings","Detroit Pistons",109,104,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"New York Knicks","Indiana Pacers",109,103,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Golden State Warriors","Miami Heat",102,105,"Mon, Jan 23, 2017",2017-01-23,0,1,0,2017
+"Houston Rockets","Milwaukee Bucks",114,127,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Cleveland Cavaliers","New Orleans Pelicans",122,124,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Oklahoma City Thunder","Utah Jazz",97,95,"Mon, Jan 23, 2017",2017-01-23,0,0,0,2017
+"Utah Jazz","Denver Nuggets",93,103,"Tue, Jan 24, 2017",2017-01-24,0,1,0,2017
+"Chicago Bulls","Orlando Magic",100,92,"Tue, Jan 24, 2017",2017-01-24,0,0,0,2017
+"Los Angeles Clippers","Philadelphia 76ers",110,121,"Tue, Jan 24, 2017",2017-01-24,0,1,0,2017
+"Minnesota Timberwolves","Phoenix Suns",112,111,"Tue, Jan 24, 2017",2017-01-24,0,0,0,2017
+"San Antonio Spurs","Toronto Raptors",108,106,"Tue, Jan 24, 2017",2017-01-24,0,1,0,2017
+"Boston Celtics","Washington Wizards",108,123,"Tue, Jan 24, 2017",2017-01-24,0,0,1,2017
+"Houston Rockets","Boston Celtics",109,120,"Wed, Jan 25, 2017",2017-01-25,0,0,1,2017
+"Miami Heat","Brooklyn Nets",109,106,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"Atlanta Hawks","Chicago Bulls",119,114,"Wed, Jan 25, 2017",2017-01-25,0,0,1,2017
+"Golden State Warriors","Charlotte Hornets",113,103,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"Sacramento Kings","Cleveland Cavaliers",116,112,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"New York Knicks","Dallas Mavericks",95,103,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"Toronto Raptors","Memphis Grizzlies",99,101,"Wed, Jan 25, 2017",2017-01-25,0,1,0,2017
+"Philadelphia 76ers","Milwaukee Bucks",114,109,"Wed, Jan 25, 2017",2017-01-25,0,1,0,2017
+"Oklahoma City Thunder","New Orleans Pelicans",114,105,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"Los Angeles Lakers","Portland Trail Blazers",98,105,"Wed, Jan 25, 2017",2017-01-25,0,0,0,2017
+"Phoenix Suns","Denver Nuggets",120,127,"Thu, Jan 26, 2017",2017-01-26,0,0,0,2017
+"Indiana Pacers","Minnesota Timberwolves",109,103,"Thu, Jan 26, 2017",2017-01-26,0,0,0,2017
+"Dallas Mavericks","Oklahoma City Thunder",98,109,"Thu, Jan 26, 2017",2017-01-26,0,1,1,2017
+"Los Angeles Lakers","Utah Jazz",88,96,"Thu, Jan 26, 2017",2017-01-26,0,1,0,2017
+"Washington Wizards","Atlanta Hawks",112,86,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Orlando Magic","Boston Celtics",98,128,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Miami Heat","Chicago Bulls",100,88,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Brooklyn Nets","Cleveland Cavaliers",116,124,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Sacramento Kings","Indiana Pacers",111,115,"Fri, Jan 27, 2017",2017-01-27,0,0,1,2017
+"San Antonio Spurs","New Orleans Pelicans",103,119,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Charlotte Hornets","New York Knicks",107,110,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Houston Rockets","Philadelphia 76ers",123,118,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Memphis Grizzlies","Portland Trail Blazers",109,112,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Milwaukee Bucks","Toronto Raptors",86,102,"Fri, Jan 27, 2017",2017-01-27,0,0,0,2017
+"Sacramento Kings","Charlotte Hornets",109,106,"Sat, Jan 28, 2017",2017-01-28,0,1,1,2017
+"Los Angeles Clippers","Golden State Warriors",98,144,"Sat, Jan 28, 2017",2017-01-28,0,0,0,2017
+"Detroit Pistons","Miami Heat",103,116,"Sat, Jan 28, 2017",2017-01-28,0,0,1,2017
+"Boston Celtics","Milwaukee Bucks",112,108,"Sat, Jan 28, 2017",2017-01-28,0,1,1,2017
+"Brooklyn Nets","Minnesota Timberwolves",109,129,"Sat, Jan 28, 2017",2017-01-28,0,1,0,2017
+"Denver Nuggets","Phoenix Suns",123,112,"Sat, Jan 28, 2017",2017-01-28,0,0,0,2017
+"Memphis Grizzlies","Utah Jazz",102,95,"Sat, Jan 28, 2017",2017-01-28,0,1,0,2017
+"New York Knicks","Atlanta Hawks",139,142,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Philadelphia 76ers","Chicago Bulls",108,121,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Oklahoma City Thunder","Cleveland Cavaliers",91,107,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Houston Rockets","Indiana Pacers",101,120,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Washington Wizards","New Orleans Pelicans",107,94,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Golden State Warriors","Portland Trail Blazers",113,111,"Sun, Jan 29, 2017",2017-01-29,0,1,0,2017
+"Dallas Mavericks","San Antonio Spurs",105,101,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Orlando Magic","Toronto Raptors",114,113,"Sun, Jan 29, 2017",2017-01-29,0,0,0,2017
+"Detroit Pistons","Boston Celtics",109,113,"Mon, Jan 30, 2017",2017-01-30,0,0,0,2017
+"Cleveland Cavaliers","Dallas Mavericks",97,104,"Mon, Jan 30, 2017",2017-01-30,0,1,1,2017
+"Brooklyn Nets","Miami Heat",96,104,"Mon, Jan 30, 2017",2017-01-30,0,0,0,2017
+"Orlando Magic","Minnesota Timberwolves",105,111,"Mon, Jan 30, 2017",2017-01-30,0,1,0,2017
+"Sacramento Kings","Philadelphia 76ers",119,122,"Mon, Jan 30, 2017",2017-01-30,0,0,1,2017
+"Memphis Grizzlies","Phoenix Suns",115,96,"Mon, Jan 30, 2017",2017-01-30,0,0,0,2017
+"Sacramento Kings","Houston Rockets",83,105,"Tue, Jan 31, 2017",2017-01-31,0,1,0,2017
+"Denver Nuggets","Los Angeles Lakers",116,120,"Tue, Jan 31, 2017",2017-01-31,0,0,0,2017
+"Charlotte Hornets","Portland Trail Blazers",98,115,"Tue, Jan 31, 2017",2017-01-31,0,0,0,2017
+"Oklahoma City Thunder","San Antonio Spurs",94,108,"Tue, Jan 31, 2017",2017-01-31,0,0,0,2017
+"New Orleans Pelicans","Toronto Raptors",106,108,"Tue, Jan 31, 2017",2017-01-31,0,0,0,2017
+"New York Knicks","Washington Wizards",101,117,"Tue, Jan 31, 2017",2017-01-31,0,0,0,2017
+"Toronto Raptors","Boston Celtics",104,109,"Wed, Feb 1, 2017",2017-02-01,0,1,0,2017
+"New York Knicks","Brooklyn Nets",95,90,"Wed, Feb 1, 2017",2017-02-01,0,1,0,2017
+"Minnesota Timberwolves","Cleveland Cavaliers",97,125,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Philadelphia 76ers","Dallas Mavericks",95,113,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Memphis Grizzlies","Denver Nuggets",119,99,"Wed, Feb 1, 2017",2017-02-01,0,0,1,2017
+"New Orleans Pelicans","Detroit Pistons",98,118,"Wed, Feb 1, 2017",2017-02-01,0,1,0,2017
+"Charlotte Hornets","Golden State Warriors",111,126,"Wed, Feb 1, 2017",2017-02-01,0,1,0,2017
+"Atlanta Hawks","Miami Heat",93,116,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Chicago Bulls","Oklahoma City Thunder",128,100,"Wed, Feb 1, 2017",2017-02-01,0,0,1,2017
+"Indiana Pacers","Orlando Magic",98,88,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Los Angeles Clippers","Phoenix Suns",124,114,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Milwaukee Bucks","Utah Jazz",88,104,"Wed, Feb 1, 2017",2017-02-01,0,0,0,2017
+"Atlanta Hawks","Houston Rockets",113,108,"Thu, Feb 2, 2017",2017-02-02,0,1,0,2017
+"Golden State Warriors","Los Angeles Clippers",133,120,"Thu, Feb 2, 2017",2017-02-02,0,1,1,2017
+"Philadelphia 76ers","San Antonio Spurs",86,102,"Thu, Feb 2, 2017",2017-02-02,0,1,0,2017
+"Los Angeles Lakers","Washington Wizards",108,116,"Thu, Feb 2, 2017",2017-02-02,0,0,0,2017
+"Los Angeles Lakers","Boston Celtics",107,113,"Fri, Feb 3, 2017",2017-02-03,0,1,0,2017
+"Indiana Pacers","Brooklyn Nets",106,97,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Milwaukee Bucks","Denver Nuggets",117,121,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Minnesota Timberwolves","Detroit Pistons",108,116,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Chicago Bulls","Houston Rockets",117,121,"Fri, Feb 3, 2017",2017-02-03,0,0,1,2017
+"Memphis Grizzlies","Oklahoma City Thunder",102,114,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Toronto Raptors","Orlando Magic",94,102,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Dallas Mavericks","Portland Trail Blazers",108,104,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Phoenix Suns","Sacramento Kings",105,103,"Fri, Feb 3, 2017",2017-02-03,0,0,0,2017
+"Orlando Magic","Atlanta Hawks",86,113,"Sat, Feb 4, 2017",2017-02-04,0,1,0,2017
+"Detroit Pistons","Indiana Pacers",84,105,"Sat, Feb 4, 2017",2017-02-04,0,1,1,2017
+"Philadelphia 76ers","Miami Heat",102,125,"Sat, Feb 4, 2017",2017-02-04,0,0,0,2017
+"Memphis Grizzlies","Minnesota Timberwolves",107,99,"Sat, Feb 4, 2017",2017-02-04,0,1,1,2017
+"Cleveland Cavaliers","New York Knicks",111,104,"Sat, Feb 4, 2017",2017-02-04,0,0,0,2017
+"Milwaukee Bucks","Phoenix Suns",137,112,"Sat, Feb 4, 2017",2017-02-04,0,1,1,2017
+"Golden State Warriors","Sacramento Kings",106,109,"Sat, Feb 4, 2017",2017-02-04,0,0,1,2017
+"Denver Nuggets","San Antonio Spurs",97,121,"Sat, Feb 4, 2017",2017-02-04,0,1,0,2017
+"Charlotte Hornets","Utah Jazz",98,105,"Sat, Feb 4, 2017",2017-02-04,0,0,0,2017
+"New Orleans Pelicans","Washington Wizards",91,105,"Sat, Feb 4, 2017",2017-02-04,0,0,0,2017
+"Los Angeles Clippers","Boston Celtics",102,107,"Sun, Feb 5, 2017",2017-02-05,0,0,0,2017
+"Toronto Raptors","Brooklyn Nets",103,95,"Sun, Feb 5, 2017",2017-02-05,0,0,0,2017
+"Portland Trail Blazers","Oklahoma City Thunder",99,105,"Sun, Feb 5, 2017",2017-02-05,0,0,0,2017
+"Utah Jazz","Atlanta Hawks",120,95,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Dallas Mavericks","Denver Nuggets",87,110,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Philadelphia 76ers","Detroit Pistons",96,113,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Oklahoma City Thunder","Indiana Pacers",90,93,"Mon, Feb 6, 2017",2017-02-06,0,1,0,2017
+"San Antonio Spurs","Memphis Grizzlies",74,89,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Miami Heat","Minnesota Timberwolves",115,113,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Phoenix Suns","New Orleans Pelicans",106,111,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Los Angeles Lakers","New York Knicks",121,107,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Chicago Bulls","Sacramento Kings",112,107,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Los Angeles Clippers","Toronto Raptors",109,118,"Mon, Feb 6, 2017",2017-02-06,0,1,1,2017
+"Cleveland Cavaliers","Washington Wizards",140,135,"Mon, Feb 6, 2017",2017-02-06,0,0,0,2017
+"Brooklyn Nets","Charlotte Hornets",107,111,"Tue, Feb 7, 2017",2017-02-07,0,0,0,2017
+"Portland Trail Blazers","Dallas Mavericks",114,113,"Tue, Feb 7, 2017",2017-02-07,0,0,1,2017
+"Orlando Magic","Houston Rockets",104,128,"Tue, Feb 7, 2017",2017-02-07,0,0,0,2017
+"Denver Nuggets","Atlanta Hawks",106,117,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Washington Wizards","Brooklyn Nets",114,110,"Wed, Feb 8, 2017",2017-02-08,0,0,1,2017
+"Los Angeles Lakers","Detroit Pistons",102,121,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Chicago Bulls","Golden State Warriors",92,123,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Cleveland Cavaliers","Indiana Pacers",132,117,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Phoenix Suns","Memphis Grizzlies",91,110,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Miami Heat","Milwaukee Bucks",106,88,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Toronto Raptors","Minnesota Timberwolves",109,112,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Utah Jazz","New Orleans Pelicans",127,94,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Los Angeles Clippers","New York Knicks",119,115,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"San Antonio Spurs","Philadelphia 76ers",111,103,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Boston Celtics","Sacramento Kings",92,108,"Wed, Feb 8, 2017",2017-02-08,0,0,0,2017
+"Houston Rockets","Charlotte Hornets",107,95,"Thu, Feb 9, 2017",2017-02-09,0,0,0,2017
+"Utah Jazz","Dallas Mavericks",105,112,"Thu, Feb 9, 2017",2017-02-09,0,1,0,2017
+"Cleveland Cavaliers","Oklahoma City Thunder",109,118,"Thu, Feb 9, 2017",2017-02-09,0,1,0,2017
+"Philadelphia 76ers","Orlando Magic",112,111,"Thu, Feb 9, 2017",2017-02-09,0,1,0,2017
+"Boston Celtics","Portland Trail Blazers",120,111,"Thu, Feb 9, 2017",2017-02-09,0,1,0,2017
+"Miami Heat","Brooklyn Nets",108,99,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"San Antonio Spurs","Detroit Pistons",103,92,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Golden State Warriors","Memphis Grizzlies",122,107,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Los Angeles Lakers","Milwaukee Bucks",122,114,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"New Orleans Pelicans","Minnesota Timberwolves",122,106,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Denver Nuggets","New York Knicks",131,123,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Chicago Bulls","Phoenix Suns",97,115,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Atlanta Hawks","Sacramento Kings",107,108,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Indiana Pacers","Washington Wizards",107,112,"Fri, Feb 10, 2017",2017-02-10,0,0,0,2017
+"Los Angeles Clippers","Charlotte Hornets",107,102,"Sat, Feb 11, 2017",2017-02-11,0,0,0,2017
+"Denver Nuggets","Cleveland Cavaliers",109,125,"Sat, Feb 11, 2017",2017-02-11,0,1,0,2017
+"Orlando Magic","Dallas Mavericks",80,112,"Sat, Feb 11, 2017",2017-02-11,0,0,0,2017
+"Phoenix Suns","Houston Rockets",102,133,"Sat, Feb 11, 2017",2017-02-11,0,1,0,2017
+"Milwaukee Bucks","Indiana Pacers",116,100,"Sat, Feb 11, 2017",2017-02-11,0,1,1,2017
+"Golden State Warriors","Oklahoma City Thunder",130,114,"Sat, Feb 11, 2017",2017-02-11,0,1,0,2017
+"Miami Heat","Philadelphia 76ers",109,117,"Sat, Feb 11, 2017",2017-02-11,0,1,0,2017
+"Boston Celtics","Utah Jazz",112,104,"Sat, Feb 11, 2017",2017-02-11,0,0,0,2017
+"Chicago Bulls","Minnesota Timberwolves",89,117,"Sun, Feb 12, 2017",2017-02-12,0,0,0,2017
+"San Antonio Spurs","New York Knicks",90,94,"Sun, Feb 12, 2017",2017-02-12,0,0,0,2017
+"New Orleans Pelicans","Sacramento Kings",99,105,"Sun, Feb 12, 2017",2017-02-12,0,0,0,2017
+"Detroit Pistons","Toronto Raptors",102,101,"Sun, Feb 12, 2017",2017-02-12,0,0,0,2017
+"Memphis Grizzlies","Brooklyn Nets",112,103,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Philadelphia 76ers","Charlotte Hornets",105,99,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Boston Celtics","Dallas Mavericks",111,98,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Golden State Warriors","Denver Nuggets",110,132,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"San Antonio Spurs","Indiana Pacers",110,106,"Mon, Feb 13, 2017",2017-02-13,0,1,0,2017
+"Orlando Magic","Miami Heat",116,107,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Detroit Pistons","Milwaukee Bucks",89,102,"Mon, Feb 13, 2017",2017-02-13,0,1,0,2017
+"New Orleans Pelicans","Phoenix Suns",110,108,"Mon, Feb 13, 2017",2017-02-13,0,1,0,2017
+"Atlanta Hawks","Portland Trail Blazers",109,104,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Los Angeles Clippers","Utah Jazz",88,72,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Oklahoma City Thunder","Washington Wizards",98,120,"Mon, Feb 13, 2017",2017-02-13,0,0,0,2017
+"Toronto Raptors","Chicago Bulls",94,105,"Tue, Feb 14, 2017",2017-02-14,0,0,0,2017
+"Sacramento Kings","Los Angeles Lakers",97,96,"Tue, Feb 14, 2017",2017-02-14,0,0,0,2017
+"Cleveland Cavaliers","Minnesota Timberwolves",116,108,"Tue, Feb 14, 2017",2017-02-14,0,0,0,2017
+"Philadelphia 76ers","Boston Celtics",108,116,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Milwaukee Bucks","Brooklyn Nets",129,125,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Indiana Pacers","Cleveland Cavaliers",104,113,"Wed, Feb 15, 2017",2017-02-15,0,0,1,2017
+"Minnesota Timberwolves","Denver Nuggets",112,99,"Wed, Feb 15, 2017",2017-02-15,0,1,0,2017
+"Dallas Mavericks","Detroit Pistons",91,98,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Sacramento Kings","Golden State Warriors",86,109,"Wed, Feb 15, 2017",2017-02-15,0,1,0,2017
+"Miami Heat","Houston Rockets",117,109,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Atlanta Hawks","Los Angeles Clippers",84,99,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"New Orleans Pelicans","Memphis Grizzlies",95,91,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"New York Knicks","Oklahoma City Thunder",105,116,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"San Antonio Spurs","Orlando Magic",107,79,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Los Angeles Lakers","Phoenix Suns",101,137,"Wed, Feb 15, 2017",2017-02-15,0,1,0,2017
+"Charlotte Hornets","Toronto Raptors",85,90,"Wed, Feb 15, 2017",2017-02-15,0,0,1,2017
+"Portland Trail Blazers","Utah Jazz",88,111,"Wed, Feb 15, 2017",2017-02-15,0,0,0,2017
+"Boston Celtics","Chicago Bulls",103,104,"Thu, Feb 16, 2017",2017-02-16,0,1,0,2017
+"Washington Wizards","Indiana Pacers",111,98,"Thu, Feb 16, 2017",2017-02-16,0,0,1,2017
+"New York Knicks","Cleveland Cavaliers",104,119,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Charlotte Hornets","Detroit Pistons",108,114,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Los Angeles Clippers","Golden State Warriors",113,123,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Houston Rockets","New Orleans Pelicans",129,99,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Portland Trail Blazers","Orlando Magic",112,103,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Denver Nuggets","Sacramento Kings",100,116,"Thu, Feb 23, 2017",2017-02-23,0,0,0,2017
+"Miami Heat","Atlanta Hawks",108,90,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Phoenix Suns","Chicago Bulls",121,128,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Brooklyn Nets","Denver Nuggets",109,129,"Fri, Feb 24, 2017",2017-02-24,0,0,1,2017
+"Memphis Grizzlies","Indiana Pacers",92,102,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"San Antonio Spurs","Los Angeles Clippers",105,97,"Fri, Feb 24, 2017",2017-02-24,0,0,1,2017
+"Utah Jazz","Milwaukee Bucks",109,95,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Dallas Mavericks","Minnesota Timberwolves",84,97,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Los Angeles Lakers","Oklahoma City Thunder",93,110,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Washington Wizards","Philadelphia 76ers",112,120,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Boston Celtics","Toronto Raptors",97,107,"Fri, Feb 24, 2017",2017-02-24,0,0,0,2017
+"Chicago Bulls","Cleveland Cavaliers",117,99,"Sat, Feb 25, 2017",2017-02-25,0,1,0,2017
+"New Orleans Pelicans","Dallas Mavericks",83,96,"Sat, Feb 25, 2017",2017-02-25,0,0,1,2017
+"Brooklyn Nets","Golden State Warriors",95,112,"Sat, Feb 25, 2017",2017-02-25,0,1,0,2017
+"Minnesota Timberwolves","Houston Rockets",130,142,"Sat, Feb 25, 2017",2017-02-25,0,1,0,2017
+"Indiana Pacers","Miami Heat",95,113,"Sat, Feb 25, 2017",2017-02-25,0,1,1,2017
+"Philadelphia 76ers","New York Knicks",109,110,"Sat, Feb 25, 2017",2017-02-25,0,1,0,2017
+"Atlanta Hawks","Orlando Magic",86,105,"Sat, Feb 25, 2017",2017-02-25,0,1,0,2017
+"Charlotte Hornets","Sacramento Kings",99,85,"Sat, Feb 25, 2017",2017-02-25,0,0,0,2017
+"Memphis Grizzlies","Denver Nuggets",105,98,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"Boston Celtics","Detroit Pistons",104,98,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"Charlotte Hornets","Los Angeles Clippers",121,124,"Sun, Feb 26, 2017",2017-02-26,0,1,0,2017
+"San Antonio Spurs","Los Angeles Lakers",119,98,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"Phoenix Suns","Milwaukee Bucks",96,100,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"New Orleans Pelicans","Oklahoma City Thunder",110,118,"Sun, Feb 26, 2017",2017-02-26,0,1,0,2017
+"Portland Trail Blazers","Toronto Raptors",106,112,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"Utah Jazz","Washington Wizards",102,92,"Sun, Feb 26, 2017",2017-02-26,0,0,0,2017
+"Atlanta Hawks","Boston Celtics",114,98,"Mon, Feb 27, 2017",2017-02-27,0,0,1,2017
+"Milwaukee Bucks","Cleveland Cavaliers",95,102,"Mon, Feb 27, 2017",2017-02-27,0,1,0,2017
+"Miami Heat","Dallas Mavericks",89,96,"Mon, Feb 27, 2017",2017-02-27,0,0,0,2017
+"Indiana Pacers","Houston Rockets",117,108,"Mon, Feb 27, 2017",2017-02-27,0,0,0,2017
+"Toronto Raptors","New York Knicks",92,91,"Mon, Feb 27, 2017",2017-02-27,0,1,0,2017
+"Golden State Warriors","Philadelphia 76ers",119,108,"Mon, Feb 27, 2017",2017-02-27,0,0,0,2017
+"Minnesota Timberwolves","Sacramento Kings",102,88,"Mon, Feb 27, 2017",2017-02-27,0,0,0,2017
+"Denver Nuggets","Chicago Bulls",125,107,"Tue, Feb 28, 2017",2017-02-28,0,0,0,2017
+"Portland Trail Blazers","Detroit Pistons",113,120,"Tue, Feb 28, 2017",2017-02-28,0,0,0,2017
+"Charlotte Hornets","Los Angeles Lakers",109,104,"Tue, Feb 28, 2017",2017-02-28,0,0,0,2017
+"Phoenix Suns","Memphis Grizzlies",112,130,"Tue, Feb 28, 2017",2017-02-28,0,0,0,2017
+"Utah Jazz","Oklahoma City Thunder",106,109,"Tue, Feb 28, 2017",2017-02-28,0,0,0,2017
+"Golden State Warriors","Washington Wizards",108,112,"Tue, Feb 28, 2017",2017-02-28,0,1,0,2017
+"Dallas Mavericks","Atlanta Hawks",95,100,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Cleveland Cavaliers","Boston Celtics",99,103,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Houston Rockets","Los Angeles Clippers",122,103,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Philadelphia 76ers","Miami Heat",98,125,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Denver Nuggets","Milwaukee Bucks",110,98,"Wed, Mar 1, 2017",2017-03-01,0,1,0,2017
+"Detroit Pistons","New Orleans Pelicans",86,109,"Wed, Mar 1, 2017",2017-03-01,0,1,0,2017
+"New York Knicks","Orlando Magic",101,90,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Brooklyn Nets","Sacramento Kings",109,100,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Indiana Pacers","San Antonio Spurs",99,100,"Wed, Mar 1, 2017",2017-03-01,0,0,0,2017
+"Washington Wizards","Toronto Raptors",105,96,"Wed, Mar 1, 2017",2017-03-01,0,1,0,2017
+"Minnesota Timberwolves","Utah Jazz",107,80,"Wed, Mar 1, 2017",2017-03-01,0,0,1,2017
+"Golden State Warriors","Chicago Bulls",87,94,"Thu, Mar 2, 2017",2017-03-02,0,0,0,2017
+"Charlotte Hornets","Phoenix Suns",103,120,"Thu, Mar 2, 2017",2017-03-02,0,0,0,2017
+"Oklahoma City Thunder","Portland Trail Blazers",109,114,"Thu, Mar 2, 2017",2017-03-02,0,0,0,2017
+"Cleveland Cavaliers","Atlanta Hawks",135,130,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Memphis Grizzlies","Dallas Mavericks",100,104,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Boston Celtics","Los Angeles Lakers",115,95,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Los Angeles Clippers","Milwaukee Bucks",101,112,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"San Antonio Spurs","New Orleans Pelicans",101,98,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Miami Heat","Orlando Magic",99,110,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"New York Knicks","Philadelphia 76ers",102,105,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Oklahoma City Thunder","Phoenix Suns",111,118,"Fri, Mar 3, 2017",2017-03-03,0,1,1,2017
+"Brooklyn Nets","Utah Jazz",97,112,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Toronto Raptors","Washington Wizards",114,106,"Fri, Mar 3, 2017",2017-03-03,0,0,0,2017
+"Los Angeles Clippers","Chicago Bulls",101,91,"Sat, Mar 4, 2017",2017-03-04,0,1,0,2017
+"Charlotte Hornets","Denver Nuggets",112,102,"Sat, Mar 4, 2017",2017-03-04,0,0,0,2017
+"Memphis Grizzlies","Houston Rockets",108,123,"Sat, Mar 4, 2017",2017-03-04,0,1,0,2017
+"Cleveland Cavaliers","Miami Heat",92,120,"Sat, Mar 4, 2017",2017-03-04,0,1,1,2017
+"Toronto Raptors","Milwaukee Bucks",94,101,"Sat, Mar 4, 2017",2017-03-04,0,1,1,2017
+"Detroit Pistons","Philadelphia 76ers",136,106,"Sat, Mar 4, 2017",2017-03-04,0,0,1,2017
+"Brooklyn Nets","Portland Trail Blazers",116,130,"Sat, Mar 4, 2017",2017-03-04,0,1,0,2017
+"Minnesota Timberwolves","San Antonio Spurs",90,97,"Sat, Mar 4, 2017",2017-03-04,0,0,1,2017
+"Indiana Pacers","Atlanta Hawks",97,96,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Oklahoma City Thunder","Dallas Mavericks",89,104,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"New Orleans Pelicans","Los Angeles Lakers",105,97,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Golden State Warriors","New York Knicks",112,105,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Boston Celtics","Phoenix Suns",106,109,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Utah Jazz","Sacramento Kings",110,109,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Orlando Magic","Washington Wizards",114,115,"Sun, Mar 5, 2017",2017-03-05,0,0,0,2017
+"Golden State Warriors","Atlanta Hawks",119,111,"Mon, Mar 6, 2017",2017-03-06,0,1,1,2017
+"Indiana Pacers","Charlotte Hornets",88,100,"Mon, Mar 6, 2017",2017-03-06,0,1,0,2017
+"Miami Heat","Cleveland Cavaliers",106,98,"Mon, Mar 6, 2017",2017-03-06,0,0,0,2017
+"Sacramento Kings","Denver Nuggets",96,108,"Mon, Mar 6, 2017",2017-03-06,0,1,0,2017
+"Chicago Bulls","Detroit Pistons",95,109,"Mon, Mar 6, 2017",2017-03-06,0,0,0,2017
+"Boston Celtics","Los Angeles Clippers",102,116,"Mon, Mar 6, 2017",2017-03-06,0,1,0,2017
+"Brooklyn Nets","Memphis Grizzlies",122,109,"Mon, Mar 6, 2017",2017-03-06,0,0,0,2017
+"New York Knicks","Orlando Magic",113,105,"Mon, Mar 6, 2017",2017-03-06,0,1,1,2017
+"Milwaukee Bucks","Philadelphia 76ers",112,98,"Mon, Mar 6, 2017",2017-03-06,0,0,0,2017
+"Houston Rockets","San Antonio Spurs",110,112,"Mon, Mar 6, 2017",2017-03-06,0,0,0,2017
+"New Orleans Pelicans","Utah Jazz",83,88,"Mon, Mar 6, 2017",2017-03-06,0,1,1,2017
+"Los Angeles Lakers","Dallas Mavericks",111,122,"Tue, Mar 7, 2017",2017-03-07,0,0,0,2017
+"Portland Trail Blazers","Oklahoma City Thunder",126,121,"Tue, Mar 7, 2017",2017-03-07,0,0,0,2017
+"Washington Wizards","Phoenix Suns",131,127,"Tue, Mar 7, 2017",2017-03-07,0,0,0,2017
+"Brooklyn Nets","Atlanta Hawks",105,110,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Washington Wizards","Denver Nuggets",123,113,"Wed, Mar 8, 2017",2017-03-08,0,1,0,2017
+"Boston Celtics","Golden State Warriors",99,86,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Utah Jazz","Houston Rockets",115,108,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Detroit Pistons","Indiana Pacers",98,115,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Charlotte Hornets","Miami Heat",101,108,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"New York Knicks","Milwaukee Bucks",93,104,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Los Angeles Clippers","Minnesota Timberwolves",91,107,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Toronto Raptors","New Orleans Pelicans",94,87,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Chicago Bulls","Orlando Magic",91,98,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Sacramento Kings","San Antonio Spurs",104,114,"Wed, Mar 8, 2017",2017-03-08,0,0,0,2017
+"Cleveland Cavaliers","Detroit Pistons",101,106,"Thu, Mar 9, 2017",2017-03-09,0,0,1,2017
+"Los Angeles Clippers","Memphis Grizzlies",114,98,"Thu, Mar 9, 2017",2017-03-09,0,1,0,2017
+"San Antonio Spurs","Oklahoma City Thunder",92,102,"Thu, Mar 9, 2017",2017-03-09,0,1,0,2017
+"Los Angeles Lakers","Phoenix Suns",122,110,"Thu, Mar 9, 2017",2017-03-09,0,0,0,2017
+"Philadelphia 76ers","Portland Trail Blazers",108,114,"Thu, Mar 9, 2017",2017-03-09,0,0,0,2017
+"Toronto Raptors","Atlanta Hawks",99,105,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Houston Rockets","Chicago Bulls",115,94,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Orlando Magic","Charlotte Hornets",81,121,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Brooklyn Nets","Dallas Mavericks",96,105,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Boston Celtics","Denver Nuggets",99,119,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Indiana Pacers","Milwaukee Bucks",85,99,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Golden State Warriors","Minnesota Timberwolves",102,103,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"Washington Wizards","Sacramento Kings",130,122,"Fri, Mar 10, 2017",2017-03-10,0,0,0,2017
+"New Orleans Pelicans","Charlotte Hornets",125,122,"Sat, Mar 11, 2017",2017-03-11,0,0,1,2017
+"Phoenix Suns","Dallas Mavericks",100,98,"Sat, Mar 11, 2017",2017-03-11,0,0,1,2017
+"New York Knicks","Detroit Pistons",92,112,"Sat, Mar 11, 2017",2017-03-11,0,0,0,2017
+"Philadelphia 76ers","Los Angeles Clippers",100,112,"Sat, Mar 11, 2017",2017-03-11,0,0,0,2017
+"Atlanta Hawks","Memphis Grizzlies",107,90,"Sat, Mar 11, 2017",2017-03-11,0,1,0,2017
+"Toronto Raptors","Miami Heat",89,104,"Sat, Mar 11, 2017",2017-03-11,0,1,0,2017
+"Minnesota Timberwolves","Milwaukee Bucks",95,102,"Sat, Mar 11, 2017",2017-03-11,0,1,1,2017
+"Utah Jazz","Oklahoma City Thunder",104,112,"Sat, Mar 11, 2017",2017-03-11,0,0,0,2017
+"Cleveland Cavaliers","Orlando Magic",116,104,"Sat, Mar 11, 2017",2017-03-11,0,0,1,2017
+"Washington Wizards","Portland Trail Blazers",125,124,"Sat, Mar 11, 2017",2017-03-11,0,1,0,2017
+"Denver Nuggets","Sacramento Kings",105,92,"Sat, Mar 11, 2017",2017-03-11,0,1,1,2017
+"Golden State Warriors","San Antonio Spurs",85,107,"Sat, Mar 11, 2017",2017-03-11,0,1,0,2017
+"Chicago Bulls","Boston Celtics",80,100,"Sun, Mar 12, 2017",2017-03-12,0,0,0,2017
+"New York Knicks","Brooklyn Nets",112,120,"Sun, Mar 12, 2017",2017-03-12,0,1,0,2017
+"Cleveland Cavaliers","Houston Rockets",112,117,"Sun, Mar 12, 2017",2017-03-12,0,1,0,2017
+"Miami Heat","Indiana Pacers",98,102,"Sun, Mar 12, 2017",2017-03-12,0,1,0,2017
+"Philadelphia 76ers","Los Angeles Lakers",118,116,"Sun, Mar 12, 2017",2017-03-12,0,1,0,2017
+"Portland Trail Blazers","Phoenix Suns",110,101,"Sun, Mar 12, 2017",2017-03-12,0,1,1,2017
+"Chicago Bulls","Charlotte Hornets",115,109,"Mon, Mar 13, 2017",2017-03-13,0,1,0,2017
+"Los Angeles Lakers","Denver Nuggets",101,129,"Mon, Mar 13, 2017",2017-03-13,0,1,0,2017
+"Milwaukee Bucks","Memphis Grizzlies",93,113,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Washington Wizards","Minnesota Timberwolves",104,119,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Orlando Magic","Sacramento Kings",115,120,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Atlanta Hawks","San Antonio Spurs",99,107,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Dallas Mavericks","Toronto Raptors",78,100,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Los Angeles Clippers","Utah Jazz",108,114,"Mon, Mar 13, 2017",2017-03-13,0,0,0,2017
+"Oklahoma City Thunder","Brooklyn Nets",122,104,"Tue, Mar 14, 2017",2017-03-14,0,0,0,2017
+"Detroit Pistons","Cleveland Cavaliers",96,128,"Tue, Mar 14, 2017",2017-03-14,0,0,0,2017
+"Philadelphia 76ers","Golden State Warriors",104,106,"Tue, Mar 14, 2017",2017-03-14,0,0,0,2017
+"Portland Trail Blazers","New Orleans Pelicans",77,100,"Tue, Mar 14, 2017",2017-03-14,0,0,0,2017
+"Indiana Pacers","New York Knicks",81,87,"Tue, Mar 14, 2017",2017-03-14,0,0,0,2017
+"Minnesota Timberwolves","Boston Celtics",104,117,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"Memphis Grizzlies","Chicago Bulls",98,91,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"Utah Jazz","Detroit Pistons",97,83,"Wed, Mar 15, 2017",2017-03-15,0,0,1,2017
+"Los Angeles Lakers","Houston Rockets",100,139,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"Charlotte Hornets","Indiana Pacers",77,98,"Wed, Mar 15, 2017",2017-03-15,0,0,1,2017
+"Milwaukee Bucks","Los Angeles Clippers",97,96,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"New Orleans Pelicans","Miami Heat",112,120,"Wed, Mar 15, 2017",2017-03-15,0,1,0,2017
+"Sacramento Kings","Phoenix Suns",107,101,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"Portland Trail Blazers","San Antonio Spurs",110,106,"Wed, Mar 15, 2017",2017-03-15,0,1,0,2017
+"Dallas Mavericks","Washington Wizards",112,107,"Wed, Mar 15, 2017",2017-03-15,0,0,0,2017
+"Memphis Grizzlies","Atlanta Hawks",103,91,"Thu, Mar 16, 2017",2017-03-16,0,1,0,2017
+"Utah Jazz","Cleveland Cavaliers",83,91,"Thu, Mar 16, 2017",2017-03-16,0,1,0,2017
+"Los Angeles Clippers","Denver Nuggets",114,129,"Thu, Mar 16, 2017",2017-03-16,0,1,0,2017
+"Orlando Magic","Golden State Warriors",92,122,"Thu, Mar 16, 2017",2017-03-16,0,0,0,2017
+"Brooklyn Nets","New York Knicks",121,110,"Thu, Mar 16, 2017",2017-03-16,0,0,0,2017
+"Oklahoma City Thunder","Toronto Raptors",123,102,"Thu, Mar 16, 2017",2017-03-16,0,0,0,2017
+"Boston Celtics","Brooklyn Nets",98,95,"Fri, Mar 17, 2017",2017-03-17,0,0,1,2017
+"Toronto Raptors","Detroit Pistons",87,75,"Fri, Mar 17, 2017",2017-03-17,0,1,0,2017
+"Milwaukee Bucks","Los Angeles Lakers",107,103,"Fri, Mar 17, 2017",2017-03-17,0,0,0,2017
+"Minnesota Timberwolves","Miami Heat",105,123,"Fri, Mar 17, 2017",2017-03-17,0,0,0,2017
+"Houston Rockets","New Orleans Pelicans",112,128,"Fri, Mar 17, 2017",2017-03-17,0,0,0,2017
+"Dallas Mavericks","Philadelphia 76ers",74,116,"Fri, Mar 17, 2017",2017-03-17,0,0,0,2017
+"Orlando Magic","Phoenix Suns",109,103,"Fri, Mar 17, 2017",2017-03-17,0,1,0,2017
+"Chicago Bulls","Washington Wizards",107,112,"Fri, Mar 17, 2017",2017-03-17,0,0,0,2017
+"Portland Trail Blazers","Atlanta Hawks",113,97,"Sat, Mar 18, 2017",2017-03-18,0,0,0,2017
+"Utah Jazz","Chicago Bulls",86,95,"Sat, Mar 18, 2017",2017-03-18,0,0,1,2017
+"Washington Wizards","Charlotte Hornets",93,98,"Sat, Mar 18, 2017",2017-03-18,0,1,0,2017
+"Houston Rockets","Denver Nuggets",109,105,"Sat, Mar 18, 2017",2017-03-18,0,1,0,2017
+"Milwaukee Bucks","Golden State Warriors",92,117,"Sat, Mar 18, 2017",2017-03-18,0,1,0,2017
+"Cleveland Cavaliers","Los Angeles Clippers",78,108,"Sat, Mar 18, 2017",2017-03-18,0,0,0,2017
+"San Antonio Spurs","Memphis Grizzlies",96,104,"Sat, Mar 18, 2017",2017-03-18,0,0,0,2017
+"Sacramento Kings","Oklahoma City Thunder",94,110,"Sat, Mar 18, 2017",2017-03-18,0,0,0,2017
+"Dallas Mavericks","Brooklyn Nets",111,104,"Sun, Mar 19, 2017",2017-03-19,0,0,0,2017
+"Phoenix Suns","Detroit Pistons",95,112,"Sun, Mar 19, 2017",2017-03-19,0,0,0,2017
+"Cleveland Cavaliers","Los Angeles Lakers",125,120,"Sun, Mar 19, 2017",2017-03-19,0,1,0,2017
+"Portland Trail Blazers","Miami Heat",115,104,"Sun, Mar 19, 2017",2017-03-19,0,1,0,2017
+"Minnesota Timberwolves","New Orleans Pelicans",109,123,"Sun, Mar 19, 2017",2017-03-19,0,0,0,2017
+"Boston Celtics","Philadelphia 76ers",99,105,"Sun, Mar 19, 2017",2017-03-19,0,0,0,2017
+"Sacramento Kings","San Antonio Spurs",102,118,"Sun, Mar 19, 2017",2017-03-19,0,1,1,2017
+"Indiana Pacers","Toronto Raptors",91,116,"Sun, Mar 19, 2017",2017-03-19,0,0,0,2017
+"Washington Wizards","Boston Celtics",102,110,"Mon, Mar 20, 2017",2017-03-20,0,0,1,2017
+"Atlanta Hawks","Charlotte Hornets",90,105,"Mon, Mar 20, 2017",2017-03-20,0,0,0,2017
+"Denver Nuggets","Houston Rockets",124,125,"Mon, Mar 20, 2017",2017-03-20,0,0,0,2017
+"Utah Jazz","Indiana Pacers",100,107,"Mon, Mar 20, 2017",2017-03-20,0,0,1,2017
+"New York Knicks","Los Angeles Clippers",105,114,"Mon, Mar 20, 2017",2017-03-20,0,0,0,2017
+"Golden State Warriors","Oklahoma City Thunder",111,95,"Mon, Mar 20, 2017",2017-03-20,0,0,0,2017
+"Philadelphia 76ers","Orlando Magic",109,112,"Mon, Mar 20, 2017",2017-03-20,0,1,0,2017
+"Detroit Pistons","Brooklyn Nets",96,98,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"Golden State Warriors","Dallas Mavericks",112,87,"Tue, Mar 21, 2017",2017-03-21,0,1,0,2017
+"Los Angeles Clippers","Los Angeles Lakers",133,109,"Tue, Mar 21, 2017",2017-03-21,0,1,0,2017
+"Phoenix Suns","Miami Heat",97,112,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"San Antonio Spurs","Minnesota Timberwolves",100,93,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"Memphis Grizzlies","New Orleans Pelicans",82,95,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"Milwaukee Bucks","Portland Trail Blazers",93,90,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"Chicago Bulls","Toronto Raptors",120,122,"Tue, Mar 21, 2017",2017-03-21,0,0,0,2017
+"Indiana Pacers","Boston Celtics",100,109,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Detroit Pistons","Chicago Bulls",95,117,"Wed, Mar 22, 2017",2017-03-22,0,1,1,2017
+"Cleveland Cavaliers","Denver Nuggets",113,126,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Philadelphia 76ers","Oklahoma City Thunder",97,122,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Charlotte Hornets","Orlando Magic",109,102,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Milwaukee Bucks","Sacramento Kings",116,98,"Wed, Mar 22, 2017",2017-03-22,0,1,0,2017
+"New York Knicks","Utah Jazz",101,108,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Atlanta Hawks","Washington Wizards",100,104,"Wed, Mar 22, 2017",2017-03-22,0,0,0,2017
+"Phoenix Suns","Brooklyn Nets",98,126,"Thu, Mar 23, 2017",2017-03-23,0,0,0,2017
+"Los Angeles Clippers","Dallas Mavericks",95,97,"Thu, Mar 23, 2017",2017-03-23,0,0,0,2017
+"Toronto Raptors","Miami Heat",101,84,"Thu, Mar 23, 2017",2017-03-23,0,0,0,2017
+"New York Knicks","Portland Trail Blazers",95,110,"Thu, Mar 23, 2017",2017-03-23,0,1,0,2017
+"Memphis Grizzlies","San Antonio Spurs",90,97,"Thu, Mar 23, 2017",2017-03-23,0,0,0,2017
+"Phoenix Suns","Boston Celtics",120,130,"Fri, Mar 24, 2017",2017-03-24,0,1,0,2017
+"Philadelphia 76ers","Chicago Bulls",117,107,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Cleveland Cavaliers","Charlotte Hornets",112,105,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Sacramento Kings","Golden State Warriors",100,114,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"New Orleans Pelicans","Houston Rockets",107,117,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Denver Nuggets","Indiana Pacers",125,117,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Minnesota Timberwolves","Los Angeles Lakers",119,130,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Atlanta Hawks","Milwaukee Bucks",97,100,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Detroit Pistons","Orlando Magic",87,115,"Fri, Mar 24, 2017",2017-03-24,0,0,0,2017
+"Brooklyn Nets","Washington Wizards",108,129,"Fri, Mar 24, 2017",2017-03-24,0,1,0,2017
+"Washington Wizards","Cleveland Cavaliers",127,115,"Sat, Mar 25, 2017",2017-03-25,0,1,1,2017
+"Toronto Raptors","Dallas Mavericks",94,86,"Sat, Mar 25, 2017",2017-03-25,0,0,0,2017
+"Utah Jazz","Los Angeles Clippers",95,108,"Sat, Mar 25, 2017",2017-03-25,0,0,0,2017
+"Minnesota Timberwolves","Portland Trail Blazers",100,112,"Sat, Mar 25, 2017",2017-03-25,0,1,0,2017
+"New York Knicks","San Antonio Spurs",98,106,"Sat, Mar 25, 2017",2017-03-25,0,0,0,2017
+"Brooklyn Nets","Atlanta Hawks",107,92,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Miami Heat","Boston Celtics",108,112,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Phoenix Suns","Charlotte Hornets",106,120,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"New Orleans Pelicans","Denver Nuggets",115,90,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Memphis Grizzlies","Golden State Warriors",94,106,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Oklahoma City Thunder","Houston Rockets",125,137,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Philadelphia 76ers","Indiana Pacers",94,107,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Sacramento Kings","Los Angeles Clippers",98,97,"Sun, Mar 26, 2017",2017-03-26,0,0,1,2017
+"Portland Trail Blazers","Los Angeles Lakers",97,81,"Sun, Mar 26, 2017",2017-03-26,0,1,0,2017
+"Chicago Bulls","Milwaukee Bucks",109,94,"Sun, Mar 26, 2017",2017-03-26,0,0,0,2017
+"Oklahoma City Thunder","Dallas Mavericks",92,91,"Mon, Mar 27, 2017",2017-03-27,0,1,0,2017
+"Detroit Pistons","New York Knicks",95,109,"Mon, Mar 27, 2017",2017-03-27,0,0,0,2017
+"Memphis Grizzlies","Sacramento Kings",90,91,"Mon, Mar 27, 2017",2017-03-27,0,1,1,2017
+"Cleveland Cavaliers","San Antonio Spurs",74,103,"Mon, Mar 27, 2017",2017-03-27,0,0,0,2017
+"Orlando Magic","Toronto Raptors",112,131,"Mon, Mar 27, 2017",2017-03-27,0,0,0,2017
+"New Orleans Pelicans","Utah Jazz",100,108,"Mon, Mar 27, 2017",2017-03-27,0,1,0,2017
+"Phoenix Suns","Atlanta Hawks",91,95,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Philadelphia 76ers","Brooklyn Nets",106,101,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Milwaukee Bucks","Charlotte Hornets",118,108,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Miami Heat","Detroit Pistons",97,96,"Tue, Mar 28, 2017",2017-03-28,0,0,1,2017
+"Golden State Warriors","Houston Rockets",113,106,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Minnesota Timberwolves","Indiana Pacers",115,114,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Washington Wizards","Los Angeles Lakers",119,108,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Denver Nuggets","Portland Trail Blazers",113,122,"Tue, Mar 28, 2017",2017-03-28,0,0,0,2017
+"Milwaukee Bucks","Boston Celtics",103,100,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Washington Wizards","Los Angeles Clippers",124,133,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Indiana Pacers","Memphis Grizzlies",97,110,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Dallas Mavericks","New Orleans Pelicans",118,121,"Wed, Mar 29, 2017",2017-03-29,0,0,0,2017
+"Miami Heat","New York Knicks",105,88,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Oklahoma City Thunder","Orlando Magic",114,106,"Wed, Mar 29, 2017",2017-03-29,0,0,0,2017
+"Atlanta Hawks","Philadelphia 76ers",99,92,"Wed, Mar 29, 2017",2017-03-29,0,1,1,2017
+"Utah Jazz","Sacramento Kings",112,82,"Wed, Mar 29, 2017",2017-03-29,0,0,0,2017
+"Golden State Warriors","San Antonio Spurs",110,98,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Charlotte Hornets","Toronto Raptors",110,106,"Wed, Mar 29, 2017",2017-03-29,0,1,0,2017
+"Cleveland Cavaliers","Chicago Bulls",93,99,"Thu, Mar 30, 2017",2017-03-30,0,0,0,2017
+"Brooklyn Nets","Detroit Pistons",89,90,"Thu, Mar 30, 2017",2017-03-30,0,0,0,2017
+"Los Angeles Lakers","Minnesota Timberwolves",104,119,"Thu, Mar 30, 2017",2017-03-30,0,0,0,2017
+"Los Angeles Clippers","Phoenix Suns",124,118,"Thu, Mar 30, 2017",2017-03-30,0,1,0,2017
+"Houston Rockets","Portland Trail Blazers",107,117,"Thu, Mar 30, 2017",2017-03-30,0,0,0,2017
+"Orlando Magic","Boston Celtics",116,117,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Denver Nuggets","Charlotte Hornets",114,122,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Philadelphia 76ers","Cleveland Cavaliers",105,122,"Fri, Mar 31, 2017",2017-03-31,0,0,1,2017
+"Houston Rockets","Golden State Warriors",98,107,"Fri, Mar 31, 2017",2017-03-31,0,1,0,2017
+"Dallas Mavericks","Memphis Grizzlies",90,99,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"New York Knicks","Miami Heat",98,94,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Detroit Pistons","Milwaukee Bucks",105,108,"Fri, Mar 31, 2017",2017-03-31,0,1,0,2017
+"Sacramento Kings","New Orleans Pelicans",89,117,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"San Antonio Spurs","Oklahoma City Thunder",100,95,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Indiana Pacers","Toronto Raptors",100,111,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Washington Wizards","Utah Jazz",88,95,"Fri, Mar 31, 2017",2017-03-31,0,0,0,2017
+"Orlando Magic","Brooklyn Nets",111,121,"Sat, Apr 1, 2017",2017-04-01,0,1,0,2017
+"Atlanta Hawks","Chicago Bulls",104,106,"Sat, Apr 1, 2017",2017-04-01,0,0,0,2017
+"Los Angeles Lakers","Los Angeles Clippers",104,115,"Sat, Apr 1, 2017",2017-04-01,0,0,0,2017
+"Sacramento Kings","Minnesota Timberwolves",123,117,"Sat, Apr 1, 2017",2017-04-01,0,1,0,2017
+"Phoenix Suns","Portland Trail Blazers",117,130,"Sat, Apr 1, 2017",2017-04-01,0,0,0,2017
+"Atlanta Hawks","Brooklyn Nets",82,91,"Sun, Apr 2, 2017",2017-04-02,0,1,1,2017
+"Indiana Pacers","Cleveland Cavaliers",130,135,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Washington Wizards","Golden State Warriors",115,139,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Memphis Grizzlies","Los Angeles Lakers",103,108,"Sun, Apr 2, 2017",2017-04-02,0,0,1,2017
+"Denver Nuggets","Miami Heat",116,113,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Dallas Mavericks","Milwaukee Bucks",109,105,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Chicago Bulls","New Orleans Pelicans",117,110,"Sun, Apr 2, 2017",2017-04-02,0,1,0,2017
+"Boston Celtics","New York Knicks",110,94,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Charlotte Hornets","Oklahoma City Thunder",113,101,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Houston Rockets","Phoenix Suns",123,116,"Sun, Apr 2, 2017",2017-04-02,0,0,1,2017
+"Utah Jazz","San Antonio Spurs",103,109,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Philadelphia 76ers","Toronto Raptors",105,113,"Sun, Apr 2, 2017",2017-04-02,0,0,0,2017
+"Portland Trail Blazers","Minnesota Timberwolves",109,110,"Mon, Apr 3, 2017",2017-04-03,0,0,0,2017
+"Orlando Magic","Cleveland Cavaliers",102,122,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Minnesota Timberwolves","Golden State Warriors",107,121,"Tue, Apr 4, 2017",2017-04-04,0,1,0,2017
+"Toronto Raptors","Indiana Pacers",90,108,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Denver Nuggets","New Orleans Pelicans",134,131,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Chicago Bulls","New York Knicks",91,100,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Milwaukee Bucks","Oklahoma City Thunder",79,110,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Brooklyn Nets","Philadelphia 76ers",141,118,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Dallas Mavericks","Sacramento Kings",87,98,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Memphis Grizzlies","San Antonio Spurs",89,95,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Portland Trail Blazers","Utah Jazz",87,106,"Tue, Apr 4, 2017",2017-04-04,0,1,0,2017
+"Charlotte Hornets","Washington Wizards",111,118,"Tue, Apr 4, 2017",2017-04-04,0,0,0,2017
+"Cleveland Cavaliers","Boston Celtics",114,91,"Wed, Apr 5, 2017",2017-04-05,0,1,0,2017
+"Miami Heat","Charlotte Hornets",112,99,"Wed, Apr 5, 2017",2017-04-05,0,0,1,2017
+"Toronto Raptors","Detroit Pistons",105,102,"Wed, Apr 5, 2017",2017-04-05,0,1,0,2017
+"Denver Nuggets","Houston Rockets",104,110,"Wed, Apr 5, 2017",2017-04-05,0,1,0,2017
+"Dallas Mavericks","Los Angeles Clippers",101,112,"Wed, Apr 5, 2017",2017-04-05,0,1,0,2017
+"Oklahoma City Thunder","Memphis Grizzlies",103,100,"Wed, Apr 5, 2017",2017-04-05,0,1,1,2017
+"Golden State Warriors","Phoenix Suns",120,111,"Wed, Apr 5, 2017",2017-04-05,0,1,0,2017
+"Los Angeles Lakers","San Antonio Spurs",102,95,"Wed, Apr 5, 2017",2017-04-05,0,0,1,2017
+"Boston Celtics","Atlanta Hawks",116,123,"Thu, Apr 6, 2017",2017-04-06,0,1,0,2017
+"Milwaukee Bucks","Indiana Pacers",89,104,"Thu, Apr 6, 2017",2017-04-06,0,0,0,2017
+"Washington Wizards","New York Knicks",106,103,"Thu, Apr 6, 2017",2017-04-06,0,0,0,2017
+"Brooklyn Nets","Orlando Magic",107,115,"Thu, Apr 6, 2017",2017-04-06,0,0,0,2017
+"Chicago Bulls","Philadelphia 76ers",102,90,"Thu, Apr 6, 2017",2017-04-06,0,0,0,2017
+"Minnesota Timberwolves","Portland Trail Blazers",98,105,"Thu, Apr 6, 2017",2017-04-06,0,0,0,2017
+"Atlanta Hawks","Cleveland Cavaliers",114,100,"Fri, Apr 7, 2017",2017-04-07,0,1,0,2017
+"San Antonio Spurs","Dallas Mavericks",102,89,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"New Orleans Pelicans","Denver Nuggets",106,122,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"Detroit Pistons","Houston Rockets",114,109,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"Sacramento Kings","Los Angeles Lakers",94,98,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"New York Knicks","Memphis Grizzlies",88,101,"Fri, Apr 7, 2017",2017-04-07,0,1,0,2017
+"Oklahoma City Thunder","Phoenix Suns",99,120,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"Miami Heat","Toronto Raptors",94,96,"Fri, Apr 7, 2017",2017-04-07,0,0,0,2017
+"Minnesota Timberwolves","Utah Jazz",113,120,"Fri, Apr 7, 2017",2017-04-07,0,1,0,2017
+"Chicago Bulls","Brooklyn Nets",106,107,"Sat, Apr 8, 2017",2017-04-08,0,0,0,2017
+"Boston Celtics","Charlotte Hornets",121,114,"Sat, Apr 8, 2017",2017-04-08,0,0,0,2017
+"New Orleans Pelicans","Golden State Warriors",101,123,"Sat, Apr 8, 2017",2017-04-08,0,1,0,2017
+"Indiana Pacers","Orlando Magic",127,112,"Sat, Apr 8, 2017",2017-04-08,0,0,0,2017
+"Milwaukee Bucks","Philadelphia 76ers",90,82,"Sat, Apr 8, 2017",2017-04-08,0,0,0,2017
+"Utah Jazz","Portland Trail Blazers",86,101,"Sat, Apr 8, 2017",2017-04-08,0,1,0,2017
+"Los Angeles Clippers","San Antonio Spurs",98,87,"Sat, Apr 8, 2017",2017-04-08,0,0,1,2017
+"Miami Heat","Washington Wizards",106,103,"Sat, Apr 8, 2017",2017-04-08,0,1,0,2017
+"Cleveland Cavaliers","Atlanta Hawks",125,126,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Oklahoma City Thunder","Denver Nuggets",106,105,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Minnesota Timberwolves","Los Angeles Lakers",109,110,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Detroit Pistons","Memphis Grizzlies",103,90,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Toronto Raptors","New York Knicks",110,97,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Dallas Mavericks","Phoenix Suns",111,124,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Houston Rockets","Sacramento Kings",135,128,"Sun, Apr 9, 2017",2017-04-09,0,0,0,2017
+"Brooklyn Nets","Boston Celtics",105,114,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"Orlando Magic","Chicago Bulls",75,122,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"Washington Wizards","Detroit Pistons",105,101,"Mon, Apr 10, 2017",2017-04-10,0,0,1,2017
+"Utah Jazz","Golden State Warriors",105,99,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"Houston Rockets","Los Angeles Clippers",96,125,"Mon, Apr 10, 2017",2017-04-10,0,1,0,2017
+"Cleveland Cavaliers","Miami Heat",121,124,"Mon, Apr 10, 2017",2017-04-10,0,1,0,2017
+"Charlotte Hornets","Milwaukee Bucks",79,89,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"Indiana Pacers","Philadelphia 76ers",120,111,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"San Antonio Spurs","Portland Trail Blazers",98,99,"Mon, Apr 10, 2017",2017-04-10,0,0,0,2017
+"Charlotte Hornets","Atlanta Hawks",76,103,"Tue, Apr 11, 2017",2017-04-11,0,1,0,2017
+"Denver Nuggets","Dallas Mavericks",109,91,"Tue, Apr 11, 2017",2017-04-11,0,0,0,2017
+"New Orleans Pelicans","Los Angeles Lakers",96,108,"Tue, Apr 11, 2017",2017-04-11,0,0,0,2017
+"Oklahoma City Thunder","Minnesota Timberwolves",100,98,"Tue, Apr 11, 2017",2017-04-11,0,0,0,2017
+"Phoenix Suns","Sacramento Kings",104,129,"Tue, Apr 11, 2017",2017-04-11,0,0,0,2017
+"Milwaukee Bucks","Boston Celtics",94,112,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"Brooklyn Nets","Chicago Bulls",73,112,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"Toronto Raptors","Cleveland Cavaliers",98,83,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"Los Angeles Lakers","Golden State Warriors",94,109,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"Minnesota Timberwolves","Houston Rockets",118,123,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"Atlanta Hawks","Indiana Pacers",86,104,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"Sacramento Kings","Los Angeles Clippers",95,115,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"Dallas Mavericks","Memphis Grizzlies",100,93,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"Washington Wizards","Miami Heat",102,110,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"Philadelphia 76ers","New York Knicks",113,114,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"Denver Nuggets","Oklahoma City Thunder",111,105,"Wed, Apr 12, 2017",2017-04-12,0,1,1,2017
+"Detroit Pistons","Orlando Magic",109,113,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
+"New Orleans Pelicans","Portland Trail Blazers",103,100,"Wed, Apr 12, 2017",2017-04-12,0,1,0,2017
+"San Antonio Spurs","Utah Jazz",97,101,"Wed, Apr 12, 2017",2017-04-12,0,0,0,2017
