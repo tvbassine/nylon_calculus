@@ -5,6 +5,7 @@
 ################################################################
 
 # Read in the data:
+setwd("~/Desktop/nylon_calculus/draft_pick_value_project/data")
 x <- read.csv('pre_processed_data.csv', stringsAsFactors = F)
 
 # Plot some relationships!!
@@ -133,3 +134,21 @@ plot(1:6, cors,
      main = 'How Does A Team\'s Draft Position In Future Years \nCorrelate With Their Current Season Draft Position?')
 
 which(x$rank_5 == 1)
+
+
+###############################################################
+# Beta regression of future lottery position based on 
+# x years ago.
+
+library(betareg)
+
+# Make draft position a percentile:
+x$rank_percentile <- x$rank / 30.1
+
+x$rank1_percentile <- x$rank_1 / 30.1
+
+summary(fit <- betareg(rank1_percentile ~ rank_percentile,
+                       data = x))
+
+predict(fit, newdata = data.frame(rank_percentile = seq(1,30) / 30.5),
+        type = 'response',) * 30.1
