@@ -66,14 +66,15 @@ beeswarm(rank_1 ~ rank_binned, data = x,
          ylab = 'Draft Position Next Season',
          main = 'How Does A Team\'s Draft Position Relate to Its Draft Position Next Year?')
 
-# 3 Year Plot- I kind of like this one but it might be a bit too cluttered.
-beeswarm(rank_3 ~ rank_binned, data = x, 
+par(mfrow = c(1,2))
+# 1 Year Plot- I kind of like this one but it might be a bit too cluttered.
+beeswarm(rank_1 ~ rank_binned, data = x, 
          log = F, pch = 16, col = rainbow(8),
          ylim = c(-2,30),
          yaxt = 'n',
          xlab = 'Draft Position This Season (Pre-Lottery)',
-         ylab = 'Draft Position In 3 Seasons (Pre-Lottery)',
-         main = 'How Does A Team\'s Draft Position Now Relate to \nIts Draft Position 3 Years From Now?')
+         ylab = 'Draft Position Next Seasons (Pre-Lottery)',
+         main = 'How Does A Team\'s Draft Position Now Relate to \nIts Draft Position Next Year?')
 axis(2, c(1, seq(5,30,5)))
 text(2, -1, 'Worse Records')
 text(5, -1, 'Better Records')
