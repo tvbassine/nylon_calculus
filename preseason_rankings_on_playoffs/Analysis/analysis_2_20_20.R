@@ -9,7 +9,7 @@
 # Read data and analysis.
 
 # Read data:
-setwd("/Users/thomasbassine/Desktop/Threes and Layups Articles/Playoff Probabilities/Data")
+setwd("/Users/thomasbassine/Desktop/nylon_calculus/preseason_rankings_on_playoffs/Data")
 y <- read.csv('playoffs_2003_2018.csv',
               stringsAsFactors = F)
 y$year <- 0
@@ -131,8 +131,9 @@ model <- glm(home_win ~ net + log_title_prob_diff,
 summary(model)
 
 # Some test examples:
+# Clippers and Mavericks
 predict(model, newdata = data.frame(net = 0.2, 
-                                    log_title_prob_diff = log(100 * .25 + 1) - log(100 * .012 + 1)),
+                                    log_title_prob_diff = log(100 * .01 + 1) - log(100 * .01 + 1)),
         type = 'response')
 
 predict(model, newdata = data.frame(net = 0, 
